@@ -1,0 +1,842 @@
+L 08/07/2025 - 07:20:45: Start of error session.
+L 08/07/2025 - 07:20:45: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 07:20:45: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 07:20:45: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 07:20:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 07:23:13: Start of error session.
+L 08/07/2025 - 07:23:13: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 07:23:13: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 07:23:13: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 07:23:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 07:30:09: Start of error session.
+L 08/07/2025 - 07:30:09: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 07:30:09: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 07:30:09: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 07:30:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 07:31:54: Start of error session.
+L 08/07/2025 - 07:31:54: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 07:31:54: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 07:31:54: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 07:31:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 07:33:20: Start of error session.
+L 08/07/2025 - 07:33:20: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 07:33:20: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 07:33:20: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 07:33:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 07:35:17: Start of error session.
+L 08/07/2025 - 07:35:17: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 07:35:17: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 07:35:17: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 07:35:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 07:38:35: Start of error session.
+L 08/07/2025 - 07:38:35: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 07:38:35: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 07:38:35: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 07:38:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 07:47:05: Start of error session.
+L 08/07/2025 - 07:47:05: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 07:47:05: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 07:47:05: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 07:47:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 07:47:22: Start of error session.
+L 08/07/2025 - 07:47:22: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 07:47:22: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 07:47:22: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 07:47:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 07:48:27: Start of error session.
+L 08/07/2025 - 07:48:27: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 07:48:27: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 07:48:27: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 07:48:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 07:48:41: Start of error session.
+L 08/07/2025 - 07:48:41: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 07:48:41: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 07:48:41: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 07:48:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 07:53:17: Start of error session.
+L 08/07/2025 - 07:53:17: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 07:53:17: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 07:53:17: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 07:53:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 07:55:08: Start of error session.
+L 08/07/2025 - 07:55:08: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 07:55:08: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 07:55:08: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 07:55:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 07:57:17: Start of error session.
+L 08/07/2025 - 07:57:17: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 07:57:17: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 07:57:17: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 07:57:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 07:59:07: Start of error session.
+L 08/07/2025 - 07:59:07: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 07:59:07: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 07:59:07: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 07:59:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 08:00:36: Start of error session.
+L 08/07/2025 - 08:00:36: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 08:00:36: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 08:00:36: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 08:00:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 08:06:42: Start of error session.
+L 08/07/2025 - 08:06:42: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 08:06:42: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 08:06:42: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 08:06:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 08:08:19: Start of error session.
+L 08/07/2025 - 08:08:19: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 08:08:19: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 08:08:19: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 08:08:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 08:08:34: Start of error session.
+L 08/07/2025 - 08:08:34: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 08:08:34: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 08:08:34: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 08:08:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 08:12:02: Start of error session.
+L 08/07/2025 - 08:12:02: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 08:12:02: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 08:12:02: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 08:12:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 08:13:31: Start of error session.
+L 08/07/2025 - 08:13:31: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 08:13:31: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 08:13:31: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 08:13:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 08:17:55: Start of error session.
+L 08/07/2025 - 08:17:55: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 08:17:55: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 08:17:55: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 08:17:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 08:20:11: Start of error session.
+L 08/07/2025 - 08:20:11: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 08:20:11: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 08:20:11: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 08:20:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 08:22:11: Start of error session.
+L 08/07/2025 - 08:22:11: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 08:22:11: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 08:22:11: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 08:22:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 08:25:22: Start of error session.
+L 08/07/2025 - 08:25:22: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 08:25:22: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 08:25:22: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 08:25:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 08:30:28: Start of error session.
+L 08/07/2025 - 08:30:28: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 08:30:28: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 08:30:28: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 08:30:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 08:33:28: Start of error session.
+L 08/07/2025 - 08:33:28: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 08:33:28: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 08:33:28: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 08:33:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 08:33:46: Start of error session.
+L 08/07/2025 - 08:33:46: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 08:33:46: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 08:33:46: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 08:33:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 08:35:48: Start of error session.
+L 08/07/2025 - 08:35:48: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 08:35:48: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 08:35:48: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 08:35:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 08:36:04: Start of error session.
+L 08/07/2025 - 08:36:04: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 08:36:04: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 08:36:04: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 08:36:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 08:41:11: Start of error session.
+L 08/07/2025 - 08:41:11: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 08:41:11: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 08:41:11: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 08:41:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 08:48:10: Start of error session.
+L 08/07/2025 - 08:48:10: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 08:48:10: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 08:48:10: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 08:48:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 08:50:02: Start of error session.
+L 08/07/2025 - 08:50:02: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 08:50:02: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 08:50:02: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 08:50:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 09:13:11: Start of error session.
+L 08/07/2025 - 09:13:11: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 09:13:11: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 09:13:11: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 09:13:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 09:13:40: Start of error session.
+L 08/07/2025 - 09:13:40: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 09:13:40: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 09:13:40: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 09:13:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 09:14:24: Start of error session.
+L 08/07/2025 - 09:14:24: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 09:14:24: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 09:14:24: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 09:14:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 09:24:19: Start of error session.
+L 08/07/2025 - 09:24:19: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 09:24:19: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 09:24:19: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 09:24:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 09:26:36: Start of error session.
+L 08/07/2025 - 09:26:36: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 09:26:36: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 09:26:36: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 09:26:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 09:29:21: Start of error session.
+L 08/07/2025 - 09:29:21: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 09:29:21: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 09:29:21: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 09:29:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 09:29:44: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 09:29:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 09:38:55: Start of error session.
+L 08/07/2025 - 09:38:55: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 09:38:55: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 09:38:55: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 09:38:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 09:40:18: Start of error session.
+L 08/07/2025 - 09:40:18: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 09:40:18: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 09:40:18: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 09:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 09:41:20: Start of error session.
+L 08/07/2025 - 09:41:20: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 09:41:20: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 09:41:20: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 09:41:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 09:43:21: Start of error session.
+L 08/07/2025 - 09:43:21: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 09:43:21: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 09:43:21: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 09:43:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 09:44:04: Start of error session.
+L 08/07/2025 - 09:44:04: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 09:44:04: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 09:44:04: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 09:44:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 09:44:50: Start of error session.
+L 08/07/2025 - 09:44:50: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 09:44:50: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 09:44:50: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 09:44:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 10:11:11: Start of error session.
+L 08/07/2025 - 10:11:11: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 10:11:11: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 10:11:11: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 10:11:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 10:17:15: Start of error session.
+L 08/07/2025 - 10:17:15: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 10:17:15: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 10:17:15: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 10:17:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 10:18:21: Start of error session.
+L 08/07/2025 - 10:18:21: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 10:18:21: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 10:18:21: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 10:18:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 10:20:15: Start of error session.
+L 08/07/2025 - 10:20:15: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 10:20:15: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 10:20:15: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 10:20:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 10:32:17: Start of error session.
+L 08/07/2025 - 10:32:17: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 10:32:17: [AMXX] Load error 17 (invalid file format or version) (plugin "zp_vip_skin.amxx")
+L 08/07/2025 - 10:32:19: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 10:32:19: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 10:32:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 10:35:22: Start of error session.
+L 08/07/2025 - 10:35:22: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 10:35:22: [AMXX] Load error 17 (invalid file format or version) (plugin "zp_vip_skin.amxx")
+L 08/07/2025 - 10:35:25: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 10:35:25: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 10:35:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 10:41:22: Start of error session.
+L 08/07/2025 - 10:41:22: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 10:41:22: [AMXX] Load error 17 (invalid file format or version) (plugin "zp_vip_skin_selector.amxx")
+L 08/07/2025 - 10:41:25: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 10:41:25: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 10:41:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 10:43:53: Start of error session.
+L 08/07/2025 - 10:43:53: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 10:43:53: [AMXX] Load error 17 (invalid file format or version) (plugin "zp_vip_skin_selector.amxx")
+L 08/07/2025 - 10:43:55: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 10:43:55: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 10:43:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 10:45:38: Start of error session.
+L 08/07/2025 - 10:45:38: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 10:45:38: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 10:45:38: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 10:45:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 10:52:36: Start of error session.
+L 08/07/2025 - 10:52:36: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 10:52:36: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 10:52:36: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 10:52:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 10:59:32: Start of error session.
+L 08/07/2025 - 10:59:32: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 10:59:32: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 10:59:32: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 10:59:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 10:59:58: Start of error session.
+L 08/07/2025 - 10:59:58: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 10:59:58: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 10:59:58: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 10:59:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 11:30:16: Start of error session.
+L 08/07/2025 - 11:30:16: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 11:30:16: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 11:30:16: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 11:30:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 11:30:45: Start of error session.
+L 08/07/2025 - 11:30:45: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 11:30:45: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 11:30:45: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 11:30:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 11:33:38: Start of error session.
+L 08/07/2025 - 11:33:38: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 11:33:38: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 11:33:38: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 11:33:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 11:35:35: Start of error session.
+L 08/07/2025 - 11:35:35: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 11:35:35: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 11:35:35: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 11:35:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 11:39:40: Start of error session.
+L 08/07/2025 - 11:39:40: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 11:39:40: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 11:39:40: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 11:39:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 11:39:58: Start of error session.
+L 08/07/2025 - 11:39:58: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 11:39:58: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 11:39:58: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 11:39:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 12:48:32: Start of error session.
+L 08/07/2025 - 12:48:32: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 12:48:32: [AMXX] Load error 17 (invalid file format or version) (plugin "zp_vip_skin_selector.amxx")
+L 08/07/2025 - 12:48:43: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 12:48:43: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 12:48:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 13:00:28: Start of error session.
+L 08/07/2025 - 13:00:28: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 13:00:28: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 13:00:30: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 13:00:30: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 13:00:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 13:06:11: Start of error session.
+L 08/07/2025 - 13:06:11: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 13:06:11: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 13:06:13: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 13:06:13: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 13:06:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 13:11:14: Start of error session.
+L 08/07/2025 - 13:11:14: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 13:11:14: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 13:11:16: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 13:11:16: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 13:11:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 13:18:08: Start of error session.
+L 08/07/2025 - 13:18:08: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 13:18:08: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 13:18:10: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 13:18:10: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 13:18:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 13:19:41: Start of error session.
+L 08/07/2025 - 13:19:41: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 13:19:41: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 13:19:47: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 13:19:47: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 13:19:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 13:22:24: Start of error session.
+L 08/07/2025 - 13:22:24: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 13:22:24: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 13:22:26: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 13:22:26: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 13:22:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 13:30:22: Start of error session.
+L 08/07/2025 - 13:30:22: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 13:30:22: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 13:30:32: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 13:30:32: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 13:30:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 14:05:20: Start of error session.
+L 08/07/2025 - 14:05:20: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 14:05:20: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 14:05:26: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 14:05:26: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 14:05:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 14:07:49: Start of error session.
+L 08/07/2025 - 14:07:49: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 14:07:49: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 14:07:52: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 14:07:52: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 14:07:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 16:21:59: Start of error session.
+L 08/07/2025 - 16:21:59: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 16:21:59: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 16:22:05: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 16:22:05: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 16:22:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 16:24:48: Start of error session.
+L 08/07/2025 - 16:24:48: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 16:24:48: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 16:24:54: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 16:24:54: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 16:24:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 16:29:40: Start of error session.
+L 08/07/2025 - 16:29:40: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 16:29:40: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 16:29:42: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 16:29:42: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 16:29:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 16:38:29: Start of error session.
+L 08/07/2025 - 16:38:29: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 16:38:29: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 16:40:37: Start of error session.
+L 08/07/2025 - 16:40:37: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 16:40:37: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 16:46:04: Start of error session.
+L 08/07/2025 - 16:46:04: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 16:46:04: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 16:46:04: [AMXX] Plugin file open error (plugin "zp_show_zombie_damage.amxx")
+L 08/07/2025 - 16:46:06: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 16:46:06: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 16:46:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 16:49:09: Start of error session.
+L 08/07/2025 - 16:49:09: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 16:49:09: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 16:49:09: [AMXX] Plugin file open error (plugin "zp_show_zombie_damage.amxx")
+L 08/07/2025 - 16:49:12: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 16:49:12: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 16:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 16:53:33: Start of error session.
+L 08/07/2025 - 16:53:33: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 16:53:33: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 16:53:33: [AMXX] Plugin file open error (plugin "zp_show_zombie_damage.amxx")
+L 08/07/2025 - 16:53:35: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 16:53:35: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 16:53:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 16:56:57: Start of error session.
+L 08/07/2025 - 16:56:57: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 16:56:57: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 16:56:57: [AMXX] Plugin file open error (plugin "zp_show_zombie_damage.amxx")
+L 08/07/2025 - 16:56:59: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 16:56:59: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 16:56:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 16:57:51: Start of error session.
+L 08/07/2025 - 16:57:51: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 16:57:51: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 16:57:53: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 16:57:53: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 16:57:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 16:58:58: Start of error session.
+L 08/07/2025 - 16:58:58: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 16:58:58: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 16:59:00: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 16:59:00: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 16:59:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:15:52: Start of error session.
+L 08/07/2025 - 17:15:52: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 17:15:52: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 17:15:56: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 17:15:56: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 17:15:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:17:03: Start of error session.
+L 08/07/2025 - 17:17:03: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 17:17:03: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 17:17:06: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 17:17:06: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 17:17:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:23:48: Start of error session.
+L 08/07/2025 - 17:23:48: Info (map "zm_gbox7") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 17:23:48: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 17:23:52: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 17:23:52: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 17:23:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:35:09: Start of error session.
+L 08/07/2025 - 17:35:09: Info (map "zm_gbox7") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 17:35:09: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 17:35:13: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 17:35:13: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 17:35:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:35:42: Start of error session.
+L 08/07/2025 - 17:35:42: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 17:35:42: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 17:35:44: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 17:35:44: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 17:35:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:38:47: Start of error session.
+L 08/07/2025 - 17:38:47: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 17:38:47: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 17:38:51: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 17:38:51: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 17:38:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:39:38: Start of error session.
+L 08/07/2025 - 17:39:38: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 17:39:38: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 17:39:40: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 17:39:40: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 17:39:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:06: Start of error session.
+L 08/07/2025 - 17:40:06: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 17:40:06: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 17:40:10: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:11: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:12: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:13: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:14: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:15: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:16: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:17: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:18: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:19: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:20: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:21: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:22: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:23: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:24: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:25: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:26: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:27: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:28: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:29: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:30: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:31: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:32: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:33: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:34: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:35: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:36: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:37: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:40:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:40:55: Start of error session.
+L 08/07/2025 - 17:40:55: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 17:40:55: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 17:40:57: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 17:40:57: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 17:40:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:41:13: Start of error session.
+L 08/07/2025 - 17:41:13: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 17:41:13: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 17:41:17: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 17:41:17: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 17:41:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:45:20: Start of error session.
+L 08/07/2025 - 17:45:20: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 17:45:20: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 17:45:22: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 17:45:22: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 17:45:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:49:23: Start of error session.
+L 08/07/2025 - 17:49:23: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 17:49:23: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 17:49:26: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:49:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:49:27: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:49:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:49:28: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:49:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:49:29: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:49:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:49:30: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:49:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:49:31: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:49:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:49:32: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:49:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:49:33: [AMXX] Run time error 4 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/07/2025 - 17:49:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:49:43: Start of error session.
+L 08/07/2025 - 17:49:43: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 17:49:43: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 17:50:58: Start of error session.
+L 08/07/2025 - 17:50:58: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 17:50:58: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 17:51:03: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 17:51:03: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 17:51:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 17:51:54: Start of error session.
+L 08/07/2025 - 17:51:54: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 17:51:54: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 17:51:56: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 17:51:56: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 17:51:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 18:17:48: Start of error session.
+L 08/07/2025 - 18:17:48: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 18:17:48: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 18:17:57: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 18:17:57: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 18:17:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 18:39:39: Start of error session.
+L 08/07/2025 - 18:39:39: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 18:39:39: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 18:39:42: Function is not present (function "task_monitor_hp_armor") (plugin "zp_level_system.amxx")
+L 08/07/2025 - 18:39:42: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "set_task") - debug not enabled!
+L 08/07/2025 - 18:39:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 18:56:31: Start of error session.
+L 08/07/2025 - 18:56:31: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 18:56:31: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 18:56:48: Start of error session.
+L 08/07/2025 - 18:56:48: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 18:56:48: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 18:58:00: Start of error session.
+L 08/07/2025 - 18:58:00: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 18:58:00: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 19:01:46: Start of error session.
+L 08/07/2025 - 19:01:46: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 19:01:46: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 19:02:12: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:02:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:02:19: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:02:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:02:28: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:02:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:02:37: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:02:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:02:48: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:02:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:02:55: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:02:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:03:05: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:03:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:03:09: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:03:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:03:18: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:03:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:03:25: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:03:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:03:28: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:03:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:03:33: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:03:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:03:33: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:03:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:03:36: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:03:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:03:39: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:03:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:03:39: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:03:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:03:43: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:03:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:03:52: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:03:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:04:01: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:04:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:04:01: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:04:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:04:01: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:04:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:04:01: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:04:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:04:01: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:04:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:04:01: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:04:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:04:02: Start of error session.
+L 08/07/2025 - 19:04:02: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 19:04:02: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 19:04:25: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:04:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:04:42: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:04:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:04:46: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:04:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:04:54: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:04:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:04:54: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:04:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:04:54: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:04:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:04:54: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:04:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:04:54: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:04:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:04:54: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:04:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:04:54: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:04:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:04:54: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:04:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:04:54: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:04:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:04:55: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:04:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:06: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:06: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:06: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:06: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:06: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:06: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:06: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:18: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:19: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:19: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:19: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:19: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:19: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:19: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:19: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:19: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:19: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:28: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:28: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:31: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:31: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:31: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:41: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:44: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:47: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:49: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:52: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:52: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:57: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:57: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:57: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:05:57: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:05:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:06:05: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:06:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:06:08: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:06:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:06:09: Start of error session.
+L 08/07/2025 - 19:06:09: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 19:06:09: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 19:09:30: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:09:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:10:48: Start of error session.
+L 08/07/2025 - 19:10:48: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 19:10:48: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 19:11:09: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:11:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:11:09: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:11:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:13:28: Start of error session.
+L 08/07/2025 - 19:13:28: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 19:13:28: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 19:17:09: Start of error session.
+L 08/07/2025 - 19:17:09: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 19:17:09: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 19:22:12: Start of error session.
+L 08/07/2025 - 19:22:12: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 19:22:12: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 19:24:07: Start of error session.
+L 08/07/2025 - 19:24:07: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 19:24:07: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 19:24:24: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:24:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:29:08: Start of error session.
+L 08/07/2025 - 19:29:08: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 19:29:08: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 19:33:47: Start of error session.
+L 08/07/2025 - 19:33:47: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 19:33:47: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 19:37:56: Start of error session.
+L 08/07/2025 - 19:37:56: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 19:37:56: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 19:41:31: Start of error session.
+L 08/07/2025 - 19:41:31: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 19:41:31: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 19:41:48: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:41:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:41:48: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 19:41:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 19:47:09: Start of error session.
+L 08/07/2025 - 19:47:09: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 19:47:09: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 19:59:23: Start of error session.
+L 08/07/2025 - 19:59:23: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 19:59:23: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 20:01:52: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 20:01:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 20:03:57: Start of error session.
+L 08/07/2025 - 20:03:57: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 20:03:57: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 20:18:47: Start of error session.
+L 08/07/2025 - 20:18:47: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 20:18:47: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 20:29:01: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 20:29:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 20:36:47: Start of error session.
+L 08/07/2025 - 20:36:47: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 20:36:47: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 20:45:10: Start of error session.
+L 08/07/2025 - 20:45:10: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 20:45:10: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 20:55:35: Start of error session.
+L 08/07/2025 - 20:55:35: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 20:55:35: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 21:04:49: Start of error session.
+L 08/07/2025 - 21:04:49: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 21:04:49: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/07/2025 - 21:05:20: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/07/2025 - 21:05:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/07/2025 - 21:18:08: Start of error session.
+L 08/07/2025 - 21:18:08: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250807.log")
+L 08/07/2025 - 21:18:08: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")

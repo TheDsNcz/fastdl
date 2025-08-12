@@ -1,0 +1,55 @@
+L 07/28/2025 - 07:55:22: Start of error session.
+L 07/28/2025 - 07:55:22: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250728.log")
+L 07/28/2025 - 07:55:22: [AMXX] Plugin ("zombie_plague44.amxx") is setting itself as failed.
+L 07/28/2025 - 07:55:22: [AMXX] Plugin says: Cannot load customization file addons/amxmodx/configs/zombieplague.ini!
+L 07/28/2025 - 07:55:22: [AMXX] Run time error 1 (plugin "zombie_plague44.amxx") - forced exit
+L 07/28/2025 - 07:55:22: Called dynanative into a paused plugin.
+L 07/28/2025 - 07:55:22: [AMXX] Run time error 10 (plugin "zp_zclasses44.amxx") (native "zp_register_zombie_class") - debug not enabled!
+L 07/28/2025 - 07:55:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/28/2025 - 13:34:17: Start of error session.
+L 07/28/2025 - 13:34:17: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250728.log")
+L 07/28/2025 - 13:34:17: Function is not present (function "apply_fog_task") (plugin "zp_auto_fog.amxx")
+L 07/28/2025 - 13:34:17: [AMXX] Run time error 10 (plugin "zp_auto_fog.amxx") (native "set_task") - debug not enabled!
+L 07/28/2025 - 13:34:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/28/2025 - 13:34:25: Function is not present (function "apply_fog_task") (plugin "zp_auto_fog.amxx")
+L 07/28/2025 - 13:34:25: [AMXX] Run time error 10 (plugin "zp_auto_fog.amxx") (native "set_task") - debug not enabled!
+L 07/28/2025 - 13:34:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/28/2025 - 13:34:26: Function is not present (function "apply_fog_task") (plugin "zp_auto_fog.amxx")
+L 07/28/2025 - 13:34:26: [AMXX] Run time error 10 (plugin "zp_auto_fog.amxx") (native "set_task") - debug not enabled!
+L 07/28/2025 - 13:34:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/28/2025 - 13:34:26: Function is not present (function "apply_fog_task") (plugin "zp_auto_fog.amxx")
+L 07/28/2025 - 13:34:26: [AMXX] Run time error 10 (plugin "zp_auto_fog.amxx") (native "set_task") - debug not enabled!
+L 07/28/2025 - 13:34:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/28/2025 - 13:34:27: Function is not present (function "apply_fog_task") (plugin "zp_auto_fog.amxx")
+L 07/28/2025 - 13:34:27: [AMXX] Run time error 10 (plugin "zp_auto_fog.amxx") (native "set_task") - debug not enabled!
+L 07/28/2025 - 13:34:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/28/2025 - 13:34:27: Function is not present (function "apply_fog_task") (plugin "zp_auto_fog.amxx")
+L 07/28/2025 - 13:34:27: [AMXX] Run time error 10 (plugin "zp_auto_fog.amxx") (native "set_task") - debug not enabled!
+L 07/28/2025 - 13:34:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/28/2025 - 13:34:28: Function is not present (function "apply_fog_task") (plugin "zp_auto_fog.amxx")
+L 07/28/2025 - 13:34:28: [AMXX] Run time error 10 (plugin "zp_auto_fog.amxx") (native "set_task") - debug not enabled!
+L 07/28/2025 - 13:34:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/28/2025 - 13:34:28: Function is not present (function "apply_fog_task") (plugin "zp_auto_fog.amxx")
+L 07/28/2025 - 13:34:28: [AMXX] Run time error 10 (plugin "zp_auto_fog.amxx") (native "set_task") - debug not enabled!
+L 07/28/2025 - 13:34:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/28/2025 - 13:34:29: Function is not present (function "apply_fog_task") (plugin "zp_auto_fog.amxx")
+L 07/28/2025 - 13:34:29: [AMXX] Run time error 10 (plugin "zp_auto_fog.amxx") (native "set_task") - debug not enabled!
+L 07/28/2025 - 13:34:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/28/2025 - 17:27:31: Start of error session.
+L 07/28/2025 - 17:27:31: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250728.log")
+L 07/28/2025 - 17:27:31: [ZP] Invalid Player (0)
+L 07/28/2025 - 17:27:31: [AMXX] Run time error 10 (plugin "zp44_human_classes.amxx") (native "zp_get_user_zombie") - debug not enabled!
+L 07/28/2025 - 17:27:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/28/2025 - 17:34:02: Start of error session.
+L 07/28/2025 - 17:34:02: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250728.log")
+L 07/28/2025 - 17:34:02: [ZP] Invalid Player (0)
+L 07/28/2025 - 17:34:02: [AMXX] Run time error 10 (plugin "zp44_human_classes.amxx") (native "zp_get_user_zombie") - debug not enabled!
+L 07/28/2025 - 17:34:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/28/2025 - 17:48:40: Start of error session.
+L 07/28/2025 - 17:48:40: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250728.log")
+L 07/28/2025 - 17:48:40: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 07/28/2025 - 17:48:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/28/2025 - 19:53:25: Start of error session.
+L 07/28/2025 - 19:53:25: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250728.log")
+L 07/28/2025 - 19:53:25: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 07/28/2025 - 19:53:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

@@ -1,0 +1,2362 @@
+[en]
+NOTICE_INFO1 = Press M to show the game menu
+NOTICE_INFO2 = Press , or . to purchase ammo
+NOTICE_VIRUS_FREE = The T-Virus has been set loose...
+NOTICE_FIRST = %s is the first zombie !!
+NOTICE_INFECT = %s's brains has been eaten...
+NOTICE_INFECT2 = %s's brains has been eaten by %s...
+NOTICE_ANTIDOTE = %s has used an antidote...
+NOTICE_NEMESIS = %s is a Nemesis !!!
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = %s is a Survivor !!!
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_SWARM = Swarm Mode !!!
+NOTICE_MULTI = Multiple Infection !!!
+NOTICE_PLAGUE = Plague Mode !!!
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = Humans defeated the plague!
+WIN_ZOMBIE = Zombies have taken over the world!
+WIN_NO_ONE = No one won...
+
+CMD_INFECT = turned into a Zombie
+CMD_DISINFECT = turned back to Human
+CMD_NEMESIS = turned into a Nemesis
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = turned into a Survivor
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = start Swarm Mode
+CMD_MULTI = start Multiple Infection
+CMD_PLAGUE = start Plague Mode
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = respawned
+CMD_NOT = Unavailable command.
+CMD_ZOMBIE_ONLY = This is only available to zombies.
+CMD_HUMAN_ONLY = This is only available to humans.
+CMD_NOT_STUCK = You are not stuck.
+CMD_NOT_ACCESS = You have no access.
+CMD_NOT_CANTUSE = You can't use this right now.
+CMD_NOT_EXTRAS = Extra Items are disabled.
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = Zombie Classes are disabled.
+
+MENU_BUY = Buy Weapons
+MENU_EXTRABUY = Buy Extra Items
+MENU_ZCLASS = Choose Zombie Class
+MENU_UNSTUCK = Unstuck
+MENU_ADMIN = Admin Menu
+MENU_SPECTATOR = Join Spectators
+
+MENU_BUY1_TITLE = Primary Weapon
+MENU_BUY2_TITLE = Secondary Weapon
+MENU_ZCLASS_TITLE = Zombie Class
+MENU_EXTRA_TITLE = Extra Items
+MENU_ADMIN_TITLE = Admin Menu
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = NightVision (single round)
+MENU_EXTRA2 = T-Virus Antidote
+MENU_EXTRA3 = Zombie Madness
+MENU_EXTRA4 = Infection Bomb
+MENU_ADMIN1 = Make Zombie/Human
+MENU_ADMIN2 = Make Nemesis
+MENU_ADMIN3 = Make Survivor
+MENU_ADMIN4 = Respawn Someone
+MENU_ADMIN5 = Start Swarm Mode
+MENU_ADMIN6 = Start Multiple Infection
+MENU_ADMIN7 = Start Plague Mode
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = General
+MENU_INFO2 = Humans
+MENU_INFO3 = Zombies
+MENU_INFO4 = Gameplay Modes
+
+MENU_AUTOSELECT = Remember Selection
+MENU_BACK = Back
+MENU_NEXT = Next
+MENU_EXIT = Exit
+
+MOTD_ENABLED = Enabled
+MOTD_DISABLED = Disabled
+
+ZOMBIE_ATTRIB1 = Health
+ZOMBIE_ATTRIB2 = Speed
+ZOMBIE_ATTRIB3 = Gravity
+ZOMBIE_ATTRIB4 = Knockback
+
+CLASS_CLASS = Class:
+CLASS_HUMAN = Human
+CLASS_ZOMBIE = Zombie
+CLASS_SURVIVOR = Survivor
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = Nemesis
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = The last zombie has left, %s is the new zombie.
+LAST_HUMAN_LEFT = The last human has left, %s is the new human.
+NOT_ENOUGH_AMMO = You dont have enough ammo packs.
+AMMO_BOUGHT = You purchased extra ammo for your guns.
+ZOMBIE_SELECT = Your zombie class after the next infection will be
+BUY_ENABLED = Your buy menu has been re-enabled.
+AMMO_PACKS1 = Ammo packs:
+AMMO_PACKS2 = ammo packs
+SPECTATING = Spectating:
+
+[es]
+NOTICE_INFO1 = Presiona M para mostrar el menú de juego
+NOTICE_INFO2 = Presiona , o . para comprar munición
+NOTICE_VIRUS_FREE = El Virus-T se ha liberado...
+NOTICE_FIRST = %s es el primer zombie !!
+NOTICE_INFECT = %s ha perdido su cerebro...
+NOTICE_INFECT2 = %s ha perdido su cerebro a manos de %s...
+NOTICE_ANTIDOTE = %s ha usado un antídoto...
+NOTICE_NEMESIS = %s es un Nemesis !!!
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = %s es un Survivor !!!
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_SWARM = Modo Swarm !!!
+NOTICE_MULTI = Infección Multiple !!!
+NOTICE_PLAGUE = Modo Plague !!!
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = Los Humanos han vencido la plaga!
+WIN_ZOMBIE = Los Zombies han tomado el mundo!
+WIN_NO_ONE = Nadie ha ganado...
+
+CMD_INFECT = convertido en Zombie
+CMD_DISINFECT = convertido en Humano
+CMD_NEMESIS = convertido en Nemesis
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = convertido en Survivor
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = comenzar Modo Swarm
+CMD_MULTI = comenzar Infeccion Multiple
+CMD_PLAGUE = comenzar Modo Plague
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = revivido
+CMD_NOT = Comando no disponible.
+CMD_ZOMBIE_ONLY = Esto sólo está disponible para zombies.
+CMD_HUMAN_ONLY = Esto sólo está disponible para humanos.
+CMD_NOT_STUCK = No estás trabado.
+CMD_NOT_ACCESS = No tienes acceso.
+CMD_NOT_CANTUSE = No puedes usar esto ahora.
+CMD_NOT_EXTRAS = Los Items Extra están deshabilitados.
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = Las Clases de Zombie están deshabilitadas.
+
+MENU_BUY = Comprar Armas
+MENU_EXTRABUY = Comprar Items Extra
+MENU_ZCLASS = Elegir Clase de Zombie
+MENU_UNSTUCK = Destrabar (unstuck)
+MENU_ADMIN = Menú de Admin
+MENU_SPECTATOR = Unirse a Espectador
+
+MENU_BUY1_TITLE = Arma Primaria
+MENU_BUY2_TITLE = Arma Secundaria
+MENU_ZCLASS_TITLE = Clase de Zombie
+MENU_EXTRA_TITLE = Items Extra
+MENU_ADMIN_TITLE = Mení de Admin
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = NightVision (una ronda)
+MENU_EXTRA2 = Antídoto del Virus-T
+MENU_EXTRA3 = Furia Zombie
+MENU_EXTRA4 = Bomba de Infección
+MENU_ADMIN1 = Hacer Zombie/Humano
+MENU_ADMIN2 = Hacer Nemesis
+MENU_ADMIN3 = Hacer Survivor
+MENU_ADMIN4 = Revivir a Alguien
+MENU_ADMIN5 = Comenzar Modo Swarm
+MENU_ADMIN6 = Comenzar Infección Multiple
+MENU_ADMIN7 = Comenzar Modo Plague
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = General
+MENU_INFO2 = Humanos
+MENU_INFO3 = Zombies
+MENU_INFO4 = Modos de Juego
+
+MENU_AUTOSELECT = Recordar Selección
+MENU_BACK = Anterior
+MENU_NEXT = Siguiente
+MENU_EXIT = Salir
+
+MOTD_ENABLED = Habilitado
+MOTD_DISABLED = Deshabilitado
+
+ZOMBIE_ATTRIB1 = Vida
+ZOMBIE_ATTRIB2 = Velocidad
+ZOMBIE_ATTRIB3 = Gravedad
+ZOMBIE_ATTRIB4 = Knockback
+
+CLASS_CLASS = Clase:
+CLASS_HUMAN = Humano
+CLASS_ZOMBIE = Zombie
+CLASS_SURVIVOR = Survivor
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = Nemesis
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = El último zombie se ha ido, %s es el nuevo zombie.
+LAST_HUMAN_LEFT = El último humano se ha ido, %s es el nuevo humano.
+NOT_ENOUGH_AMMO = No tienes suficientes ammo packs.
+AMMO_BOUGHT = Has comprado munición extra para tus armas.
+ZOMBIE_SELECT = En tu próxima infección tu clase será
+BUY_ENABLED = El menú de compra ha sido re-activado.
+AMMO_PACKS1 = Ammo packs:
+AMMO_PACKS2 = ammo packs
+SPECTATING = Siguiendo a:
+
+[bp]
+NOTICE_INFO1 = Aperte M para mostrar o menu do jogo.
+NOTICE_INFO2 = Aperte , ou . para comprar municao.
+NOTICE_VIRUS_FREE = O Virus-T foi libertado...
+NOTICE_FIRST = %s e o primeiro zombie!
+NOTICE_INFECT = %s teve seu cerebro comido...
+NOTICE_INFECT2 = %s foi Infectado por %s. CORRA!
+NOTICE_ANTIDOTE = %s usou um antidoto...
+NOTICE_NEMESIS = %s e o NEMESIS ! Fuja ou se esconda !
+NOTICE_ASSASSIN = %s e o ASSASSIN ! Fuja ou se esconda !
+NOTICE_SURVIVOR = %s e o SURVIVOR... Boa Sote !
+NOTICE_SNIPER = %s e o SNIPER... Boa Sote !
+NOTICE_SWARM = Modo Swarm !
+NOTICE_MULTI = Infeccao Multipla !
+NOTICE_PLAGUE = Modo Plague !
+NOTICE_ARMAGEDDON = Modo Armageddon !
+NOTICE_APOCALYPSE = Modo Apocalypse !
+NOTICE_NIGHTMARE = Modo Nightmare !
+
+WIN_HUMAN = O T-Virus foi extinto do mundo, os Humanos ganharam!
+WIN_ZOMBIE = O T-Virus dominou o mundo. A Humanidade foi extinta!
+WIN_NO_ONE = Resta uma unica pergunta... Ha sobreviventes deste terrivel ataque?
+
+CMD_INFECT = Convertido em Zombie
+CMD_DISINFECT = Convertido em Humano
+CMD_NEMESIS = Convertido em Nemesis
+CMD_ASSASSIN = Convertido em Assassino
+CMD_SURVIVAL = Convertido em Survivor
+CMD_SNIPER = Convertido em Sniper
+CMD_SWARM = Comecar Modo Swarm
+CMD_MULTI = Comecar Infeccao Multipla
+CMD_PLAGUE = Comecar Modo Plague
+CMD_ARMAGEDDON = Comecar Modo Armageddon
+CMD_APOCALYPSE = Comecar Modo Apocalypse
+CMD_NIGHTMARE = Comecar Modo Nightmare
+CMD_RESPAWN = Revivido
+CMD_NOT = Comando nao disponivel.
+CMD_ZOMBIE_ONLY = Comando apenas para zombies.
+CMD_HUMAN_ONLY = Comando apenas para humanos.
+CMD_NOT_STUCK = Nao estas encravado.
+CMD_NOT_ACCESS = Voce nao tem acesso a este comando!
+CMD_NOT_CANTUSE = Nao pode usar agora.
+CMD_NOT_EXTRAS = Itens extras desligados!
+CMD_BLOCK_BUY_EXTRA = Aguarde o inicio da rodada...
+CMD_NOT_ZCLASSES = Classes de zombie desligadas!
+
+MENU_BUY = Comprar armas
+MENU_EXTRABUY = Comprar itens extra
+MENU_ZCLASS = Eleger classe de zombie
+MENU_UNSTUCK = Desencravar (unstuck)
+MENU_ADMIN = Menu de admin
+MENU_SPECTATOR = Entrar no modo Espectator
+
+MENU_BUY1_TITLE = Escolha sua Arma
+MENU_BUY2_TITLE = Escolha sua Pistola
+MENU_ZCLASS_TITLE = Escolha seu Zombie
+MENU_EXTRA_TITLE = Escolher um Item Extra
+MENU_ADMIN_TITLE = Menu de admin
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = NightVision [Uma Rodada]
+MENU_EXTRA2 = Antidoto do Virus-T
+MENU_EXTRA3 = Furia zombie
+MENU_EXTRA4 = Bomba de infeccao
+MENU_ADMIN1 = Transformar - Zombie/Humano
+MENU_ADMIN2 = Transformar - Nemesis
+MENU_ADMIN3 = Transformar - Survivor
+MENU_ADMIN4 = Reviver cliente
+MENU_ADMIN5 = Comecar - Swarm
+MENU_ADMIN6 = Comecar - Infeccao Multipla
+MENU_ADMIN7 = Comecar - Plague
+MENU_ADMIN8 = Transformar - Sniper
+MENU_ADMIN9 = Transformar - Assassino
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Comecar - Armageddon
+MENU_ADMIN12 = Comecar - Apocalypse
+MENU_ADMIN13 = Comecar - Nightmare
+MENU_INFO1 = General
+MENU_INFO2 = Humanos
+MENU_INFO3 = Zombies
+MENU_INFO4 = Modos de Jogo
+
+MENU_AUTOSELECT = Lembrar Selecao
+MENU_BACK = Voltar
+MENU_NEXT = Proxima
+MENU_EXIT = Sair
+
+MOTD_ENABLED = Habilitado
+MOTD_DISABLED = Desabilitado
+
+ZOMBIE_ATTRIB1 = Vida
+ZOMBIE_ATTRIB2 = Velocidade
+ZOMBIE_ATTRIB3 = Gravidade
+ZOMBIE_ATTRIB4 = Impacto
+
+CLASS_CLASS = Classe:
+CLASS_HUMAN = Humano
+CLASS_ZOMBIE = Zombie
+CLASS_SURVIVOR = Survivor
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = Nemesis
+CLASS_ASSASSIN = Assassino
+
+LAST_ZOMBIE_LEFT = O ultimo zombie saiu, %s e o novo zombie.
+LAST_HUMAN_LEFT = O ultimo humano saiu, %s e o novo humano.
+NOT_ENOUGH_AMMO = Nao tem suficientes ammo packs.
+AMMO_BOUGHT = Voce comprou Municao Extra.
+ZOMBIE_SELECT = Voce selecionou a classe
+BUY_ENABLED = O seu menu de compras foi re-ativado.
+AMMO_PACKS1 = Ammo packs:
+AMMO_PACKS2 = ammo packs
+SPECTATING = Voce esta Assistindo:
+
+[pl]
+NOTICE_INFO1 = Wcisnij M zeby uruchomic menu gry
+NOTICE_INFO2 = wcisnij , albo . zeby kupic amunicje
+NOTICE_VIRUS_FREE = T-Virus zostal zgubiony...
+NOTICE_FIRST = %s jest pierwszym zombi !!
+NOTICE_INFECT = %s - jego mozg zostal zainfekowany...
+NOTICE_INFECT2 = %s - jego mozg zostal zainfekowany przez %s...
+NOTICE_ANTIDOTE = %s uzyl antidotum...
+NOTICE_NEMESIS = %s jest Nemesis !!!
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = %s stal sie Survivor !!!
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_SWARM = Swarm Mode !!!
+NOTICE_MULTI = wielokrotna infekcja !!!
+NOTICE_PLAGUE = Plague Mode !!!
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = Ludzie pokonali plage!
+WIN_ZOMBIE = Zombi zapanowal nad swiatem!
+WIN_NO_ONE = Nikt nie wygral...
+
+CMD_INFECT = zmieniony w Zombi
+CMD_DISINFECT = Zmieniony z powrotem w czlowieka
+CMD_NEMESIS = Zmieniony w Nemesis
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = zmieniony w Survivor
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = Rozpoczyna sie Swarm Mode
+CMD_MULTI = Rozpoczyna sie wielokrotna infekcja
+CMD_PLAGUE = Rozpoczyna sie Plague Mode
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = Zmaterializowany
+CMD_NOT = Nieznana komenda.
+CMD_ZOMBIE_ONLY = Mozliwe tylko dla zombiakow.
+CMD_HUMAN_ONLY = Mozliwe tylko dla ludzi.
+CMD_NOT_STUCK = Nie jestes uprawniony. (nie jestes zablokowany)
+CMD_NOT_ACCESS = Nie masz dostepu.
+CMD_NOT_CANTUSE = Nie mozesz uzywac tego teraz.
+CMD_NOT_EXTRAS = Dodatkowe rzeczy sa wylaczone.
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = Klasy zombi sa wylaczone.
+
+MENU_BUY = Kup bron
+MENU_EXTRABUY = Kup dodatkowy ekwipunek
+MENU_ZCLASS = Wybierz klase zombi
+MENU_UNSTUCK = Odblokuj
+MENU_ADMIN = Menu Admina
+MENU_SPECTATOR = Dolacz do Obserwatorow
+
+MENU_BUY1_TITLE = Bron pierwsza
+MENU_BUY2_TITLE = Bron druga
+MENU_ZCLASS_TITLE = Klasa Zombi
+MENU_EXTRA_TITLE = Dodatkowe rzeczy
+MENU_ADMIN_TITLE = Menu Admina
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = Noktowizor (pojedyncza runda)
+MENU_EXTRA2 = Antidotum na T-virus
+MENU_EXTRA3 = Szalone Zombi
+MENU_EXTRA4 = Zarazajaca bomba
+MENU_ADMIN1 = Zrob Zombie/czlowiekiem
+MENU_ADMIN2 = Zrob Nemesis
+MENU_ADMIN3 = Zrob Survivor
+MENU_ADMIN4 = Zmaterializuj kogos
+MENU_ADMIN5 = Start Swarm Mode
+MENU_ADMIN6 = Start Wielokrotna Infekcje
+MENU_ADMIN7 = Start Plague Mode
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = Ogolne
+MENU_INFO2 = Ludzie
+MENU_INFO3 = Zombi
+MENU_INFO4 = Tryby Gry
+
+MENU_AUTOSELECT = Pamietaj Wybor
+MENU_BACK = Powrot
+MENU_NEXT = Nastepny
+MENU_EXIT = Wyjscie
+
+MOTD_ENABLED = Wlaczone
+MOTD_DISABLED = Wylaczone
+
+ZOMBIE_ATTRIB1 = Zdrowie
+ZOMBIE_ATTRIB2 = Szybkosc
+ZOMBIE_ATTRIB3 = Grawitacja
+ZOMBIE_ATTRIB4 = Odrzucenie
+
+CLASS_CLASS = Klasy:
+CLASS_HUMAN = Czlowiek
+CLASS_ZOMBIE = Zombie
+CLASS_SURVIVOR = Survivor
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = Nemesis
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = Ostatnie Zombi opuscilo serwer, %s stal sie nowym zombi.
+LAST_HUMAN_LEFT = Ostatni czlowiek opuscil serwer, %s stal sie nowym czlowiekiem.
+NOT_ENOUGH_AMMO = Nie masz wystarczajacej ilosci paczek z amunicja.
+AMMO_BOUGHT = Zdobyles dodatkowe amo do twojej broni.
+ZOMBIE_SELECT = Twoja nowa klasa zombi jest
+BUY_ENABLED = Twoje menu zakupu zostalo ponownie udostepnione.
+AMMO_PACKS1 = Ammo paki:
+AMMO_PACKS2 = ammo paki
+SPECTATING = Obserwuje:
+
+[de]
+NOTICE_INFO1 = Druecke M um das Game Menu anzuzeigen
+NOTICE_INFO2 = Druecke , oder . um Munition zu kaufen
+NOTICE_VIRUS_FREE = Der T-Virus wurde freigesetzt...
+NOTICE_FIRST = %s ist der erste Zombie !!
+NOTICE_INFECT = %s Gehirn wurde gegessen...
+NOTICE_INFECT2 = %s Gehirn wurde gegessen von %s...
+NOTICE_ANTIDOTE = %s hat ein Gegengift benutzt...
+NOTICE_NEMESIS = %s ist ein Nemesis !!!
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = %s ist ein Survivor !!!
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_SWARM = Swarm Modus !!!
+NOTICE_MULTI = Multiple Infektionen !!!
+NOTICE_PLAGUE = Plague Modus !!!
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = Menschen besiegten die Seuche!
+WIN_ZOMBIE = Zombies haben die Welt �bernommen!
+WIN_NO_ONE = Niemand hat gewonnen...
+
+CMD_INFECT = umgewandelt in einen Zombie
+CMD_DISINFECT = zur�ck gewandelt in einen Menschen
+CMD_NEMESIS = umgewandelt in einen Nemesis
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = umgewandelt in einen Survivor
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = starte Swarm Modus
+CMD_MULTI = starte Multiple Infektionen
+CMD_PLAGUE = starte Plague Modus
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = wiederbelebt
+CMD_NOT = nicht verfuegbarer Befehl.
+CMD_ZOMBIE_ONLY = Das ist nur fuer Zombies verfuegbar.
+CMD_HUMAN_ONLY = Das ist nur fuer Menschen verfuegbar.
+CMD_NOT_STUCK = Du steckst nicht fest.
+CMD_NOT_ACCESS = Du hast keine Rechte.
+CMD_NOT_CANTUSE = Du kannst dies zur Zeit nicht benutzen.
+CMD_NOT_EXTRAS = Besondere Items sind zur Zeit ausgeschaltet.
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = Zombie Klassen sind ausgeschaltet.
+
+MENU_BUY = Kaufe Waffen
+MENU_EXTRABUY = Kaufe besondere Items
+MENU_ZCLASS = Waehle eine Zombie Klasse
+MENU_UNSTUCK = Freisetzen
+MENU_ADMIN = Admin Menu
+MENU_SPECTATOR = Join Spectator
+
+MENU_BUY1_TITLE = Primaer Waffe
+MENU_BUY2_TITLE = Sekundaer Waffe
+MENU_ZCLASS_TITLE = Zombie Klasse
+MENU_EXTRA_TITLE = Besondere Items
+MENU_ADMIN_TITLE = Admin Menu
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = Nachtsicht (eine Runde)
+MENU_EXTRA2 = T-Virus Gegengift
+MENU_EXTRA3 = Zombie Wahnsinn
+MENU_EXTRA4 = Infektions Bombe
+MENU_ADMIN1 = Erzeuge Zombie/Mensch
+MENU_ADMIN2 = Erzeuge Nemesis
+MENU_ADMIN3 = Erzeuge Survivor
+MENU_ADMIN4 = Jemand wiederbeleben
+MENU_ADMIN5 = Starte Swarm Modus
+MENU_ADMIN6 = Starte Multiple Infektionen
+MENU_ADMIN7 = Starte Plague Modus
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = Allgemeines
+MENU_INFO2 = Menschen
+MENU_INFO3 = Zombies
+MENU_INFO4 = Gameplay Modus
+
+MENU_AUTOSELECT = Remember Selection
+MENU_BACK = Zurueck
+MENU_NEXT = Naechste
+MENU_EXIT = Ausgang
+
+MOTD_ENABLED = Eingeschaltet
+MOTD_DISABLED = Ausgeschaltet
+
+ZOMBIE_ATTRIB1 = Gesundheit
+ZOMBIE_ATTRIB2 = Geschwindigkeit
+ZOMBIE_ATTRIB3 = Gravitation
+ZOMBIE_ATTRIB4 = Rueckschlag
+
+CLASS_CLASS = Klasse:
+CLASS_HUMAN = Mensch
+CLASS_ZOMBIE = Zombie
+CLASS_SURVIVOR = Survivor
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = Nemesis
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = Der letzte Zombie hat uns verlassen, %s ist der neue Zombie.
+LAST_HUMAN_LEFT = Der letzte Mensch hat uns verlassen, %s ist der neue Mensch.
+NOT_ENOUGH_AMMO = Du hast nicht genug Munitionspackungen.
+AMMO_BOUGHT = Du hast besondere Munition gekauft f�r deine Waffen. 
+ZOMBIE_SELECT = Bei dem n�chsten Mal wird deine Zombie Klasse infiziert.
+BUY_ENABLED = Your buy menu has been re-enabled.
+AMMO_PACKS1 = Munitionspackungen:
+AMMO_PACKS2 = Munitionspackungen
+SPECTATING = Zuschauer:
+
+[lt]
+NOTICE_INFO1 = Spausk M, kad gautum zaidimo meniu
+NOTICE_INFO2 = Spausk , arba . kad nusipirktum soviniu
+NOTICE_VIRUS_FREE = T-Virusas buvo paskleistas...
+NOTICE_FIRST = %s yra pirmasis zombis!!!
+NOTICE_INFECT = %s smegenys buvo suvalgytos...
+NOTICE_INFECT2 = %s smegenys buvo suvalgytos sukurtas %s...
+NOTICE_ANTIDOTE = %s panaudojo priesnuodi...
+NOTICE_NEMESIS = %s yra kersytojas!!!
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = %s yra isgyventojas!!!
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_SWARM = Spieciaus rezimas!!!
+NOTICE_MULTI = Keleriopa infekcija!!!
+NOTICE_PLAGUE = Plague Mode !!!
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = Zmones nugalejo mara!
+WIN_ZOMBIE = Zombiai isigalejo pasaulyje!
+WIN_NO_ONE = Nelaimejo niekas...
+
+CMD_INFECT = pavirtai i zombi
+CMD_DISINFECT = atvirtai i zmogu
+CMD_NEMESIS = pavirtai i kersytoja
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = pavirtai i isgyventoja
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = pradeti spieciaus rezima
+CMD_MULTI = pradeti multi infekcija
+CMD_PLAGUE = pradeti Plague Mode
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = atsiradai
+CMD_NOT = Negalima komanda.
+CMD_ZOMBIE_ONLY = Tai prieinama tik zombiams.
+CMD_HUMAN_ONLY = Tai prieinama tik zmonems.
+CMD_NOT_STUCK = Tu ne uzstriges.
+CMD_NOT_ACCESS = Neturi priejimo.
+CMD_NOT_CANTUSE = Dabar negali sito naudoti.
+CMD_NOT_EXTRAS = Papildomi daigtai yra isjungti.
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = Zombiu kases yra isjungtos.
+
+MENU_BUY = Pirkti ginklus
+MENU_EXTRABUY = Pirkti papildomus daigtus
+MENU_ZCLASS = Pasirinkti zombiu klase
+MENU_UNSTUCK = Atstrigti
+MENU_ADMIN = Admino meniu
+MENU_SPECTATOR = Join Spectator
+
+MENU_BUY1_TITLE = Pirminis ginklas
+MENU_BUY2_TITLE = Antrinis ginklas
+MENU_ZCLASS_TITLE = Zombio klase
+MENU_EXTRA_TITLE = Papildomi daigtai
+MENU_ADMIN_TITLE = Admino meniu
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = NightVision (vienam raundui)
+MENU_EXTRA2 = T-Viruso priesnuodis
+MENU_EXTRA3 = Zombio pasiutimas
+MENU_EXTRA4 = Infekcijos bomba
+MENU_ADMIN1 = Sukurti zombi/zmogu
+MENU_ADMIN2 = Sukurti kersytoja
+MENU_ADMIN3 = Sukurti isgyventoja
+MENU_ADMIN4 = Atstatyti kazka
+MENU_ADMIN5 = Pradeti spieciaus rezima
+MENU_ADMIN6 = Pradeti keleriopa infekcija
+MENU_ADMIN7 = Pradeti Plague Mode
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = Generalinis
+MENU_INFO2 = Zmones
+MENU_INFO3 = Zombiai
+MENU_INFO4 = Zaidimo rezimai
+
+MENU_AUTOSELECT = Remember Selection
+MENU_BACK = Atgal
+MENU_NEXT = Toliau
+MENU_EXIT = Iseiti
+
+MOTD_ENABLED = Ijungta
+MOTD_DISABLED = Isjungta
+
+ZOMBIE_ATTRIB1 = Gyvybes
+ZOMBIE_ATTRIB2 = Greitis
+ZOMBIE_ATTRIB3 = Gravitacija
+ZOMBIE_ATTRIB4 = Knockback
+
+CLASS_CLASS = Klase:
+CLASS_HUMAN = Zmogus
+CLASS_ZOMBIE = Zombis
+CLASS_SURVIVOR = Isgyventojas
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = Kersytojas
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = Paskutinis zombis isejo, %s yra naujas zombis.
+LAST_HUMAN_LEFT = Paskutinis zmogus isejo, %s yra naujas zmogus.
+NOT_ENOUGH_AMMO = Tu neturi pakankamai soviniu paketu.
+AMMO_BOUGHT = Tu nusipirkai ekstra soviniu paketu savo ginklams.
+ZOMBIE_SELECT = Kai sekanti karta busi infekuotas, tavo zombio klase bus
+BUY_ENABLED = Your buy menu has been re-enabled.
+AMMO_PACKS1 = Soviniu paketai:
+AMMO_PACKS2 = soviniu paketai
+SPECTATING = Ziurima:
+
+[bg]
+NOTICE_INFO1 = Natisnete M za da vidite menu-to na sarvara.
+NOTICE_INFO2 = Natisnete , ili . za da si kupite patroni.
+NOTICE_VIRUS_FREE = The T-Virus has been set loose...
+NOTICE_FIRST = %s e purvoto ZOMBIE !!
+NOTICE_INFECT = Na %s mu be6e izqden mozaka...
+NOTICE_INFECT2 = Na %s mu be6e izaden mozaka ot %s...
+NOTICE_ANTIDOTE = %s Izpolzva protivootrova...
+NOTICE_NEMESIS = %s is a Nemesis !!!
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = %s Ocelq !!!
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_SWARM = Go Go Go Sward Mode !!!
+NOTICE_MULTI = Nqkoilko infekcii !!!
+NOTICE_PLAGUE = Plague Mode !!!
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = Svetut e spasen!
+WIN_ZOMBIE = Zombies RULE the WORLD !
+WIN_NO_ONE = Nikoi ne spe4eli...
+
+CMD_INFECT = Se prevurna v ZOMBIIE.
+CMD_DISINFECT = Otnovo e 4ovek.
+CMD_NEMESIS = Se prevurna v Nemesis.
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = E oceleliq.
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = start Swarm Mode.
+CMD_MULTI = start Multiple Infection.
+CMD_PLAGUE = start Plague Mode.
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = Vuzroden.
+CMD_NOT = Nevalidna komanda..
+CMD_ZOMBIE_ONLY = Tova e pozvoleno samo na Zombitata.
+CMD_HUMAN_ONLY = Tova e pozvoleno samo na Horata.
+CMD_NOT_STUCK = Ne si zasendal.
+CMD_NOT_ACCESS = Nqmate dostup.
+CMD_NOT_CANTUSE = Ne mojete da go izpolzvate sega!
+CMD_NOT_EXTRAS = Extrite sa izkliu4eni.
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = Zombie rasite sa izkliu4eni.
+
+MENU_BUY = Kopuvane na orajiq ...
+MENU_EXTRABUY = Kopuvane na Eztri...
+MENU_ZCLASS = Izberete zombie rasa...
+MENU_UNSTUCK = Otkle6ti me!!!!
+MENU_ADMIN = Menio za admini.
+MENU_SPECTATOR = Join Spectator
+
+MENU_BUY1_TITLE = Primary Weapon
+MENU_BUY2_TITLE = Secondary Weapon
+MENU_ZCLASS_TITLE = Zombie rasa.
+MENU_EXTRA_TITLE = Extra Items
+MENU_ADMIN_TITLE = Menlio za ADMINI.
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = No6tno vijdane ( za 1 rund)
+MENU_EXTRA2 = Antivirus.
+MENU_EXTRA3 = Zombie Madness
+MENU_EXTRA4 = Infektira6ta bomba.
+MENU_ADMIN1 = Pravi Zombie/Human
+MENU_ADMIN2 = Pravi nqkoi Nemesis
+MENU_ADMIN3 = Pravi nqkoi Survivor
+MENU_ADMIN4 = Vuzrodete nqkoi.
+MENU_ADMIN5 = Zapo4nete Swarm Mode
+MENU_ADMIN6 = Zapo4nete Nqkolko infekcii
+MENU_ADMIN7 = Zapo4nete Plague Mode
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = General
+MENU_INFO2 = Hora
+MENU_INFO3 = Zombita
+MENU_INFO4 = Gameplay Modes
+
+MENU_AUTOSELECT = Remember Selection
+MENU_BACK = Nazad
+MENU_NEXT = Napred
+MENU_EXIT = Izhod
+
+MOTD_ENABLED = Vklio4eno
+MOTD_DISABLED = Izkliu4eno.
+
+ZOMBIE_ATTRIB1 = Kruv.
+ZOMBIE_ATTRIB2 = Skorost.
+ZOMBIE_ATTRIB3 = Gravitaciq.
+ZOMBIE_ATTRIB4 = Knockback
+
+CLASS_CLASS = Rasa:
+CLASS_HUMAN = 4ovek
+CLASS_ZOMBIE = Zombie
+CLASS_SURVIVOR = Ocelql
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = Nemesis
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = Poslednoto zombie NAPUSNA, %s e novoto zombie.
+LAST_HUMAN_LEFT = Posledniq 4ovek, %s e noviq 4ovek.
+NOT_ENOUGH_AMMO = Nqmate ostatacno ammo packs.
+AMMO_BOUGHT = Ti polu4i extra ammo za orajiqta si.
+ZOMBIE_SELECT = Ot sledva6tiq put kogato vi napravqt zombie 6te budete
+BUY_ENABLED = Your buy menu has been re-enabled.
+AMMO_PACKS1 = Ammo packs:
+AMMO_PACKS2 = ammo packs
+SPECTATING = Gleda:
+
+[da]
+NOTICE_INFO1 = tryk M for at vise spille menuen
+NOTICE_INFO2 = Tryk , eller . for at kQbe ammunition
+NOTICE_VIRUS_FREE = T-Virusen er sluppet lQs...
+NOTICE_FIRST = %s er den fQrste Zombie !!
+NOTICE_INFECT = %s's Hjerne er blevet spist...
+NOTICE_INFECT2 = %s's Hjerne er blevet spist af %s...
+NOTICE_ANTIDOTE = %s har brugt en modgift...
+NOTICE_NEMESIS = %s er en Nemesis !!!
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = %s er en Survivor !!!
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_SWARM = Swarm Mode !!!
+NOTICE_MULTI = flere infektioner !!!
+NOTICE_PLAGUE = Plague Mode !!!
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = Mennesket har overvundet virusen!
+WIN_ZOMBIE = Zombierne har overtaget verden!
+WIN_NO_ONE = ingen vandt...
+
+CMD_INFECT = Blev til en Zombie
+CMD_DISINFECT = Blev et menneske igen
+CMD_NEMESIS = Blev en Nemesis
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = Blev en Survivor
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = start Swarm Mode
+CMD_MULTI = start flere infektioner
+CMD_PLAGUE = start Plague Mode
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = genoplevede
+CMD_NOT = Ugyldig kommando.
+CMD_ZOMBIE_ONLY = Dette er kun tilladt for Zombier.
+CMD_HUMAN_ONLY = Dette er kun tilladt for mennesket.
+CMD_NOT_STUCK = Du sidder ikke fast.
+CMD_NOT_ACCESS = Du har ingen adgang.
+CMD_NOT_CANTUSE = Du kan ikke bruge denne lige nu.
+CMD_NOT_EXTRAS = Ekstra ting er slaaet fra.
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = Zombie klasser er slaaet fra.
+
+MENU_BUY = KQb Vaaben
+MENU_EXTRABUY = KQb Ekstra Ting
+MENU_ZCLASS = Vaelg Zombie Klasse
+MENU_UNSTUCK = Unstuck
+MENU_ADMIN = Admin Menu
+MENU_SPECTATOR = Join Spectators
+
+MENU_BUY1_TITLE = fQrste vaaben
+MENU_BUY2_TITLE = Andet vaaben
+MENU_ZCLASS_TITLE = Zombie Klasse
+MENU_EXTRA_TITLE = Ekstra Ting
+MENU_ADMIN_TITLE = Admin Menu
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = Nattesyn (en runde)
+MENU_EXTRA2 = T-Virus Modgift
+MENU_EXTRA3 = Zombie vanvid
+MENU_EXTRA4 = Infektions Bombe
+MENU_ADMIN1 = Lav til Zombie/Menneske
+MENU_ADMIN2 = Lav til Nemesis
+MENU_ADMIN3 = Lav til Survivor
+MENU_ADMIN4 = Genopliv en
+MENU_ADMIN5 = Start Swarm Mode
+MENU_ADMIN6 = Start Flere Infektioner
+MENU_ADMIN7 = Start Plague Mode
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = Generalt
+MENU_INFO2 = Mennesker
+MENU_INFO3 = Zombier
+MENU_INFO4 = Gameplay Modes
+
+MENU_AUTOSELECT = Remember Selection
+MENU_BACK = Tilbage
+MENU_NEXT = Naeste
+MENU_EXIT = Luk
+
+MOTD_ENABLED = Slaaet til
+MOTD_DISABLED = Slaaet fra
+
+ZOMBIE_ATTRIB1 = Liv
+ZOMBIE_ATTRIB2 = Fart
+ZOMBIE_ATTRIB3 = Gravity
+ZOMBIE_ATTRIB4 = Knockback
+
+CLASS_CLASS = Klasse:
+CLASS_HUMAN = Menneske
+CLASS_ZOMBIE = Zombie
+CLASS_SURVIVOR = Survivor
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = Nemesis
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = Den sidste zombie gik, %s er den nye Zombie.
+LAST_HUMAN_LEFT = Det sidste menneske gik, %s er et nyt menneske.
+NOT_ENOUGH_AMMO = Du har ikke nok ammo packs.
+AMMO_BOUGHT = Du kQbte ekstra ammunition til dine vaaben.
+ZOMBIE_SELECT = Fra naeste gang du bliver inficeret vil din zombie klasse vaere
+AMMO_PACKS1 = Ammo packs:
+AMMO_PACKS2 = ammo packs
+SPECTATING = Kigger paa:
+
+[fr]
+NOTICE_INFO1 = Appuyez sur M pour afficher le menu
+NOTICE_INFO2 = Presse, ou . pour acheter des munitions 
+NOTICE_VIRUS_FREE = Le Virus-T a ete libere...
+NOTICE_FIRST = %s est le premier zombie!!
+NOTICE_INFECT = %s's le cerveau a �t� mangee...
+NOTICE_ANTIDOTE = %s a utilis� un antidote...
+NOTICE_NEMESIS = %s est un Nemesis !!!
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = %s est un survivant !!!
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_SWARM = Swarm Mode !!!
+NOTICE_MULTI = Multiple Infection !!!
+NOTICE_PLAGUE = Plague Mode !!!
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = L'homme a vaincu le Virus-T!
+WIN_ZOMBIE = Zombies ont contamine le monde entier!
+WIN_NO_ONE = personne na Gagnee...
+
+CMD_INFECT = turned into a Zombie
+CMD_DISINFECT = turned back to Human
+CMD_NEMESIS = turned into a Nemesis
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = turned into a Survivor
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = start Swarm Mode
+CMD_MULTI = start Multiple Infection
+CMD_PLAGUE = start Plague Mode
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = respawned
+CMD_NOT = Unavailable command.
+CMD_ZOMBIE_ONLY = This is only available to zombies.
+CMD_HUMAN_ONLY = This is only available to humans.
+CMD_NOT_STUCK = Vous n'�tes pas coinc�.
+CMD_NOT_ACCESS = Vous n'avez pas acc�s.
+CMD_NOT_CANTUSE = Vous cant usage de ce droit.
+CMD_NOT_EXTRAS = Points suppl�mentaires sont d�sactiv�es.
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = Zombie classes sont d�sactiv�es.
+
+MENU_BUY = acheter des armes
+MENU_EXTRABUY = Acheter Extra items
+MENU_ZCLASS = Choisir la classe de zombie
+MENU_UNSTUCK = D�bloquer
+MENU_ADMIN = admin menu
+MENU_SPECTATOR = Join Spectators
+
+MENU_BUY1_TITLE = principale arme
+MENU_BUY2_TITLE = arme secondaire
+MENU_ZCLASS_TITLE = Zombie classe
+MENU_EXTRA_TITLE = Extra articles
+MENU_ADMIN_TITLE = admin menu
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = NightVision (1 seul tour)
+MENU_EXTRA2 = Virus-T Antidote
+MENU_EXTRA3 = Zombie Madness
+MENU_EXTRA4 = infection bombe
+MENU_ADMIN1 = Make Zombie/Human
+MENU_ADMIN2 = Make Nemesis
+MENU_ADMIN3 = Make Survivor
+MENU_ADMIN4 = Respawn Someone
+MENU_ADMIN5 = Start Swarm Mode
+MENU_ADMIN6 = Start Multiple Infection
+MENU_ADMIN7 = Start Plague Mode
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = General
+MENU_INFO2 = Humans
+MENU_INFO3 = Zombies
+MENU_INFO4 = modes de jeu
+
+MENU_AUTOSELECT = Remember Selection
+MENU_BACK = Retour
+MENU_NEXT = Suivant
+MENU_EXIT = Quitter 
+
+MOTD_ENABLED = Active
+MOTD_DISABLED = Desactive
+
+ZOMBIE_ATTRIB1 = Sante
+ZOMBIE_ATTRIB2 = vitesse 
+ZOMBIE_ATTRIB3 = Gravite
+ZOMBIE_ATTRIB4 = Knockback
+
+CLASS_CLASS = Categorie:
+CLASS_HUMAN = humain
+CLASS_ZOMBIE = Zombie
+CLASS_SURVIVOR = survivant
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = Nemesis
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = Le dernier zombie est partie, %s est le nouveau zombie.
+LAST_HUMAN_LEFT = Le dernier Humain est partie, %s est le nouvel Humain.
+NOT_ENOUGH_AMMO = Vous n'avez pas assez de paquets de munitions.
+AMMO_BOUGHT = Vous avez achet� des munitions suppl�mentaires pour vos armes.
+ZOMBIE_SELECT = Votre class de zombie serat effective a la prochaine infection
+AMMO_PACKS1 = Ammo packs:
+AMMO_PACKS2 = munitions packs
+SPECTATING = Spectateur:
+
+[ro]
+NOTICE_INFO1 = Apasa tasta M pentru a afisa meniul jocului
+NOTICE_INFO2 = Apasa tasta , sau . pentru a cumpara munitie
+NOTICE_VIRUS_FREE = T-virus a fost scapat de sub control !
+NOTICE_FIRST = %s este primul zombie !
+NOTICE_INFECT = %s a fost infectat !
+NOTICE_INFECT2 = %s a fost infectat de %s !
+NOTICE_ANTIDOTE = %s a folosit un antidot...
+NOTICE_NEMESIS = %s este Nemesis !!!
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = %s este ultimul Supravietuitor !!!
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_SWARM = Mod Swarm !!!
+NOTICE_MULTI = Infectare multipla !!!
+NOTICE_PLAGUE = Mod Plague !!!
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = Oamenii au invins virusul!
+WIN_ZOMBIE = Zombie au cucerit lumea!
+WIN_NO_ONE = Lupta pentru supravietuire continua...
+
+CMD_INFECT = a fost transformat in Zombie
+CMD_DISINFECT = a fost transformat inapoi in Om
+CMD_NEMESIS = a fost transformat in Nemesis
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = a fost transformat in Supravietuitor
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = Incepe Modul Swarm
+CMD_MULTI = Incepe Infectarea Multipla
+CMD_PLAGUE = Incepe Modul Plague
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = reinviat
+CMD_NOT = Comanda indisponibila
+CMD_ZOMBIE_ONLY = Aceasta este disponibila numai pentru zombie
+CMD_HUMAN_ONLY = Aceasta este disponibila numai pentru oameni
+CMD_NOT_STUCK = Nu esti blocat !
+CMD_NOT_ACCESS = Nu ai acces !
+CMD_NOT_CANTUSE = Momentan nu poti folosi aceasta optiune...
+CMD_NOT_EXTRAS = Elementele extra sunt dezactivate !
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = Clasele de zombie sunt dezactivate !
+
+MENU_BUY = Cumparare Arme
+MENU_EXTRABUY = Cumparare Elemente Extra
+MENU_ZCLASS = Alege Clasa De Zombie
+MENU_UNSTUCK = Deblocare
+MENU_ADMIN = Meniu Admin
+MENU_SPECTATOR = Intra Spectator
+
+MENU_BUY1_TITLE = Arme Primare
+MENU_BUY2_TITLE = Arme Secundare
+MENU_ZCLASS_TITLE = Clasa De Zombie
+MENU_EXTRA_TITLE = Elemente Extra
+MENU_ADMIN_TITLE = Meniu Admin
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = Ochelari cu infrarosu (o singura runda)
+MENU_EXTRA2 = Antidot T-Virus
+MENU_EXTRA3 = Zombie Madness
+MENU_EXTRA4 = Grenada De Infectare
+MENU_ADMIN1 = Vindeca | Infecteaza
+MENU_ADMIN2 = Transforma In Nemesis
+MENU_ADMIN3 = Lasa Un Singur Supravietuitor
+MENU_ADMIN4 = Reinviaza
+MENU_ADMIN5 = Incepe Modul Swarm
+MENU_ADMIN6 = Incepe Infectare Multipla
+MENU_ADMIN7 = Incepe Modul Plague
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = General
+MENU_INFO2 = Oameni
+MENU_INFO3 = Zombie
+MENU_INFO4 = Moduri de Joc
+
+MENU_AUTOSELECT = Tine Minte Preferinte
+MENU_BACK = Inapoi
+MENU_NEXT = Urmatorul
+MENU_EXIT = Iesire
+
+MOTD_ENABLED = Activat
+MOTD_DISABLED = Dezactivat
+
+ZOMBIE_ATTRIB1 = Viata
+ZOMBIE_ATTRIB2 = Viteza
+ZOMBIE_ATTRIB3 = Gravitatie
+ZOMBIE_ATTRIB4 = KnockBack
+
+CLASS_CLASS = Clasa:
+CLASS_HUMAN = Om
+CLASS_ZOMBIE = Zombie
+CLASS_SURVIVOR = Supravietuitor
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = Nemesis
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = Ultimul zombie a iesit de pe server, %s este noul zombie !
+LAST_HUMAN_LEFT = Ultimul om ne-a parasit, %s este noul om.
+NOT_ENOUGH_AMMO = Nu ai destule pachete de munitie !
+AMMO_BOUGHT = Ai Cumparat Extra Munitie Pentru Armele Tale
+ZOMBIE_SELECT = Data viitoare cand vei fi infectat, clasa ta de zombie va fi
+BUY_ENABLED = Meniul tau de arme a fost reactivat.
+AMMO_PACKS1 = Pachete De Munitie:
+AMMO_PACKS2 = Pachete De Munitie
+SPECTATING = Urmaresti Pe:
+
+[cz]
+NOTICE_INFO1 = Stiskni "M" pro zobrazeni nabidky.
+NOTICE_INFO2 = Stiskni . nebo , pro koupeni naboju.
+NOTICE_VIRUS_FREE = T-Virus byl vypusten
+NOTICE_FIRST = %s je prvni Zombie !
+NOTICE_INFECT = %s byl nakazen.
+NOTICE_INFECT2 = %s byl nakazen hracem %s.
+NOTICE_ANTIDOTE = %s pouzil protilatku.
+NOTICE_NEMESIS = %s je Nemesis !
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = %s je Vyvoleny !
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_SWARM = Hejno Zombies !
+NOTICE_MULTI = Vicenasobna Infekce !
+NOTICE_PLAGUE = Zacalo Zamoreni !
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = Lide vyhrali !
+WIN_ZOMBIE = Zombie vyhrali !
+WIN_NO_ONE = Toto kolo nikdo nevyhral
+
+CMD_INFECT = Zmenen na Zombie
+CMD_DISINFECT = Zmenen na Cloveka
+CMD_NEMESIS = Znemen na Nemesis
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = Znemen na Vyvoleneho
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = Hejno Zombies !
+CMD_MULTI = Vicenasobna Infekce !
+CMD_PLAGUE = Zacalo Zamoreni
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = Respawnovan.
+CMD_NOT = Neznamy prikaz.
+CMD_ZOMBIE_ONLY = Tato Funkce pouze pro Zombie.
+CMD_HUMAN_ONLY = Tato Funkce je pouze pro Lidi.
+CMD_NOT_STUCK = Nejsi zaseknuty.
+CMD_NOT_ACCESS = Nemas pristup.
+CMD_NOT_CANTUSE = Ted nemuzes pouzit tuto Funkci.
+CMD_NOT_EXTRAS = Bonus veci byli zakazany.
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = Zombie typy byli zakazany.
+
+MENU_BUY = Zbrane
+MENU_EXTRABUY = Bonus Veci
+MENU_ZCLASS = Vyber Zombie
+MENU_UNSTUCK = Odseknout
+MENU_ADMIN = Admin Menu
+MENU_SPECTATOR = Divak
+
+MENU_BUY1_TITLE = Primarni Zbran
+MENU_BUY2_TITLE = Sekundarni Zbran
+MENU_ZCLASS_TITLE = Zombie Typ
+MENU_EXTRA_TITLE = Bonus Veci
+MENU_ADMIN_TITLE = Admin Menu
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = Nocni Videni [Jedno Kolo]
+MENU_EXTRA2 = T-Virus Protilatka
+MENU_EXTRA3 = Infekcni Granat
+MENU_EXTRA4 = Zombie Silenstvi
+MENU_ADMIN1 = Vytvorit Zombie | Cloveka
+MENU_ADMIN2 = Vytvorit Nemesis
+MENU_ADMIN3 = Vytvorit Vyvoleneho
+MENU_ADMIN4 = Respawnovat Hrace
+MENU_ADMIN5 = Vytvorit Hejno Zombies
+MENU_ADMIN6 = Zacit Vicenasobnou Infekci
+MENU_ADMIN7 = Zacit Zamoreni
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = Hlavni
+MENU_INFO2 = Lide
+MENU_INFO3 = Zombies
+MENU_INFO4 = Herni Mody
+
+MENU_AUTOSELECT = Zapamatovat Vyber
+MENU_BACK = Zpet
+MENU_NEXT = Dalsi
+MENU_EXIT = Konec
+
+MOTD_ENABLED = Povoleno
+MOTD_DISABLED = Zakazano
+
+ZOMBIE_ATTRIB1 = Zdravi
+ZOMBIE_ATTRIB2 = Rychlost
+ZOMBIE_ATTRIB3 = Gravitace
+ZOMBIE_ATTRIB4 = Odhozeni
+
+CLASS_CLASS = Typ:
+CLASS_HUMAN = Clovek
+CLASS_ZOMBIE = Zombie
+CLASS_SURVIVOR = Vyvoleny
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = Nemesis
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = Posledni Zombie odesel. Novy Zombie je %s
+LAST_HUMAN_LEFT = Posledni Clovek odesel. Novy Clovek je %s
+NOT_ENOUGH_AMMO = Nemas dost bodu
+AMMO_BOUGHT = Koupil jsi naboje
+ZOMBIE_SELECT = Po pristim nakazeni budes zombie typu
+BUY_ENABLED = Nakupni menu bylo opet aktivovano.
+AMMO_PACKS1 = Body:
+AMMO_PACKS2 = Bodu
+SPECTATING = Sledujes Hrace:
+
+[sk]
+NOTICE_INFO1 = Stlac "M" na zobrazenie ponuky.
+NOTICE_INFO2 = Stlac . alebo , pre nakupenie n�bojov.
+NOTICE_VIRUS_FREE = T-Virus vypusteny.
+NOTICE_FIRST = %s je prvy Zombie !
+NOTICE_INFECT = %s bol nakazeny.
+NOTICE_INFECT2 = %s bol nakazeny hracom %s.
+NOTICE_ANTIDOTE = %s pouzil protilatku.
+NOTICE_NEMESIS = %s je Nemesis !
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = %s je Vyvoleny !
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_SWARM = Stado Zombies !
+NOTICE_MULTI = Viacnasobna Infekcia !
+NOTICE_PLAGUE = Zacalo Zamorenie !
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = Ludia vyhrali !
+WIN_ZOMBIE = Zombie vyhrali !
+WIN_NO_ONE = Toto kolo nikto nevyhral
+
+CMD_INFECT = Zmeneny na Zombie
+CMD_DISINFECT = Zmeneny na Cloveka
+CMD_NEMESIS = Znemeny na Nemesis
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = Znemeny na Vyvoleneho
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = Stado Zombies 
+CMD_MULTI = Viacnasobna Infekcia 
+CMD_PLAGUE = Zacalo Zamorenie.
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = Respawnovanie.
+CMD_NOT = Neznamy prikaz.
+CMD_ZOMBIE_ONLY = Tato Funkcia je iba pre Zombie.
+CMD_HUMAN_ONLY = Tato Funkcia je iba pre Ludi.
+CMD_NOT_STUCK = Nie si zaseknuty.
+CMD_NOT_ACCESS = Nemas pristup.
+CMD_NOT_CANTUSE = Teraz nemozes pouzit tuto funkciu.
+CMD_NOT_EXTRAS = Bonusove vybavenie bolo zakazane.
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = Zombie typy boli zakazane.
+
+MENU_BUY = Zbrane
+MENU_EXTRABUY = Bonusove Vybavenie
+MENU_ZCLASS = Vyber Zombie
+MENU_UNSTUCK = Odseknut
+MENU_ADMIN = Admin Menu
+MENU_SPECTATOR = Divak
+
+MENU_BUY1_TITLE = Primarna Zbran
+MENU_BUY2_TITLE = Sekundarna Zbran
+MENU_ZCLASS_TITLE = Zombie Typ
+MENU_EXTRA_TITLE = Bonusove Vybavenie
+MENU_ADMIN_TITLE = Admin Menu
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = Nocne Videnie [Jedno Kolo]
+MENU_EXTRA2 = T-Virus Protilatka
+MENU_EXTRA3 = Infekcny Granat
+MENU_EXTRA4 = Zombie Sialenstvo
+MENU_ADMIN1 = Vytvorit Zombie | Cloveka
+MENU_ADMIN2 = Vytvorit Nemesis
+MENU_ADMIN3 = Vytvorit Vyvoleneho
+MENU_ADMIN4 = Respawnovat Hraca
+MENU_ADMIN5 = Vytvorit Stado Zombies
+MENU_ADMIN6 = Zacat Viacnasobnu Infekciu
+MENU_ADMIN7 = Zacat Zamorenie
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = Hlavne
+MENU_INFO2 = Ludia
+MENU_INFO3 = Zombies
+MENU_INFO4 = Herne Mody
+
+MENU_AUTOSELECT = Zapamatat Vyber
+MENU_BACK = Spat
+MENU_NEXT = Dalsi
+MENU_EXIT = Koniec
+
+MOTD_ENABLED = Povolene
+MOTD_DISABLED = Zakazane
+
+ZOMBIE_ATTRIB1 = Zdravie
+ZOMBIE_ATTRIB2 = Rychlost
+ZOMBIE_ATTRIB3 = Gravitacia
+ZOMBIE_ATTRIB4 = Odhodenie
+
+CLASS_CLASS = Typ:
+CLASS_HUMAN = Clovek
+CLASS_ZOMBIE = Zombie
+CLASS_SURVIVOR = Vyvoleny
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = Nemesis
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = Posledny Zombie odisiel. Novy Zombie je %s
+LAST_HUMAN_LEFT = Posledny Clovek odisiel. Novy Clovek je %s
+NOT_ENOUGH_AMMO = Nemas dostatok bodov
+AMMO_BOUGHT = Kupil si naboje
+ZOMBIE_SELECT = Po nasledujucej nakaze budes zombie typu
+BUY_ENABLED = Nakupne menu bolo opat aktivovane.
+AMMO_PACKS1 = Body:
+AMMO_PACKS2 = Bodov
+SPECTATING = Sledujes Hrace:
+
+[sv]
+NOTICE_INFO1 = Tryck M f'o'r att visa spel menyn
+NOTICE_INFO2 = Tryck , eller . f'o'r att k'o'pa ammo
+NOTICE_VIRUS_FREE = T-Viruset har blivit frisl'a'ppt...
+NOTICE_FIRST = %s 'a'r den f'o'rsta zombie'n !!
+NOTICE_INFECT = %s's hj'a'rna har blivit upp'a'ten...
+NOTICE_INFECT2 = %s's hj'a'rna har blivit upp'a'ten av %s...
+NOTICE_ANTIDOTE = %s har anv'a'nt ett motgift...
+NOTICE_NEMESIS = %s 'a'r en Nemesis !!!
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = %s 'a'r en 'o'verlevande !!!
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_SWARM = Swarm Mode !!!
+NOTICE_MULTI = Flera infektioner !!!
+NOTICE_PLAGUE = Plague Mode !!!
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = M'a'nniskorna har vunnit 'o'ver virusen!
+WIN_ZOMBIE = Zombies har tagit 'o'ver makten!
+WIN_NO_ONE = Ingen vann...
+
+CMD_INFECT = F'o'rvandlades till en Zombie
+CMD_DISINFECT = Blev en m'a'nniska igen
+CMD_NEMESIS = F'o'rvandlades till en Nemesis
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = blev en 'o'verlevande
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = starta Swarm Mode
+CMD_MULTI = starta Flera infektioner
+CMD_PLAGUE = starta Plague Mode
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = Aterupplivad
+CMD_NOT = Ogiltigt kommando.
+CMD_ZOMBIE_ONLY = Detta 'a'r Endast tillg'a'ngligt f'o'r zombies.
+CMD_HUMAN_ONLY = Detta 'a'r Endast tillg'a'ngligt f'o'r m'a'nniskorna.
+CMD_NOT_STUCK = Du sitter inte fast.
+CMD_NOT_ACCESS = Du har inga r'a'ttigheter.
+CMD_NOT_CANTUSE = Du kan inte anv'a'nda detta just nu.
+CMD_NOT_EXTRAS = Extra saker 'a'r avaktiverade.
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = Zombie klasser 'a'r avaktiverade.
+
+MENU_BUY = K'o'p vapen
+MENU_EXTRABUY = K'o'p extra saker
+MENU_ZCLASS = V'a'lj zombie klass
+MENU_UNSTUCK = Sl'a'pp mig fri
+MENU_ADMIN = Admin Meny
+MENU_SPECTATOR = Bli Spectator
+
+MENU_BUY1_TITLE = Prim'a'rt vapen
+MENU_BUY2_TITLE = Sekund'a'rt vapen
+MENU_ZCLASS_TITLE = Zombie klass
+MENU_EXTRA_TITLE = Extra saker
+MENU_ADMIN_TITLE = Admin Meny
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = M'o'rkerseende (en runda)
+MENU_EXTRA2 = T-Virus Motgift
+MENU_EXTRA3 = Zombie Ilska
+MENU_EXTRA4 = Infektion Bomb
+MENU_ADMIN1 = Skapa Zombie/M'a'nniska
+MENU_ADMIN2 = Skapa Nemesis
+MENU_ADMIN3 = Skapa 'o'verlevande
+MENU_ADMIN4 = Ateruppliva Nagon
+MENU_ADMIN5 = Starta Swarm Mode
+MENU_ADMIN6 = Starta Dubbla Infektioner
+MENU_ADMIN7 = Starta Plague Mode
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = Generellt
+MENU_INFO2 = M'a'nniskor
+MENU_INFO3 = Zombies
+MENU_INFO4 = Olika spels'a'tt
+
+MENU_AUTOSELECT = Kom ihag val
+MENU_BACK = Bakat
+MENU_NEXT = N'a'sta
+MENU_EXIT = Avsluta
+
+MOTD_ENABLED = Aktiverad
+MOTD_DISABLED = Avaktiverad
+
+ZOMBIE_ATTRIB1 = H'a'lsa
+ZOMBIE_ATTRIB2 = Hastighet
+ZOMBIE_ATTRIB3 = Gravitation
+ZOMBIE_ATTRIB4 = 'O'verraska
+
+CLASS_CLASS = Klass:
+CLASS_HUMAN = M'a'nniska
+CLASS_ZOMBIE = Zombie
+CLASS_SURVIVOR = 'O'verlevande
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = Nemesis
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = Den sista zombie'n har l'a'mnat oss, %s 'a'r den nya zombie'n.
+LAST_HUMAN_LEFT = Den sista m'a'nniskan har l'a'mnat oss, %s 'a'r den nya m'a'nniskan.
+NOT_ENOUGH_AMMO = Du har inte tillr'a'ckligt med ammo.
+AMMO_BOUGHT = Du k'o'pte extra ammo till dina vapen.
+ZOMBIE_SELECT = Din zombieklass efter din n'a'sta infektion kommer att bli
+BUY_ENABLED = Din k'o'pmeny har blivit ateraktiverad.
+AMMO_PACKS1 = Ammo paket:
+AMMO_PACKS2 = ammo paket
+SPECTATING = Spectator:
+
+[nl]
+NOTICE_INFO1 = Druk op M om het menu te zien
+NOTICE_INFO2 = Druk op , of . om kogels te kopen
+NOTICE_VIRUS_FREE = Het T-Virus is uitgebroken...
+NOTICE_FIRST = %s is de eerste zombie!!
+NOTICE_INFECT = %s's hersenen zijn opgegeten...
+NOTICE_INFECT2 = %s's hersenen zijn gegeten door %s...
+NOTICE_ANTIDOTE = %s heeft een tegengif gebruikt...
+NOTICE_NEMESIS = %s is de Nemesis !!!
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = %s is een Overlevende !!!
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_SWARM = Zwerm Modus !!!
+NOTICE_MULTI = Meerdere Infecties !!!
+NOTICE_PLAGUE = Plaag Modus !!!
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = De mensen hebben de plaag verslagen!
+WIN_ZOMBIE = Zombies hebben de wereld overgenomen!
+WIN_NO_ONE = Niemand heeft gewonnen...
+
+CMD_INFECT = veranderde in een Zombie
+CMD_DISINFECT = veranderde terug in een Mens
+CMD_NEMESIS = veranderde in een Nemesis
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = veranderde in een Overlevende
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = start Zwerm Modus
+CMD_MULTI = start Meerdere Infecties
+CMD_PLAGUE = start Plaag Modus
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = terug tot leven gekomen
+CMD_NOT = Onbekend commando.
+CMD_ZOMBIE_ONLY = Dit is alleen toegankelijk voor zombies.
+CMD_HUMAN_ONLY = Dit is alleen toegankelijk voor mensen.
+CMD_NOT_STUCK = Je zit niet vast.
+CMD_NOT_ACCESS = Je hebt geen toegang.
+CMD_NOT_CANTUSE = Je kan dit niet gebruiken op dit moment.
+CMD_NOT_EXTRAS = Extra Spullen zijn uitgeschakeld.
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = Zombie Klasses zijn uitgeschakeld.
+
+MENU_BUY = Koop Wapens
+MENU_EXTRABUY = Koop Extra Spullen
+MENU_ZCLASS = Kies een Zombie Klasse
+MENU_UNSTUCK = Maak jezelf vrij
+MENU_ADMIN = Admin Menu
+MENU_SPECTATOR = Ga naar de Spectators
+
+MENU_BUY1_TITLE = Primaire Wapens (Geweren)
+MENU_BUY2_TITLE = Secondaire Wapens (Pistolen)
+MENU_ZCLASS_TITLE = Zombie Klasse
+MENU_EXTRA_TITLE = Extra Spullen
+MENU_ADMIN_TITLE = Admin Menu
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = Nachtkijker (��n ronde)
+MENU_EXTRA2 = T-Virus Tegengif
+MENU_EXTRA3 = Zombie Gekte
+MENU_EXTRA4 = Infectie Bom
+MENU_ADMIN1 = Maak Zombie/Human
+MENU_ADMIN2 = Maak Nemesis
+MENU_ADMIN3 = Maak Overlevende
+MENU_ADMIN4 = Breng iemand terug tot leven
+MENU_ADMIN5 = Start Zwerm Modus
+MENU_ADMIN6 = Start Meerdere infecties
+MENU_ADMIN7 = Start Plaag Modus
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = Algemeen
+MENU_INFO2 = Mensen
+MENU_INFO3 = Zombies
+MENU_INFO4 = Spel Modi
+
+MENU_AUTOSELECT = Onthoud geselecteerd
+MENU_BACK = Terug
+MENU_NEXT = Volgende
+MENU_EXIT = Verlaat
+
+MOTD_ENABLED = Ingeschakeld
+MOTD_DISABLED = Uitgeschakeld
+
+ZOMBIE_ATTRIB1 = Gezondheid
+ZOMBIE_ATTRIB2 = Snelheid
+ZOMBIE_ATTRIB3 = Zwaartekracht
+ZOMBIE_ATTRIB4 = Terugslag
+
+CLASS_CLASS = Klasse:
+CLASS_HUMAN = Mens
+CLASS_ZOMBIE = Zombie
+CLASS_SURVIVOR = Overlevende
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = Nemesis
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = De laatste zombie heeft de server verlaten, %s is de nieuwe zombie.
+LAST_HUMAN_LEFT = De laatste mens heeft de server verlaten, %s is de nieuwe mens.
+NOT_ENOUGH_AMMO = Je hebt niet genoeg Munitie Pakketten.
+AMMO_BOUGHT = Je kocht extra munitie voor je wapens.
+ZOMBIE_SELECT = Je zombie klasse na de volgende infectie zal zijn:
+BUY_ENABLED = De volgende ronde heb je de optie om opnieuw wapens te kopen.
+AMMO_PACKS1 = Munitie Pakketten:
+AMMO_PACKS2 = munitie pakketten
+SPECTATING = Je volgt:
+
+[gr]
+NOTICE_INFO1 = Pata M gia na deis to menu tou paxnidiou
+NOTICE_INFO2 = Pata , i . gia na pareis sfaires
+NOTICE_VIRUS_FREE = O Ios epese ston...
+NOTICE_FIRST = O % einai to prwto zombie !!
+NOTICE_INFECT = Ta miala tou % fagothikan...
+NOTICE_INFECT2 = Ta miala tou % fagothikan apo %...
+NOTICE_ANTIDOTE = O % xrisimopoihse antidoto...
+NOTICE_NEMESIS = O %s egine Nemesis !!!
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = Polapli Molinsi !!!
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_PLAGUE = Plague Mode !!!
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = Oi anthrwpoi nikisan tin panoukla!
+WIN_ZOMBIE = Ta Zombie kiriarxisan ton kosmo!
+WIN_NO_ONE = Kanenas den nikise...
+
+CMD_INFECT = metatrapike se Zombie
+CMD_DISINFECT = metatrapike se Anthrwpo
+CMD_NEMESIS = metatrapike se Nemesis
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = metatrapike se Epizonta
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = Arxise to Swarm Mode
+CMD_MULTI = Arxise i polapli Molinsi 
+CMD_PLAGUE = Arxise to Plague Mode
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = anagenithike
+CMD_NOT = Mi diathesimi entoli.
+CMD_ZOMBIE_ONLY = Auto einai mono diathesimo gia ta Zombie.
+CMD_HUMAN_ONLY = TAuto einai mono diathesimo gia tous Anthwpous.
+CMD_NOT_STUCK = Den exeis kolisei.
+CMD_NOT_ACCESS = Den exeis prosbasei edw.
+CMD_NOT_CANTUSE = Den mporeis na to xrisimopoihseis twra.
+CMD_NOT_EXTRAS = Ta extra pragmata einai ektos leitourgeias.
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = Oi Katigories twn Zombie einai ektos leitourgeias.
+
+MENU_BUY = Agorase Opla
+MENU_EXTRABUY = Agorase Extra Pragmata
+MENU_ZCLASS = Diale3e Katigoria Zombie
+MENU_UNSTUCK = 3ekola
+MENU_ADMIN = Admin Menu
+MENU_SPECTATOR = Mpes ws Theatis
+
+MENU_BUY1_TITLE = Arxiko Oplo
+MENU_BUY2_TITLE = Deutero Oplo
+MENU_ZCLASS_TITLE = Katigoria Zombie
+MENU_EXTRA_TITLE = Extra pragmata
+MENU_ADMIN_TITLE = Admin Menu
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = Nixterini Orasi (Gia 1 giro)
+MENU_EXTRA2 = Antidoto Panouklas
+MENU_EXTRA3 = Trela ton Zombie
+MENU_EXTRA4 = Bomba Molinsis
+MENU_ADMIN1 = Kane ton Zombie/Anthrwpo
+MENU_ADMIN2 = Kane ton Nemesis
+MENU_ADMIN3 = Kane ton Epizonta
+MENU_ADMIN4 = Anagenise Kapion
+MENU_ADMIN5 = 3ekina Swarm Mode
+MENU_ADMIN6 = 3ekina Pollapli Molinsi
+MENU_ADMIN7 = 3ekina Plague Mode
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = Genika
+MENU_INFO2 = Anthrwpoi
+MENU_INFO3 = Zombie
+MENU_INFO4 = Tropoi Gameplay
+
+MENU_AUTOSELECT = Thimisou tin Epilogi
+MENU_BACK = Pisw
+MENU_NEXT = Mprosta
+MENU_EXIT = E3odos
+
+MOTD_ENABLED = Energopihthike
+MOTD_DISABLED = Apenergopihthike
+
+CLASS_CLASS = Katigoria:
+CLASS_HUMAN = Anthrwpos
+CLASS_ZOMBIE = Zombie
+CLASS_SURVIVOR = Epizontas
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = Nemesis
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = To teleutaio Zombie exei fugei, O % einai to neo zombie.
+LAST_HUMAN_LEFT = O teleutaios Anthrwpos exei fugei,O % einai o neos anthwpos.
+NOT_ENOUGH_AMMO = Den exeis arketa AMMO paketa.
+AMMO_BOUGHT = Agorases extra sfaires gia to oplo sou.
+ZOMBIE_SELECT = I katigoria tou Zombie sas tha einai meta tin epomeni molinsi
+BUY_ENABLED = To menu gia agora oplwn Energopihthike.
+AMMO_PACKS1 = Paketa Ammo:
+AMMO_PACKS2 = Paketa ammo
+SPECTATING = Spectating:
+
+[ru]
+NOTICE_INFO1 = Нажмите М для вызова меню
+NOTICE_INFO2 = Нажмите , или . для покупки патронов
+NOTICE_VIRUS_FREE = Т-вирус витает в воздухе...
+NOTICE_FIRST = %s первый зомби !!!
+NOTICE_INFECT = Мозги %s были съедены...
+NOTICE_INFECT2 = Мозги %s были съедены %sом(ой)...
+NOTICE_ANTIDOTE = %s использовал противоядие...
+NOTICE_NEMESIS = %s Дьявол !!!
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = %s Выживший !!!
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_SWARM = Куча на кучу !!!
+NOTICE_MULTI = Массовое Заражение !!!
+NOTICE_PLAGUE = Чума расползается !!!
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = Люди победили заразу !
+WIN_ZOMBIE = Зомби захватили весь мир !
+WIN_NO_ONE = На этот раз ничья...
+
+CMD_INFECT = стал Зомби
+CMD_DISINFECT = превратился обратно в Человека
+CMD_NEMESIS = Дьявол !!!
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = Выживший !!!
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = Куча на кучу!
+CMD_MULTI = Массовое Заражение!
+CMD_PLAGUE = Чума!
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = возродился
+CMD_NOT = Недопустимая команда.
+CMD_ZOMBIE_ONLY = Доступно только для Зомби.
+CMD_HUMAN_ONLY = Доступно только для Людей.
+CMD_NOT_STUCK = Вы не застряли.
+CMD_NOT_ACCESS = У вас нет доступа.
+CMD_NOT_CANTUSE = Это нельзя сейчас использовать.
+CMD_NOT_EXTRAS = Специальные вещи отключены.
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = Классы Зомби отключены.
+
+MENU_BUY = Выбрать оружие
+MENU_EXTRABUY = Купить Спец-вещи
+MENU_ZCLASS = Класс Зомби...
+MENU_UNSTUCK = Застрял!
+MENU_ADMIN = Админ-меню
+MENU_SPECTATOR = В зрители
+
+MENU_BUY1_TITLE = Главное оружие
+MENU_BUY2_TITLE = Доп. оружие
+MENU_ZCLASS_TITLE = Класс Зомби:
+MENU_EXTRA_TITLE = Спец-вещи
+MENU_ADMIN_TITLE = Админ-меню
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = Ночное видение
+MENU_EXTRA2 = Антидот
+MENU_EXTRA3 = Бешенство зомби
+MENU_EXTRA4 = Граната-вирус
+MENU_ADMIN1 = Сделать Зомби/Человеком
+MENU_ADMIN2 = Дьяволом
+MENU_ADMIN3 = Выжившим
+MENU_ADMIN4 = Возродить
+MENU_ADMIN5 = Куча на кучу
+MENU_ADMIN6 = Массовое Зар.
+MENU_ADMIN7 = Чума
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = В общем
+MENU_INFO2 = Люди
+MENU_INFO3 = Зомби
+MENU_INFO4 = Варианты игры
+
+MENU_AUTOSELECT = Запомнить выбор
+MENU_BACK = Назад
+MENU_NEXT = Вперед
+MENU_EXIT = Выход
+
+MOTD_ENABLED = Вкл
+MOTD_DISABLED = Выкл
+
+ZOMBIE_ATTRIB1 = Здоровье
+ZOMBIE_ATTRIB2 = Скорость
+ZOMBIE_ATTRIB3 = Гравитация
+ZOMBIE_ATTRIB4 = Отброс
+
+CLASS_CLASS = Тип:
+CLASS_HUMAN = Человек
+CLASS_ZOMBIE = Зомби
+CLASS_SURVIVOR = Выживший
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = Дьявол
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = Единственный Зомби вышел из игры, теперь %s Зомби.
+LAST_HUMAN_LEFT = Единственный Человек вышел из игры, теперь %s Человек.
+NOT_ENOUGH_AMMO = У вас не хватает кредитов.
+AMMO_BOUGHT = Вы купили патроны.
+ZOMBIE_SELECT = После заражения ваш класс Зомби будет
+BUY_ENABLED = Меню покупки вновь включено.
+AMMO_PACKS1 = Кредиты:
+AMMO_PACKS2 = кр.
+SPECTATING = Наблюдение:
+
+[mn]
+NOTICE_INFO1 = М дарж тоглоомны менюг vзнэ vv
+NOTICE_INFO2 = , эсвэл . дарж сум авна уу
+NOTICE_VIRUS_FREE = Т-Вирус маш олноор тархлаа...
+NOTICE_FIRST = %s бол анхны зомби !!!
+NOTICE_INFECT = %s тvvний тархи идэгдлээ...
+NOTICE_INFECT2 = %s тvvний тархийг %s... амтархан идлээ
+NOTICE_ANTIDOTE = %s ерендег ашиглалаа...
+NOTICE_NEMESIS = %s Нэмэсис боллоо !!!
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = %s Сурвайвор боллоо !!!
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_SWARM = Сvрэг Зомби !!!
+NOTICE_MULTI = Давхар халдварлалт !!!
+NOTICE_PLAGUE = Тахал !!!
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = Хvмvvс тахлыг дийллээ!
+WIN_ZOMBIE = Зомбинууд дэлхийг эзэллээ!
+WIN_NO_ONE = Хэн ч ялсангvй...
+
+CMD_INFECT = зомби боллоо
+CMD_DISINFECT = хvн боллоо
+CMD_NEMESIS = Нэмэсис боллоо
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = Сурвайвор боллоо
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = Сvрэг Зомби-г эхлэх
+CMD_MULTI = Давхар халдварлалт-г эхлэх
+CMD_PLAGUE = Тахал-г эхлэх
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = амиллаа
+CMD_NOT = Комманд боломгvй байна
+CMD_ZOMBIE_ONLY = Энийг зомбинууд л хэрэглэнэ.
+CMD_HUMAN_ONLY = Энийг хvмvvс л хэрэглэнэ.
+CMD_NOT_STUCK = Та гацаагvй байна.
+CMD_NOT_ACCESS = Та нэвтрэх эрхгvй байна.
+CMD_NOT_CANTUSE = Энийг яг одоо ашиглах боломжгvй байна.
+CMD_NOT_EXTRAS = Нэмэлт Итэм боломжгvй байна.
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = Зомби сонгох боломжгvй байна.
+
+MENU_BUY = Буу авах
+MENU_EXTRABUY = Нэмэлт Итэм авах
+MENU_ZCLASS = Зомби сонгох
+MENU_UNSTUCK = Гацаагаа гаргах
+MENU_ADMIN = Админы меню
+MENU_SPECTATOR = Ажиглагч болох
+
+MENU_BUY1_TITLE = 1 дvгээр зэвсэг
+MENU_BUY2_TITLE = 2 дугээр зэвсэг
+MENU_ZCLASS_TITLE = Зомбины терел
+MENU_EXTRA_TITLE = Нэмэлт Итэм
+MENU_ADMIN_TITLE = Админы меню
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = Шенийн дуран (1 vе)
+MENU_EXTRA2 = Ерендег
+MENU_EXTRA3 = Зомбины солиорол
+MENU_EXTRA4 = Халдваржуулах бомб
+MENU_ADMIN1 = Хvн/Зомби болгох
+MENU_ADMIN2 = Нэмэсис болгох
+MENU_ADMIN3 = Сурвайвор болгох
+MENU_ADMIN4 = Хэн 1нийг амилуулах
+MENU_ADMIN5 = Сvрэг Зомби-г эхлvvлэх
+MENU_ADMIN6 = Давхар халдварлалт-г эхлvvлэх
+MENU_ADMIN7 = Тахал-г эхлvvлэх
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = Еренхий
+MENU_INFO2 = Хvмvvс
+MENU_INFO3 = Зомби
+MENU_INFO4 = Тоглоомны Хувилбарууд
+
+MENU_AUTOSELECT = Сонголтыг хадгалах
+MENU_BACK = Ухрах
+MENU_NEXT = Дараагийн
+MENU_EXIT = Гарах
+
+MOTD_ENABLED = Enabled
+MOTD_DISABLED = Disabled
+
+ZOMBIE_ATTRIB1 = Амь
+ZOMBIE_ATTRIB2 = Хурд
+ZOMBIE_ATTRIB3 = Таталзах хvч
+ZOMBIE_ATTRIB4 = Нокбакь
+
+CLASS_CLASS = Терел:
+CLASS_HUMAN = Хvн
+CLASS_ZOMBIE = Зомби
+CLASS_SURVIVOR = Сурвайвор
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = Нэмэсис
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = Сvvлийн зомби гарсан тул, %s шинэ зомби боллоо.
+LAST_HUMAN_LEFT = Сvvлийн хvн гарсан тул, %s шинэ хvн боллоо.
+NOT_ENOUGH_AMMO = Танд хангалттай Аммо алга.
+AMMO_BOUGHT = Та буундаа сум худалдаж авлаа.
+ZOMBIE_SELECT = Таны дараагий зомби терел бол
+BUY_ENABLED = Худалдаж авах меню идэвхжлээ.
+AMMO_PACKS1 = Aммо:
+AMMO_PACKS2 = аммо
+SPECTATING = Ажиглагчид:
+
+[ls]
+NOTICE_INFO1 = P|2355 M 70 5H0w 7H3 64M3 M3nU
+NOTICE_INFO2 = P|2355 , 0|2 . 70 pU|2CH453 4MM0
+NOTICE_VIRUS_FREE = 7H3 7-V1|2U5 H45 833n 537 L0053...
+NOTICE_FIRST = %s 15 7H3 f1|257 z0M813 !!
+NOTICE_INFECT = %s &|25QU0;5 8|241n5 H45 833n 3473n...
+NOTICE_INFECT2 = %s &|25QU0;5 8|241n5 H45 833n 3473n 8y %s...
+NOTICE_ANTIDOTE = %s H45 U53|} 4n 4n71|}073...
+NOTICE_NEMESIS = %s 15 4 N3M3515 !!!
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = %s 15 4 5U|2v1v0|2 !!!
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_SWARM = 5w4|2M M0|}3 !!!
+NOTICE_MULTI = MUL71pL3 1nf3C710n !!!
+NOTICE_PLAGUE = PL46U3 M0|}3 !!!
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = HUM4n5 |}3f3473|} 7H3 pL46U3!
+WIN_ZOMBIE = Z0M8135 H4v3 74K3n 0v3|2 7H3 w0|2L|}!
+WIN_NO_ONE = N0 0n3 w0n...
+
+CMD_INFECT = 7U|2n3|} 1n70 4 Z0M813
+CMD_DISINFECT = 7U|2n3|} 84CK 70 HUM4n
+CMD_NEMESIS = 7U|2n3|} 1n70 4 N3M3515
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = 7U|2n3|} 1n70 4 5U|2v1v0|2
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = 574|27 5w4|2M M0|}3
+CMD_MULTI = 574|27 MUL71pL3 1nf3C710n
+CMD_PLAGUE = 574|27 PL46U3 M0|}3
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = |235p4wn3|}
+CMD_NOT = Un4v41L48L3 C0MM4n|}.
+CMD_ZOMBIE_ONLY = 7H15 15 0nLy 4v41L48L3 70 z0M8135.
+CMD_HUMAN_ONLY = 7H15 15 0nLy 4v41L48L3 70 HUM4n5.
+CMD_NOT_STUCK = Y0U 4|23 n07 57UCK.
+CMD_NOT_ACCESS = Y0U H4v3 n0 4CC355.
+CMD_NOT_CANTUSE = Y0U C4n7 U53 7H15 |216H7 n0w.
+CMD_NOT_EXTRAS = 3x7|24 173M5 4|23 |}1548L3|}.
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = Z0M813 CL45535 4|23 |}1548L3|}.
+
+MENU_BUY = 8Uy W34p0n5
+MENU_EXTRABUY = 8Uy 3x7|24 173M5
+MENU_ZCLASS = CH0053 Z0M813 CL455
+MENU_UNSTUCK = Un57UCK
+MENU_ADMIN = 4|}M1n M3nU
+MENU_SPECTATOR = J01n 5p3C7470|25
+
+MENU_BUY1_TITLE = P|21M4|2y W34p0n
+MENU_BUY2_TITLE = 53C0n|}4|2y W34p0n
+MENU_ZCLASS_TITLE = Z0M813 CL455
+MENU_EXTRA_TITLE = 3x7|24 173M5
+MENU_ADMIN_TITLE = 4|}M1n M3nU
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = N16H7V1510n (51n6L3 |20Un|})
+MENU_EXTRA2 = 7-V1|2U5 4n71|}073
+MENU_EXTRA3 = Z0M813 M4|}n355
+MENU_EXTRA4 = 1nf3C710n 80M8
+MENU_ADMIN1 = M4K3 Z0M813/HUM4n
+MENU_ADMIN2 = M4K3 N3M3515
+MENU_ADMIN3 = M4K3 5U|2v1v0|2
+MENU_ADMIN4 = |235p4wn 50M30n3
+MENU_ADMIN5 = 574|27 5w4|2M M0|}3
+MENU_ADMIN6 = 574|27 MUL71pL3 1nf3C710n
+MENU_ADMIN7 = 574|27 PL46U3 M0|}3
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = 63n3|24L
+MENU_INFO2 = HUM4n5
+MENU_INFO3 = Z0M8135
+MENU_INFO4 = 64M3pL4y M0|}35
+
+MENU_AUTOSELECT = |23M3M83|2 53L3C710n
+MENU_BACK = 84CK
+MENU_NEXT = N3x7
+MENU_EXIT = 3x17
+
+MOTD_ENABLED = 3n48L3|}
+MOTD_DISABLED = |}1548L3|}
+
+ZOMBIE_ATTRIB1 = H34L7H
+ZOMBIE_ATTRIB2 = 5p33|}
+ZOMBIE_ATTRIB3 = 6|24v17y
+ZOMBIE_ATTRIB4 = Kn0CK84CK
+
+CLASS_CLASS = CL455:
+CLASS_HUMAN = HUM4n
+CLASS_ZOMBIE = Z0M813
+CLASS_SURVIVOR = 5U|2v1v0|2
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = N3M3515
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = 7H3 L457 z0M813 H45 L3f7, %s 15 7H3 n3w z0M813.
+LAST_HUMAN_LEFT = 7H3 L457 HUM4n H45 L3f7, %s 15 7H3 n3w HUM4n.
+NOT_ENOUGH_AMMO = Y0U |}0n7 H4v3 3n0U6H 4MM0 p4CK5.
+AMMO_BOUGHT = Y0U pU|2CH453|} 3x7|24 4MM0 f0|2 y0U|2 6Un5.
+ZOMBIE_SELECT = Y0U|2 z0M813 CL455 4f73|2 7H3 n3x7 1nf3C710n w1LL 83
+BUY_ENABLED = Y0U|2 8Uy M3nU H45 833n |23-3n48L3|}.
+AMMO_PACKS1 = 4MM0 p4CK5:
+AMMO_PACKS2 = 4MM0 p4CK5
+SPECTATING = 5p3C7471n6:
+
+[vn]
+NOTICE_INFO1 = Ấn M để hiện tùy chọn
+NOTICE_INFO2 = Ấn , hoặc . để mua trang bị
+NOTICE_VIRUS_FREE = T-Virus đã thoát ra ngoài...
+NOTICE_FIRST = %s trở thành zombie đầu tiên !!
+NOTICE_INFECT = Não của %s đã bị ăn...
+NOTICE_INFECT2 = %s đã bị ăn thịt bởi %s...
+NOTICE_ANTIDOTE = %s đã sử dụng thuốc kháng độc...
+NOTICE_NEMESIS = %s là Nemesis nó rất nguy hiểm!!!
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = %s là Survivor cô ấy có sức mạnh phi thường!!!
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_SWARM = Chế độ chiến đấu !!!
+NOTICE_MULTI = Bệnh dịch lan tràn !!!
+NOTICE_PLAGUE = Chế độ plague !!!
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = Loài người đã dập tắt bệnh dịch!
+WIN_ZOMBIE = Zombies đã chiếm toàn bộ thế giới!
+WIN_NO_ONE = Không Ai Thắng...
+
+CMD_INFECT = đã biến thành Zombie
+CMD_DISINFECT = đã trở lại làm người
+CMD_NEMESIS = đã biến thành Nemesis
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = đã trở thành Survivor
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = bắt đầu chế độ Chiến Đấu
+CMD_MULTI = bệnh dịch bắt đầu lan tràn
+CMD_PLAGUE = bắt đầu chế độ plague
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = được hồi sinh
+CMD_NOT = không thể thực hiện được mệnh lệnh.
+CMD_ZOMBIE_ONLY = Cái này chỉ dành cho zombies.
+CMD_HUMAN_ONLY = Cái này chỉ dành cho người.
+CMD_NOT_STUCK = You are not stuck.
+CMD_NOT_ACCESS = Bạn không có quyền truy nhập.
+CMD_NOT_CANTUSE = Bạn không thể sử dụng nó bây giờ.
+CMD_NOT_EXTRAS = Vũ khí bổ sung đã bị tắt.
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = Loại Zombie đã bị tắt.
+
+MENU_BUY = Mua vũ khí
+MENU_EXTRABUY = Mua thêm trang bị
+MENU_ZCLASS = Chọn loại Zombie
+MENU_UNSTUCK = Unstuck
+MENU_ADMIN = Tùy chọn của admin
+MENU_SPECTATOR = Tham gia vào nhóm quan sát
+
+MENU_BUY1_TITLE = Vũ khí chính
+MENU_BUY2_TITLE = Vũ khí phụ
+MENU_ZCLASS_TITLE = Loại Zombie
+MENU_EXTRA_TITLE = Thêm trang bị
+MENU_ADMIN_TITLE = Tùy chọn của người quản lý
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = Kính hồng ngoại(1 round)
+MENU_EXTRA2 = Thuốc kháng T-Virus
+MENU_EXTRA3 = Zombie hóa điên
+MENU_EXTRA4 = Bomb độc
+MENU_ADMIN1 = Tạo Zombie/Người
+MENU_ADMIN2 = Tạo Nemesis
+MENU_ADMIN3 = Tạo Survivor
+MENU_ADMIN4 = Hồi sinh ai đó
+MENU_ADMIN5 = Bật chế độ Chiến đấu
+MENU_ADMIN6 = Bệnh dịch lan tràn
+MENU_ADMIN7 = Bắt đầu chế độ Plague
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = Thông tin chung
+MENU_INFO2 = Người
+MENU_INFO3 = Zombies
+MENU_INFO4 = Chế độ chơi
+
+MENU_AUTOSELECT = Lưu tùy chọn trước
+MENU_BACK = Quay lại
+MENU_NEXT = Tiếp theo
+MENU_EXIT = Thoát
+
+MOTD_ENABLED = Thực hiện
+MOTD_DISABLED = Không thực hiện
+
+ZOMBIE_ATTRIB1 = Máu
+ZOMBIE_ATTRIB2 = Tốc độ
+ZOMBIE_ATTRIB3 = Nhảy cao
+ZOMBIE_ATTRIB4 = Bật lại khi dính đạn
+
+CLASS_CLASS = Loài:
+CLASS_HUMAN = Người
+CLASS_ZOMBIE = Zombie
+CLASS_SURVIVOR = Survivor
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = Nemesis
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = Còn lại 1 con zombie cuối cùng, %s là 1 loại zombie mới.
+LAST_HUMAN_LEFT = Còn lại 1 người cuối cùng, %s là 1 loại người mới.
+NOT_ENOUGH_AMMO = Bạn không đủ ammo packs.
+AMMO_BOUGHT = Bạn đã bỏ ra ammo packs cho những khẩu súng đó.
+ZOMBIE_SELECT = Loại zombie mà bạn sẽ biến khi bị nhiễm bệnh lần tới là
+BUY_ENABLED = Cửa sổ mua của bạn đã được kích hoạt.
+AMMO_PACKS1 = Ammo packs:
+AMMO_PACKS2 = ammo packs
+SPECTATING = Đang theo dõi:
+
+[cn]
+NOTICE_INFO1 = 按 M 显示游戏菜单
+NOTICE_INFO2 = 按 , 或 . 来购买弹药
+NOTICE_VIRUS_FREE = T病毒已经开始在整个区域中扩散,请大家小心周围.
+NOTICE_FIRST = %s 是第一个僵尸...
+NOTICE_INFECT = %s 已经被感染病毒了...
+NOTICE_INFECT2 = %s 已经被 %s 感染病毒了...
+NOTICE_ANTIDOTE = %s 使用了T病毒解药...
+NOTICE_NEMESIS = %s 是复仇之神!!!
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = %s 是一名幸存者!!!
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_SWARM = 对战模式!!!
+NOTICE_MULTI = 多重感染模式!!!
+NOTICE_PLAGUE = 军团模式!!!
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = 人类战胜了僵尸!
+WIN_ZOMBIE = 僵尸已经统治了世界!
+WIN_NO_ONE = 平局...
+
+CMD_INFECT = 变成僵尸
+CMD_DISINFECT = 变回人类
+CMD_NEMESIS = 变成复仇之神
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = 成为一名幸存者
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = 开始对战模式
+CMD_MULTI = 开始多重感染模式
+CMD_PLAGUE = 开始军团模式
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = 复活
+CMD_NOT = 无效的命令
+CMD_ZOMBIE_ONLY = 这是只适用于僵尸.
+CMD_HUMAN_ONLY = 这是只适用于人类.
+CMD_NOT_STUCK = 你没有被卡住!!
+CMD_NOT_ACCESS = 你没有权限使用该命令!
+CMD_NOT_CANTUSE = 你现在不能使用它.
+CMD_NOT_EXTRAS = 道具被禁止使用.
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = 僵尸类型被禁止使用.
+
+MENU_BUY = 购买武器
+MENU_EXTRABUY = 购买道具
+MENU_ZCLASS = 选择僵尸的类型
+MENU_UNSTUCK = 解除卡住(当你被卡住时使用)
+MENU_ADMIN = 管理员菜单
+MENU_SPECTATOR = 成为观察者
+
+MENU_BUY1_TITLE = 主要武器
+MENU_BUY2_TITLE = 次要武器
+MENU_ZCLASS_TITLE = 僵尸类型
+MENU_EXTRA_TITLE = 道具
+MENU_ADMIN_TITLE = 管理员菜单
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = 夜视仪(只有一局时间)
+MENU_EXTRA2 = T病毒解药(让你重新成为人类)
+MENU_EXTRA3 = 无敌僵尸(20秒时间)
+MENU_EXTRA4 = T病毒炸弹(可以感染一片的人类)
+MENU_ADMIN1 = 成为僵尸/人类
+MENU_ADMIN2 = 成为复仇之神
+MENU_ADMIN3 = 成为幸存者
+MENU_ADMIN4 = 复活某个人
+MENU_ADMIN5 = 开启对战模式
+MENU_ADMIN6 = 开启群体感染模式
+MENU_ADMIN7 = 开启军团模式
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = 观众
+MENU_INFO2 = 人类
+MENU_INFO3 = 僵尸
+MENU_INFO4 = 游戏模式
+
+MENU_AUTOSELECT = 记住设置
+MENU_BACK = 返回
+MENU_NEXT = 继续
+MENU_EXIT = 退出
+
+MOTD_ENABLED = 启用
+MOTD_DISABLED = 禁用
+
+ZOMBIE_ATTRIB1 = 生命
+ZOMBIE_ATTRIB2 = 速度
+ZOMBIE_ATTRIB3 = 重量
+ZOMBIE_ATTRIB4 = 击退
+
+CLASS_CLASS = 类型:
+CLASS_HUMAN = 人类
+CLASS_ZOMBIE = 僵尸
+CLASS_SURVIVOR = 幸存者
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = 复仇之神
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = 最后的一个僵尸离开了游戏, %s 是新的僵尸.
+LAST_HUMAN_LEFT = 最后的一个人类离开了游戏, %s 是新的人类.
+NOT_ENOUGH_AMMO = 你没有足够的弹药袋.
+AMMO_BOUGHT = 为你的枪购买额外的弹药.
+ZOMBIE_SELECT = 下一次你被感染时是:
+BUY_ENABLED = 你的购买菜单已经被重新启用.
+AMMO_PACKS1 = 弹药袋:
+AMMO_PACKS2 = 弹药袋
+SPECTATING = 观察中
+
+[tc]
+NOTICE_INFO1 = 點選"M"打開遊戲選單
+NOTICE_INFO2 = 點選","或"."購買子彈
+NOTICE_VIRUS_FREE = T-病毒飄散在空氣中...
+NOTICE_FIRST = %s 是第一隻殭屍 !!
+NOTICE_INFECT = %s's 的頭被吃掉了...
+NOTICE_INFECT2 = %s's 的頭是被 %s 吃掉...
+NOTICE_ANTIDOTE = %s 使用解毒劑...
+NOTICE_NEMESIS = %s 是復仇者 !!!
+NOTICE_ASSASSIN = %s is a Assassin !!!
+NOTICE_SURVIVOR = %s 是倖存者 !!!
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_SWARM = 對抗殭屍模式 !!!
+NOTICE_MULTI = 多人傳染模式 !!!
+NOTICE_PLAGUE = 瘟疫模式 !!!
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_APOCALYPSE = Apocalypse Mode !!!
+NOTICE_NIGHTMARE = Nightmare Mode !!!
+
+WIN_HUMAN = 人類打敗了殭屍!
+WIN_ZOMBIE = 殭屍佔領了全世界!
+WIN_NO_ONE = 沒有人獲勝...
+
+CMD_INFECT = 轉換為殭屍
+CMD_DISINFECT = 轉換為人類
+CMD_NEMESIS = 轉換為復仇者
+CMD_ASSASSIN = turned into a Assassin
+CMD_SURVIVAL = 轉換為倖存者
+CMD_SNIPER = turned into a Sniper
+CMD_SWARM = 開始 對抗殭屍模式
+CMD_MULTI = 開始 多人傳染模式
+CMD_PLAGUE = 開始 瘟疫模式
+CMD_ARMAGEDDON = start Armageddon Mode
+CMD_APOCALYPSE = start Apocalypse Mode
+CMD_NIGHTMARE = start Nightmare Mode
+CMD_RESPAWN = 重生
+CMD_NOT = 無效的命令.
+CMD_ZOMBIE_ONLY = 只對殭屍有效.
+CMD_HUMAN_ONLY = 只對人類有效.
+CMD_NOT_STUCK = 你不是stuck.
+CMD_NOT_ACCESS = 你沒有權限.
+CMD_NOT_CANTUSE = 你現在不能使用這個.
+CMD_NOT_EXTRAS = 特殊道具已關閉.
+CMD_BLOCK_BUY_EXTRA = Wait for the start of the round...
+CMD_NOT_ZCLASSES = 殭屍類型已關閉..
+
+MENU_BUY = 買武器
+MENU_EXTRABUY = 買特殊道具
+MENU_ZCLASS = 選擇殭屍類型
+MENU_UNSTUCK = Unstuck
+MENU_ADMIN = 管理者選單
+MENU_SPECTATOR = 切換為觀察者
+
+MENU_BUY1_TITLE = 主要武器
+MENU_BUY2_TITLE = 副武器
+MENU_ZCLASS_TITLE = 殭屍類型
+MENU_EXTRA_TITLE = 特殊道具
+MENU_ADMIN_TITLE = 管理者選單
+MENU_ADMIN_MODES_TITLE = Admin Modes Menu
+
+MENU_EXTRA1 = 夜視鏡 (單回合)
+MENU_EXTRA2 = T-病毒解毒劑
+MENU_EXTRA3 = 殭屍憤怒(短時間無敵)
+MENU_EXTRA4 = 毒素彈
+MENU_ADMIN1 = 指定一個為殭屍/人類
+MENU_ADMIN2 = 指定一個為復仇者
+MENU_ADMIN3 = 指定一個為倖存者
+MENU_ADMIN4 = 指定某人重生
+MENU_ADMIN5 = 開殭屍對抗模式
+MENU_ADMIN6 = 開始多人傳染模式
+MENU_ADMIN7 = 開始 瘟疫模式
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+MENU_ADMIN10 = Admin Mode Menu
+MENU_ADMIN11 = Start Armageddon Mode
+MENU_ADMIN12 = Start Apocalypse Mode
+MENU_ADMIN13 = Start Nightmare Mode
+MENU_INFO1 = 一般介紹
+MENU_INFO2 = 人類介紹
+MENU_INFO3 = 喪屍介紹
+MENU_INFO4 = 模式介紹
+
+MENU_AUTOSELECT = 記住設定
+MENU_BACK = 回去
+MENU_NEXT = 下頁
+MENU_EXIT = 離開
+
+MOTD_ENABLED = 開啟
+MOTD_DISABLED = 關閉
+
+ZOMBIE_ATTRIB1 = 生命值
+ZOMBIE_ATTRIB2 = 速度
+ZOMBIE_ATTRIB3 = 重力
+ZOMBIE_ATTRIB4 = 反彈力
+
+CLASS_CLASS = 類型:
+CLASS_HUMAN = 人類
+CLASS_ZOMBIE = 殭屍
+CLASS_SURVIVOR = 倖存者
+CLASS_SNIPER = Sniper
+CLASS_NEMESIS = 復仇者
+CLASS_ASSASSIN = Assassin
+
+LAST_ZOMBIE_LEFT = 最後一隻殭屍離開了, %s 是新的殭屍.
+LAST_HUMAN_LEFT = 最後一個人類離開了, %s 是新的人類.
+NOT_ENOUGH_AMMO = 你沒有足夠的彈藥包.
+AMMO_BOUGHT = 你用彈藥包買了子彈.
+ZOMBIE_SELECT = (下次感染時才會變)你選擇的殭屍類型為
+BUY_ENABLED = 您的購買菜單已重新啟用.
+AMMO_PACKS1 = 彈藥包:
+AMMO_PACKS2 = 彈藥包
+SPECTATING = 正在觀察:

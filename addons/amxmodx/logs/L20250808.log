@@ -1,0 +1,900 @@
+L 08/08/2025 - 07:28:08: -------- Mapchange to zm_lila_panic --------
+L 08/08/2025 - 07:28:10: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 07:28:11: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 07:28:11: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 07:28:11: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 07:28:11: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 07:28:11: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 07:28:13: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 07:29:34: [AMXX] Could not free plugin memory, failure 487.
+L 08/08/2025 - 07:29:34: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 07:29:35: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 07:29:35: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 07:29:35: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 07:29:35: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 07:29:35: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 07:29:36: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 07:35:38: [AMXX] Could not free plugin memory, failure 487.
+L 08/08/2025 - 07:35:38: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 07:35:39: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 07:35:39: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 07:35:39: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 07:35:39: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 07:35:39: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 07:35:40: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 07:48:35: [AMXX] Could not free plugin memory, failure 487.
+L 08/08/2025 - 07:48:35: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 07:48:35: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 07:48:35: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 07:48:35: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 07:48:36: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 07:48:36: [admin.amxx] Login: "ErenZP<34><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 07:48:38: [admin.amxx] Login: "ErenZP<34><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 07:54:49: [AMXX] Could not free plugin memory, failure 487.
+L 08/08/2025 - 07:54:49: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 07:54:50: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 07:54:50: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 07:54:50: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 07:54:51: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 07:54:51: [admin.amxx] Login: "ErenZP<45><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 07:54:51: [admin.amxx] Login: "ErenZP<45><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 07:58:15: [AMXX] Could not free plugin memory, failure 487.
+L 08/08/2025 - 07:58:15: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 07:58:16: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 07:58:16: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 07:58:16: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 07:58:16: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 07:58:16: [admin.amxx] Login: "ErenZP<56><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 07:58:17: [admin.amxx] Login: "ErenZP<56><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 08:01:17: [AMXX] Could not free plugin memory, failure 487.
+L 08/08/2025 - 08:01:17: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 08:01:18: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 08:01:18: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 08:01:18: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 08:01:18: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 08:01:18: [admin.amxx] Login: "ErenZP<67><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 08:01:19: [admin.amxx] Login: "ErenZP<67><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 08:11:51: [AMXX] Could not free plugin memory, failure 487.
+L 08/08/2025 - 08:11:51: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 08:11:58: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 08:11:58: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 08:11:58: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 08:11:59: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 08:11:59: [admin.amxx] Login: "ErenZP<78><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 08:12:02: [admin.amxx] Login: "ErenZP<78><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 08:23:53: [AMXX] Could not free plugin memory, failure 487.
+L 08/08/2025 - 08:23:53: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 08:23:54: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 08:23:54: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 08:23:54: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 08:23:54: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 08:23:54: [admin.amxx] Login: "ErenZP<89><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 08:23:55: [admin.amxx] Login: "ErenZP<89><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 08:31:25: [AMXX] Could not free plugin memory, failure 487.
+L 08/08/2025 - 08:31:25: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 08:31:26: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 08:31:26: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 08:31:26: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 08:31:26: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 08:31:26: [admin.amxx] Login: "ErenZP<100><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 08:31:27: [admin.amxx] Login: "ErenZP<100><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 08:35:28: [AMXX] Could not free plugin memory, failure 487.
+L 08/08/2025 - 08:35:29: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 08:35:30: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 08:35:30: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 08:35:30: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 08:35:30: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 08:35:30: [admin.amxx] Login: "ErenZP<111><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 08:35:31: [admin.amxx] Login: "ErenZP<111><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 08:36:24: [AMXX] Could not free plugin memory, failure 487.
+L 08/08/2025 - 08:36:24: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 08:36:25: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 08:36:25: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 08:36:25: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 08:36:25: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 08:36:25: [admin.amxx] Login: "ErenZP<122><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 08:36:26: [admin.amxx] Login: "ErenZP<122><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 08:40:53: [AMXX] Could not free plugin memory, failure 487.
+L 08/08/2025 - 08:40:53: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 08:40:54: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 08:40:54: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 08:40:54: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 08:40:55: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 08:40:55: [admin.amxx] Login: "ErenZP<133><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 08:40:55: [admin.amxx] Login: "ErenZP<133><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 08:41:09: [AMXX] Could not free plugin memory, failure 487.
+L 08/08/2025 - 08:41:10: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 08:41:10: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 08:41:10: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 08:41:10: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 08:41:10: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 08:41:10: [admin.amxx] Login: "ErenZP<144><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 08:41:11: [admin.amxx] Login: "ErenZP<144><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 08:47:21: [AMXX] Could not free plugin memory, failure 487.
+L 08/08/2025 - 08:47:21: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 08:47:22: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 08:47:22: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 08:47:22: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 08:47:23: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 08:47:23: [admin.amxx] Login: "ErenZP<155><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 08:47:24: [admin.amxx] Login: "ErenZP<155><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 08:53:27: [AMXX] Could not free plugin memory, failure 487.
+L 08/08/2025 - 09:00:29: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 09:00:30: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 09:00:30: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 09:00:30: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 09:00:30: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 09:00:31: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 09:00:31: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 09:00:32: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 09:03:30: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 09:03:31: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 09:03:31: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 09:03:31: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 09:03:31: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 09:03:31: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 09:03:32: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 09:07:11: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 09:07:11: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 09:07:11: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 09:07:11: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 09:07:12: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 09:07:12: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 09:07:13: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 09:11:53: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 09:11:55: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 09:11:55: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 09:11:55: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 09:11:55: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 09:11:56: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 09:11:56: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 09:11:58: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 09:13:13: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 09:13:13: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 09:13:13: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 09:13:13: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 09:13:13: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 09:13:13: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 09:13:14: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 09:14:31: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 09:14:34: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 09:14:34: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 09:14:34: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 09:14:34: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 09:14:35: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 09:14:35: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 09:14:36: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 09:15:55: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 09:15:56: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 09:15:56: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 09:15:56: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 09:15:56: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 09:15:57: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 09:15:57: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 09:15:58: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 09:51:32: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 09:51:35: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 09:51:35: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 09:51:35: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 09:51:35: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 09:51:35: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 09:51:35: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 09:51:38: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 09:52:15: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 09:52:16: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 09:52:16: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 09:52:16: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 09:52:16: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 09:52:16: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 09:52:17: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 09:58:31: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 09:58:32: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 09:58:33: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 09:58:33: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 09:58:33: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 09:58:33: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 09:58:33: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 09:58:34: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:01:09: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 10:01:10: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:01:10: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:01:10: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:01:10: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:01:10: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:01:11: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:05:06: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 10:05:06: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:05:06: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:05:06: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:05:06: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:05:06: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:05:07: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:21:39: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 10:21:41: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:21:41: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 10:21:41: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:21:41: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:21:42: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:21:42: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:21:43: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:23:23: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 10:23:24: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:23:24: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:23:24: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:23:24: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:23:24: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:23:25: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:23:57: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 10:23:58: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:23:58: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:23:58: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:23:58: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:23:58: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:23:59: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:24:20: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 10:24:22: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:24:22: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 10:24:22: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:24:22: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:24:22: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:24:22: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:24:24: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:25:05: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 10:25:06: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:25:06: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 10:25:06: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:25:06: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:25:06: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:25:06: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:25:07: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:26:57: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 10:27:00: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:27:00: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 10:27:00: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:27:00: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:27:00: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:27:00: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:27:01: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:27:37: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 10:27:39: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:27:39: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 10:27:39: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:27:39: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:27:39: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:27:39: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:27:41: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:29:27: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 10:29:29: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:29:29: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 10:29:29: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:29:29: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:29:29: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:29:29: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:29:30: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:31:22: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 10:31:24: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:31:24: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 10:31:24: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:31:24: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:31:24: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:31:24: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:31:25: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:32:13: -------- Mapchange to zm_fortuna_v2 --------
+L 08/08/2025 - 10:32:15: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:32:15: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 10:32:15: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:32:15: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:32:16: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:32:16: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:32:17: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:32:58: -------- Mapchange to zm_fortuna_v2 --------
+L 08/08/2025 - 10:33:00: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:33:00: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 10:33:00: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:33:00: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:33:00: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:33:00: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:33:01: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:34:30: -------- Mapchange to zm_fortuna_v2 --------
+L 08/08/2025 - 10:34:32: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:34:32: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 10:34:32: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:34:32: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:34:33: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:34:33: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:34:35: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:35:11: -------- Mapchange to zm_gbox7 --------
+L 08/08/2025 - 10:35:12: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:35:12: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 10:35:12: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:35:12: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:35:13: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:35:13: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:35:14: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:35:35: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 10:35:36: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:35:36: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 10:35:36: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:35:36: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:35:37: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:35:37: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:35:38: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:37:55: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 10:37:56: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:37:56: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:37:56: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:37:57: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:37:57: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:37:58: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:48:42: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 10:48:43: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:48:43: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:48:43: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:48:43: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:48:43: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:48:44: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:49:07: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 10:49:08: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:49:08: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 10:49:08: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:49:08: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:49:09: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:49:09: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:49:10: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:49:26: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 10:49:28: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:49:28: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 10:49:28: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:49:28: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:49:28: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:49:28: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:49:30: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:49:50: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 10:49:51: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:49:51: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 10:49:51: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:49:51: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:49:51: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:49:51: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:49:52: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:52:42: -------- Mapchange to zm_gbox6 --------
+L 08/08/2025 - 10:52:43: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:52:43: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 10:52:43: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:52:43: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:52:44: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:52:44: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:52:46: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:54:13: -------- Mapchange to zm_fortuna_v2 --------
+L 08/08/2025 - 10:54:14: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:54:14: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 10:54:14: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:54:14: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:54:19: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 10:54:20: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:54:20: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:54:20: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:54:20: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:54:20: [admin.amxx] Login: "ErenZP<2><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:54:22: [admin.amxx] Login: "ErenZP<2><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:56:39: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 10:56:41: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 10:56:41: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 10:56:41: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 10:56:41: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 10:56:41: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 10:56:41: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 10:56:42: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 11:02:39: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 11:02:41: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 11:02:41: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 11:02:41: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 11:02:41: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 11:02:42: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 11:02:42: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 11:02:44: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 11:36:16: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 11:36:23: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 11:36:23: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 11:36:23: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 11:36:23: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 11:36:24: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 11:36:24: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 11:36:27: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 11:39:35: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 11:39:38: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 11:39:38: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 11:39:38: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 11:39:38: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 11:39:39: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 11:39:39: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 11:39:40: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 11:45:45: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 11:45:47: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 11:45:47: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 11:45:47: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 11:45:47: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 11:45:48: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 11:45:48: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 11:45:51: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 11:53:14: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 11:53:19: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 11:53:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 11:53:19: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 11:53:19: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 11:53:19: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 11:53:19: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 11:53:21: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 11:57:53: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 11:57:54: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 11:57:54: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 11:57:54: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 11:57:54: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 11:57:54: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 11:57:55: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 11:58:16: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 11:58:18: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 11:58:18: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 11:58:18: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 11:58:18: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 11:58:18: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 11:58:18: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 11:58:20: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 12:00:03: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 12:00:06: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 12:00:06: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 12:00:06: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 12:00:06: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 12:00:07: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 12:00:07: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 12:00:08: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 12:04:33: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 12:04:35: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 12:04:35: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 12:04:35: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 12:04:35: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 12:04:36: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 12:04:36: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 12:04:37: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 12:05:18: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 12:05:20: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 12:05:20: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 12:05:20: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 12:05:20: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 12:05:20: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 12:05:20: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 12:05:22: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 12:12:37: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 12:12:39: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 12:12:39: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 12:12:39: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 12:12:39: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 12:12:40: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 12:12:40: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 12:12:42: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 12:15:27: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 12:15:27: [AMXX] Plugin "zp_human_skins_level_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_level") - check your modules.ini.
+L 08/08/2025 - 12:15:28: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 12:15:28: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 12:15:28: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 12:15:28: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 12:15:28: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 12:15:29: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 12:19:54: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 12:19:56: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 12:19:56: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 12:19:56: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 12:19:56: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 12:19:57: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 12:19:57: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 12:19:59: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 12:20:37: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 12:20:38: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 12:20:38: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 12:20:38: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 12:20:38: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 12:20:38: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 12:20:39: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 12:21:16: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 12:21:18: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 12:21:18: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 12:21:18: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 12:21:18: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 12:21:18: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 12:21:18: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 12:21:20: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 12:51:37: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 12:51:40: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 12:51:40: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 12:51:40: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 12:51:40: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 12:51:41: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 12:51:41: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 12:51:47: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 13:42:52: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 13:43:01: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 13:43:01: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 13:43:01: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 13:43:01: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 13:43:02: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 13:43:02: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 13:43:06: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 13:43:36: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 13:43:37: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 13:43:37: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 13:43:37: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 13:43:37: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 13:43:38: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 13:43:38: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 13:43:39: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 13:46:40: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 13:46:41: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 13:46:41: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 13:46:41: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 13:46:41: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 13:46:42: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 13:46:42: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 13:46:44: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 13:49:13: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 13:49:14: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 13:49:14: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 13:49:14: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 13:49:14: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 13:49:15: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 13:49:15: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 13:49:16: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 13:58:17: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 13:58:18: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 13:58:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 13:58:19: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 13:58:19: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 13:58:19: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 13:58:19: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 13:58:20: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 14:00:03: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 14:00:04: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 14:00:04: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 14:00:04: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 14:00:04: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 14:00:04: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 14:00:06: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 14:20:49: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 14:20:50: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 14:20:50: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 14:20:50: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 14:20:50: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 14:20:50: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 14:20:51: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 14:36:50: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 14:36:50: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 14:36:50: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 14:36:50: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 14:36:51: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 14:36:51: [admin.amxx] Login: "ErenZP<34><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 14:36:51: [admin.amxx] Login: "ErenZP<34><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 14:39:04: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 14:39:04: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 14:39:04: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 14:39:04: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 14:39:04: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 14:39:04: [admin.amxx] Login: "ErenZP<45><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 14:39:05: [admin.amxx] Login: "ErenZP<45><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 14:43:10: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 14:43:11: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 14:43:11: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 14:43:11: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 14:43:11: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 14:43:11: [admin.amxx] Login: "ErenZP<56><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 14:43:12: [admin.amxx] Login: "ErenZP<56><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 14:52:39: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 14:52:40: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 14:52:40: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 14:52:40: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 14:52:40: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 14:52:40: [admin.amxx] Login: "ErenZP<67><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 14:52:41: [admin.amxx] Login: "ErenZP<67><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 14:54:19: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 14:54:20: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 14:54:20: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 14:54:20: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 14:54:20: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 14:54:20: [admin.amxx] Login: "ErenZP<78><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 14:54:22: [admin.amxx] Login: "ErenZP<78><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 15:01:47: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 15:01:48: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 15:01:48: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 15:01:48: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 15:01:49: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 15:01:49: [admin.amxx] Login: "ErenZP<89><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 15:01:51: [admin.amxx] Login: "ErenZP<89><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 15:04:41: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 15:04:42: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 15:04:42: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 15:04:42: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 15:04:42: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 15:04:42: [admin.amxx] Login: "ErenZP<100><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 15:04:43: [admin.amxx] Login: "ErenZP<100><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 15:07:59: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 15:08:00: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 15:08:00: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 15:08:00: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 15:08:01: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 15:08:01: [admin.amxx] Login: "ErenZP<111><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 15:08:03: [admin.amxx] Login: "ErenZP<111><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 15:14:05: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 15:14:06: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 15:14:06: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 15:14:06: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 15:14:07: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 15:14:07: [admin.amxx] Login: "ErenZP<122><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 15:14:08: [admin.amxx] Login: "ErenZP<122><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 15:18:08: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 15:18:09: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 15:18:09: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 15:18:09: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 15:18:09: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 15:18:09: [admin.amxx] Login: "ErenZP<133><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 15:18:10: [admin.amxx] Login: "ErenZP<133><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 15:23:58: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 15:24:00: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 15:24:00: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 15:24:00: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 15:24:01: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 15:24:01: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 15:24:01: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 15:24:03: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 15:27:54: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 15:27:55: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 15:27:55: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 15:27:55: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 15:27:56: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 15:27:56: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 15:27:57: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 15:29:57: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 15:29:57: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 15:29:57: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 15:29:57: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 15:29:58: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 15:29:58: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 15:29:59: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 15:36:06: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 15:36:09: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 15:36:09: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 15:36:09: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 15:36:09: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 15:36:09: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 15:36:09: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 15:36:11: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 16:04:09: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 08/08/2025 - 16:04:24: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_gg
+L 08/08/2025 - 16:06:28: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 16:06:29: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 16:06:29: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 16:06:29: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 16:06:30: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 16:06:30: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 16:06:32: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 16:09:22: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 16:09:23: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 16:09:23: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 16:09:23: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 16:09:23: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 16:09:23: [admin.amxx] Login: "ErenZP<22><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 16:09:24: [admin.amxx] Login: "ErenZP<22><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 16:29:36: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 16:29:40: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 16:29:40: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 16:29:40: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 16:29:40: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 16:29:41: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 16:29:41: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 16:29:43: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 16:31:58: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 16:31:59: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 16:31:59: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 16:31:59: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 16:31:59: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 16:31:59: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 16:32:00: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 16:55:52: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 16:55:53: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 16:55:53: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 16:55:53: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 16:55:53: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 16:55:53: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 16:55:54: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 17:06:06: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 17:06:09: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 17:06:09: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 17:06:09: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 17:06:09: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 17:06:09: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 17:06:09: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 17:06:11: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 17:10:40: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 17:10:41: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 17:10:41: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 17:10:41: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 17:10:41: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 17:10:41: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 17:10:42: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 17:14:46: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 17:14:47: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 17:14:47: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 17:14:47: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 17:14:47: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 17:14:47: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 17:14:48: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 17:18:09: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 17:18:10: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 17:18:10: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 17:18:10: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 17:18:10: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 17:18:10: [admin.amxx] Login: "ErenZP<34><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 17:18:11: [admin.amxx] Login: "ErenZP<34><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 17:21:57: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 17:21:58: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 17:21:58: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 17:21:58: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 17:21:58: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 17:21:58: [admin.amxx] Login: "ErenZP<45><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 17:21:59: [admin.amxx] Login: "ErenZP<45><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 17:24:17: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 17:24:18: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 17:24:18: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 17:24:18: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 17:24:18: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 17:24:18: [admin.amxx] Login: "ErenZP<56><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 17:24:19: [admin.amxx] Login: "ErenZP<56><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 17:40:01: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 17:40:03: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 17:40:04: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 17:40:04: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 17:40:04: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 17:40:04: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 17:40:04: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 17:40:06: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 17:46:53: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 17:50:30: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 17:55:05: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 17:58:10: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 18:01:14: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 18:01:45: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 18:05:13: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 18:06:27: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 18:13:11: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 18:15:39: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 18:15:42: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 18:15:42: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 18:15:42: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 18:15:42: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 18:15:43: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 18:15:43: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 18:15:44: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 18:22:50: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 18:22:51: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 18:22:51: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 18:22:51: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 18:22:51: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 18:22:51: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 18:22:52: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 18:57:10: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 18:57:11: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 18:57:11: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 18:57:11: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 18:57:12: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 18:57:12: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 18:57:14: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 20:07:13: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 20:07:14: [zp_level_system.amxx] [ZP Level] Modelo ausente: models/player/Mestre_da_Sobrevivencia/Mestre_da_Sobrevivencia.mdl
+L 08/08/2025 - 20:07:23: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 20:07:23: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 20:07:23: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 20:07:23: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 20:07:23: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 20:07:23: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 20:07:27: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 20:16:55: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 20:16:55: [zp_level_system.amxx] [ZP Level] Modelo ausente: models/player/Mestre_da_Sobrevivencia/Mestre_da_Sobrevivencia.mdl
+L 08/08/2025 - 20:16:56: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 20:16:56: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 20:16:56: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 20:16:56: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 20:16:56: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 20:16:57: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 20:22:15: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 20:22:16: [zp_level_system.amxx] [ZP Level] Modelo ausente: models/player/Mestre_da_Sobrevivencia/Mestre_da_Sobrevivencia.mdl
+L 08/08/2025 - 20:22:16: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 20:22:16: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 20:22:16: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 20:22:18: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 20:22:18: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 20:22:19: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 20:32:26: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 20:32:26: [zp_level_system.amxx] [ZP Level] Modelo ausente: models/player/Mestre_da_Sobrevivencia/Mestre_da_Sobrevivencia.mdl
+L 08/08/2025 - 20:32:26: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 20:32:26: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 20:32:26: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 20:32:27: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 20:32:27: [admin.amxx] Login: "ErenZP<34><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 20:32:28: [admin.amxx] Login: "ErenZP<34><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 20:37:53: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 20:37:53: [zp_level_system.amxx] [ZP Level] Modelo ausente: models/player/Mestre_da_Sobrevivencia/Mestre_da_Sobrevivencia.mdl
+L 08/08/2025 - 20:37:54: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 20:37:54: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 20:37:54: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 20:37:54: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 20:37:54: [admin.amxx] Login: "ErenZP<45><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 20:37:55: [admin.amxx] Login: "ErenZP<45><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 20:45:12: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 20:45:12: [zp_level_system.amxx] [ZP Level] Modelo ausente: models/player/Mestre_da_Sobrevivencia/Mestre_da_Sobrevivencia.mdl
+L 08/08/2025 - 20:45:13: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 20:45:13: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 20:45:13: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 20:45:13: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 20:45:13: [admin.amxx] Login: "ErenZP<56><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 20:45:14: [admin.amxx] Login: "ErenZP<56><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 20:48:45: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 20:48:46: [zp_level_system.amxx] [ZP Level] Modelo ausente: models/player/Mestre_da_Sobrevivencia/Mestre_da_Sobrevivencia.mdl
+L 08/08/2025 - 20:48:46: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 20:48:46: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 20:48:46: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 20:48:47: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 20:48:47: [admin.amxx] Login: "ErenZP<67><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 20:48:47: [admin.amxx] Login: "ErenZP<67><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 20:56:34: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 20:56:34: [zp_level_system.amxx] [ZP Level] Modelo ausente: models/player/Mestre_da_Sobrevivencia/Mestre_da_Sobrevivencia.mdl
+L 08/08/2025 - 20:56:35: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 20:56:35: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 20:56:35: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 20:56:35: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 20:56:35: [admin.amxx] Login: "ErenZP<78><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 20:56:36: [admin.amxx] Login: "ErenZP<78><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 21:01:39: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 21:01:39: [zp_level_system.amxx] [ZP Level] Modelo ausente: models/player/Mestre_da_Sobrevivencia/Mestre_da_Sobrevivencia.mdl
+L 08/08/2025 - 21:01:39: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 21:01:39: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 21:01:39: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 21:01:40: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 21:01:40: [admin.amxx] Login: "ErenZP<89><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 21:01:41: [admin.amxx] Login: "ErenZP<89><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 21:08:24: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 21:08:24: [zp_level_system.amxx] [ZP Level] Modelo ausente: models/player/Mestre_da_Sobrevivencia/Mestre_da_Sobrevivencia.mdl
+L 08/08/2025 - 21:08:25: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 21:08:25: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 21:08:25: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 21:08:25: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 21:08:25: [admin.amxx] Login: "ErenZP<100><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 21:08:28: [admin.amxx] Login: "ErenZP<100><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 21:10:57: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 21:12:36: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 21:13:42: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 21:13:43: [zp_level_system.amxx] [ZP Level] Modelo ausente: models/player/Mestre_da_Sobrevivencia/Mestre_da_Sobrevivencia.mdl
+L 08/08/2025 - 21:13:45: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 21:13:45: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\lasermine_perfect.txt" line 1)
+L 08/08/2025 - 21:13:45: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 21:13:45: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 21:13:45: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 21:13:45: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 21:13:47: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 21:16:53: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 21:16:54: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 21:16:54: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 21:16:54: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 21:16:54: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 21:16:54: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 21:16:55: [admin.amxx] Login: "ErenZP<12><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 21:21:43: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 21:21:44: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 21:21:44: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 21:21:44: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 21:21:44: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 21:21:44: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 21:21:47: [admin.amxx] Login: "ErenZP<23><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 21:25:08: -------- Mapchange to zm_gg --------
+L 08/08/2025 - 21:25:08: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 08/08/2025 - 21:25:08: [zp_level_system.amxx] [ZP Level] Plugin iniciando...
+L 08/08/2025 - 21:25:08: [zp_level_system.amxx] [ZP Level] Plugin inicializado com sucesso!
+L 08/08/2025 - 21:25:09: [zm_vip.amxx] ErenZP become VIP. (SteamID: "STEAM_0:0:1776161912") (IP: "loopback") (Flags: "abcde")
+L 08/08/2025 - 21:25:09: [admin.amxx] Login: "ErenZP<34><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/08/2025 - 21:25:10: [admin.amxx] Login: "ErenZP<34><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")

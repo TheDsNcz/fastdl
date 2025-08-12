@@ -1,0 +1,18 @@
+[en]
+
+FirstBlood = %s just drew First Blood!
+
+DOUBLE_KILL = %s just got a Double Kill!
+TRIPLE_KILL = %s just got a Triple Kill!
+ULTRA_KILL = %s just got a Ultra Kill!
+RAMPAGE_KILL = %s is on RAMPAGE!!!
+
+
+SPREE_1 = %s has a Killing Spree!
+SPREE_2 = %s is Dominating!
+SPREE_3 = %s has a Mega Kill!
+SPREE_4 = %s is Unstoppable!
+SPREE_5 = %s is Wicked Sick!
+SPREE_6 = %s has a Monster Kill!!!
+SPREE_7 = %s is Godlike!
+SPREE_8 = %s is Beyond Godlike! Somebody kill him!!

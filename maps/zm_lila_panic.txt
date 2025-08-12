@@ -1,0 +1,13 @@
+:::::::::::::::zm_lila_panic::::::::::::::
+:::::::::::::::by::CaRbOn:::::::::::::::
+
+Humans: Run away from the zombies, 
+avoid the infection and kill the 
+zombies.
+
+Zombies: Eat their brains or infect all 
+humans.
+
+(Press FIRE to continue)
+
+

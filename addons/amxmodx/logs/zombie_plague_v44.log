@@ -1,0 +1,704 @@
+L 07/27/2025 - 19:01:48: Log file started (file "cstrike\addons\amxmodx\logs\zombie_plague_v44.log") (game "cstrike") (amx "1.8.2")
+L 07/27/2025 - 19:01:48: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - start Nightmare Mode (Players: 5/32
+L 07/27/2025 - 19:02:24: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - start Armageddon Mode (Players: 5/3
+L 07/27/2025 - 20:10:42: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - start Apocalypse Mode (Players: 13/
+L 07/27/2025 - 21:05:37: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - start Swarm Mode (Players: 13/32)
+L 07/27/2025 - 21:06:08: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 09:53:00: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 09:53:15: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 09:55:49: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Marvin turned into a Sniper (Player
+L 07/28/2025 - 11:38:48: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 12:04:28: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 12:05:24: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 12:05:30: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 12:07:51: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 12:10:21: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 12:10:35: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 12:15:48: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 12:16:02: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [P0D]Cheech Marin (100) turned into
+L 07/28/2025 - 12:16:12: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [P0D]Cheech Marin (100) turned into
+L 07/28/2025 - 12:16:13: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [P*D]John_Malkovich (100) turned in
+L 07/28/2025 - 12:16:55: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [P0D]Cheech Marin (100) turned into
+L 07/28/2025 - 12:19:05: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 12:21:32: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 12:21:42: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 12:22:14: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [P0D]Rodney_Dangerfield (100) turne
+L 07/28/2025 - 12:22:16: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [P0D]Cheech Marin (100) turned into
+L 07/28/2025 - 12:22:26: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [P*D]John_Malkovich (100) turned in
+L 07/28/2025 - 12:22:27: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [P0D]Jennifer_Love_Hewitt (100) tur
+L 07/28/2025 - 12:26:36: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [P*D]Burt_Reynolds (100) turned int
+L 07/28/2025 - 12:26:36: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned back 
+L 07/28/2025 - 12:26:38: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [P*D]John_Malkovich (100) turned in
+L 07/28/2025 - 12:33:06: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [POD]George_Clooney (100) turned in
+L 07/28/2025 - 12:33:07: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [P*D]Sylvester_Stallone (100) turne
+L 07/28/2025 - 12:34:02: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [P*D]L33t B0t (100) turned into a Z
+L 07/28/2025 - 12:34:03: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [POD]George_Clooney (100) turned in
+L 07/28/2025 - 12:34:03: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [P*D]Sylvester_Stallone (100) turne
+L 07/28/2025 - 12:34:04: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [POD]Keanau_Reeves (100) turned int
+L 07/28/2025 - 15:05:32: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 15:12:55: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 15:13:06: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [P0D]Eliza (100) turned into a Zomb
+L 07/28/2025 - 15:13:07: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned back 
+L 07/28/2025 - 15:13:12: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 15:13:52: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [P0D]Eliza (100) turned into a Assa
+L 07/28/2025 - 15:21:16: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 15:21:31: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [P0D]Patrick_Swayze (100) turned in
+L 07/28/2025 - 15:21:32: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [P0D]S.E.S. (100) turned into a Sur
+L 07/28/2025 - 15:21:33: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [POD]Botsie Collins (100) turned in
+L 07/28/2025 - 15:21:42: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 15:22:08: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 15:22:25: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 15:22:41: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 15:24:13: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [P0D]S.E.S. (100) turned into a Ass
+L 07/28/2025 - 17:19:37: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 17:19:41: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 17:22:35: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [POD]Make my Day (100) turned back 
+L 07/28/2025 - 17:22:36: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - [POD]Make my Day (100) turned into 
+L 07/28/2025 - 17:22:40: ADMIN Cyber | WaRzOnE player <STEAM_0:0:1776161912><loopback> - Cyber | WaRzOnE player turned into 
+L 07/28/2025 - 18:06:23: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Plague Mode (Players: 9/32)
+L 07/28/2025 - 18:06:53: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 07/28/2025 - 19:08:19: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Nightmare Mode (Players: 9/32)
+L 07/28/2025 - 19:08:45: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 07/28/2025 - 19:11:24: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 07/28/2025 - 19:19:34: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Nemesis (Players: 9/32)
+L 07/28/2025 - 19:22:53: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Nightmare Mode (Players: 9/32)
+L 07/28/2025 - 19:28:01: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Mel_Gibson (100) turned into a Assassin (Playe
+L 07/28/2025 - 19:40:20: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 07/28/2025 - 19:40:32: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Tom_Cruise (100) turned into a Sniper (Players
+L 07/28/2025 - 19:40:33: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Joe_Pesci (100) turned into a Sniper (Players:
+L 07/28/2025 - 20:06:36: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Zach turned into a Assassin (Players: 11/32)
+L 07/28/2025 - 21:47:42: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Pheonix turned into a Zombie (Players: 11/32)
+L 07/28/2025 - 21:47:43: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Ringo turned into a Zombie (Players: 11/32)
+L 07/28/2025 - 21:47:43: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Rip turned into a Zombie (Players: 11/32)
+L 07/28/2025 - 21:47:44: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Ringo turned back to Human (Players: 11/32)
+L 07/28/2025 - 21:47:47: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Minh turned into a Zombie (Players: 11/32)
+L 07/28/2025 - 21:47:48: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Kurt turned into a Zombie (Players: 11/32)
+L 07/28/2025 - 22:06:47: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Kevin turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:06:48: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Alfred turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:06:49: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Scott turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:06:50: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Finn turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:06:50: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Greg turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:09:02: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Nick turned into a Zombie (Players: 15/32)
+L 07/28/2025 - 22:09:03: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Colin turned into a Zombie (Players: 16/32)
+L 07/28/2025 - 22:09:04: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Perry turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:09:05: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Perry turned back to Human (Players: 19/32)
+L 07/28/2025 - 22:09:05: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Dan turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:09:10: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Orin turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:12:29: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Jerry turned into a Zombie (Players: 11/32)
+L 07/28/2025 - 22:12:29: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Orin turned into a Zombie (Players: 11/32)
+L 07/28/2025 - 22:12:30: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Bill turned into a Zombie (Players: 11/32)
+L 07/28/2025 - 22:12:30: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Rick turned into a Zombie (Players: 11/32)
+L 07/28/2025 - 22:12:31: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Mike turned into a Zombie (Players: 13/32)
+L 07/28/2025 - 22:13:47: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 19/32)
+L 07/28/2025 - 22:15:20: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 19/32)
+L 07/28/2025 - 22:17:09: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Jeff turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:17:10: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Don turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:17:10: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Shawn turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:17:10: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Jason turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:17:11: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Finn turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:17:13: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Steve turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:17:13: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Gary turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:17:14: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Ron turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:20:29: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Mark turned into a Zombie (Players: 18/32)
+L 07/28/2025 - 22:20:30: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Tom turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:20:30: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Doug turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:20:30: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Dustin turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:20:31: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Irving turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:20:31: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Wade turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:22:09: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Matt turned into a Sniper (Players: 19/32)
+L 07/28/2025 - 22:22:15: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Wayne turned into a Sniper (Players: 19/32)
+L 07/28/2025 - 22:22:19: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Matt turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:22:23: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 19/32)
+L 07/28/2025 - 22:22:27: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 19/32)
+L 07/28/2025 - 22:23:12: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Irving turned into a Zombie (Players: 11/32)
+L 07/28/2025 - 22:23:12: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Harold turned into a Zombie (Players: 11/32)
+L 07/28/2025 - 22:23:13: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Scott turned into a Zombie (Players: 11/32)
+L 07/28/2025 - 22:23:13: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Eric turned into a Zombie (Players: 11/32)
+L 07/28/2025 - 22:23:25: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Irving turned back to Human (Players: 19/32)
+L 07/28/2025 - 22:23:26: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Steve turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:23:28: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Keith turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:23:28: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Jason turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:23:28: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Tom turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:23:29: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Dave turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:25:46: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Dean turned into a Zombie (Players: 11/32)
+L 07/28/2025 - 22:25:46: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Steve turned into a Zombie (Players: 11/32)
+L 07/28/2025 - 22:25:46: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Jerry turned into a Zombie (Players: 11/32)
+L 07/28/2025 - 22:25:47: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Josh turned into a Zombie (Players: 12/32)
+L 07/28/2025 - 22:25:49: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Chris turned into a Zombie (Players: 16/32)
+L 07/28/2025 - 22:26:41: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Ethan turned back to Human (Players: 19/32)
+L 07/28/2025 - 22:26:42: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Ethan turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:26:43: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Ethan turned back to Human (Players: 19/32)
+L 07/28/2025 - 22:26:44: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Ethan turned into a Zombie (Players: 19/32)
+L 07/28/2025 - 22:26:44: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Ethan turned back to Human (Players: 19/32)
+L 07/28/2025 - 22:26:46: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 19/32)
+L 07/28/2025 - 22:26:54: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 19/32)
+L 07/29/2025 - 07:46:18: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Nightmare Mode (Players: 19/32)
+L 07/29/2025 - 07:47:43: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Nightmare Mode (Players: 11/32)
+L 07/29/2025 - 07:51:14: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Nightmare Mode (Players: 12/32)
+L 07/29/2025 - 08:06:33: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Nightmare Mode (Players: 11/32)
+L 07/29/2025 - 08:31:13: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Nightmare Mode (Players: 14/32)
+L 07/29/2025 - 08:35:11: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Nightmare Mode (Players: 12/32)
+L 07/29/2025 - 08:36:15: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Nightmare Mode (Players: 11/32)
+L 07/29/2025 - 08:36:58: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Nightmare Mode (Players: 11/32)
+L 07/29/2025 - 08:46:11: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 14/32)
+L 07/29/2025 - 08:47:51: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Troy turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 08:47:51: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Dustin turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 08:47:52: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Wyatt turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 08:47:52: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Connor turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 08:47:55: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Bruce_Lee (100) turned into a Zombie (Players:
+L 07/29/2025 - 08:52:29: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Ron turned into a Zombie (Players: 12/32)
+L 07/29/2025 - 08:52:30: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Adrian turned into a Zombie (Players: 12/32)
+L 07/29/2025 - 08:52:30: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Andy turned into a Zombie (Players: 13/32)
+L 07/29/2025 - 08:52:30: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Scott turned into a Zombie (Players: 13/32)
+L 07/29/2025 - 08:52:31: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Scott turned back to Human (Players: 14/32)
+L 07/29/2025 - 08:52:32: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Bruce_Lee (100) turned into a Zombie (Players:
+L 07/29/2025 - 08:53:16: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 14/32)
+L 07/29/2025 - 09:26:52: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 14/32)
+L 07/29/2025 - 09:29:59: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Andy turned into a Zombie (Players: 7/32)
+L 07/29/2025 - 09:30:00: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Kevin turned into a Zombie (Players: 10/32)
+L 07/29/2025 - 09:30:00: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Eric turned into a Zombie (Players: 11/32)
+L 07/29/2025 - 09:30:01: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Bill turned into a Zombie (Players: 12/32)
+L 07/29/2025 - 09:30:02: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Rick turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 09:35:31: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Mike turned into a Zombie (Players: 6/32)
+L 07/29/2025 - 09:35:32: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Brandon turned into a Zombie (Players: 6/32)
+L 07/29/2025 - 09:35:32: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Paul turned into a Zombie (Players: 6/32)
+L 07/29/2025 - 09:35:33: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Mark turned into a Zombie (Players: 6/32)
+L 07/29/2025 - 09:35:36: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Yahn turned into a Zombie (Players: 13/32)
+L 07/29/2025 - 09:43:06: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 8/32)
+L 07/29/2025 - 09:43:23: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 14/32)
+L 07/29/2025 - 09:43:35: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Irving turned back to Human (Players: 14/32)
+L 07/29/2025 - 09:43:36: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 09:46:18: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 6/32)
+L 07/29/2025 - 09:46:55: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 14/32)
+L 07/29/2025 - 09:56:34: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 09:56:39: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 14/32)
+L 07/29/2025 - 09:56:49: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Nemesis (Players: 14/32)
+L 07/29/2025 - 09:56:57: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Irving turned into a Survivor (Players: 14/32)
+L 07/29/2025 - 09:56:59: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Brad turned into a Survivor (Players: 14/32)
+L 07/29/2025 - 09:57:08: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Harold turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 09:57:08: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 14/32)
+L 07/29/2025 - 09:57:13: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 14/32)
+L 07/29/2025 - 09:57:29: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 10:01:09: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Jon turned into a Zombie (Players: 6/32)
+L 07/29/2025 - 10:01:09: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Ron turned into a Zombie (Players: 6/32)
+L 07/29/2025 - 10:01:10: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Nate turned into a Zombie (Players: 7/32)
+L 07/29/2025 - 10:06:10: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 07/29/2025 - 10:06:45: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 14/32)
+L 07/29/2025 - 10:14:36: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Connor turned into a Zombie (Players: 6/32)
+L 07/29/2025 - 10:14:36: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Jerry turned into a Zombie (Players: 6/32)
+L 07/29/2025 - 10:14:37: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Erik turned into a Zombie (Players: 6/32)
+L 07/29/2025 - 10:14:37: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Ian turned into a Zombie (Players: 6/32)
+L 07/29/2025 - 10:14:37: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Gary turned into a Zombie (Players: 6/32)
+L 07/29/2025 - 10:18:49: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Matt turned into a Zombie (Players: 6/32)
+L 07/29/2025 - 10:18:54: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Shawn turned into a Zombie (Players: 13/32)
+L 07/29/2025 - 10:20:46: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Kevin turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 10:20:47: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Bill turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 10:20:47: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Tom turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 10:20:47: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Shawn turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 10:20:49: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Heather_Locklear (100) turned into a Zombie (P
+L 07/29/2025 - 10:20:51: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Kevin turned back to Human (Players: 14/32)
+L 07/29/2025 - 10:20:52: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Doug turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 10:23:58: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 10:25:06: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 12/32)
+L 07/29/2025 - 10:25:20: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 14/32)
+L 07/29/2025 - 10:27:16: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 6/32)
+L 07/29/2025 - 10:28:43: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Ted turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 10:28:44: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Calvin turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 10:28:45: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Calvin turned back to Human (Players: 14/32)
+L 07/29/2025 - 10:28:45: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Henry turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 10:28:45: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Nate turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 10:28:46: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Calvin turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 10:28:47: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Matt turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 12:11:34: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 14/32)
+L 07/29/2025 - 12:17:55: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Derek turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 12:17:56: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 14/32)
+L 07/29/2025 - 12:17:57: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Nick turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 13:02:59: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 9/32)
+L 07/29/2025 - 13:05:23: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Dredd (100) turned into a Zombie (Players: 9/3
+L 07/29/2025 - 13:05:24: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Matt_Damon (100) turned into a Zombie (Players
+L 07/29/2025 - 13:05:25: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Robert_Downey_Jr (100) turned into a Zombie (P
+L 07/29/2025 - 13:07:16: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 9/32)
+L 07/29/2025 - 13:07:52: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Dredd (100) turned into a Zombie (Players: 9/3
+L 07/29/2025 - 13:07:53: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Heather_Graham (100) turned into a Zombie (Pla
+L 07/29/2025 - 13:20:02: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Dredd (100) turned back to Human (Players: 9/3
+L 07/29/2025 - 13:20:03: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Dredd (100) turned into a Zombie (Players: 9/3
+L 07/29/2025 - 13:20:06: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Heather_Graham (100) turned into a Zombie (Pla
+L 07/29/2025 - 13:20:06: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Matt_Damon (100) turned into a Zombie (Players
+L 07/29/2025 - 13:20:07: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Robert_Downey_Jr (100) turned back to Human (P
+L 07/29/2025 - 13:24:17: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Dredd (100) turned into a Zombie (Players: 9/3
+L 07/29/2025 - 13:24:18: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Heather_Graham (100) turned into a Zombie (Pla
+L 07/29/2025 - 13:37:19: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Dredd (100) turned into a Zombie (Players: 9/3
+L 07/29/2025 - 13:37:19: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Heather_Graham (100) turned into a Zombie (Pla
+L 07/29/2025 - 13:37:20: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Matt_Damon (100) turned into a Zombie (Players
+L 07/29/2025 - 13:37:20: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Robert_Downey_Jr (100) turned into a Zombie (P
+L 07/29/2025 - 13:37:21: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]L33t B0t (100) turned into a Zombie (Players: 
+L 07/29/2025 - 13:39:26: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Matt_Damon (100) turned into a Assassin (Playe
+L 07/29/2025 - 13:40:35: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Dredd (100) turned into a Zombie (Players: 9/3
+L 07/29/2025 - 13:43:40: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Dredd (100) turned into a Zombie (Players: 9/3
+L 07/29/2025 - 13:43:40: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Heather_Graham (100) turned into a Zombie (Pla
+L 07/29/2025 - 13:44:57: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 9/32)
+L 07/29/2025 - 13:45:04: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 07/29/2025 - 14:09:19: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Dredd (100) turned into a Zombie (Players: 9/3
+L 07/29/2025 - 14:09:19: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Matt_Damon (100) turned into a Zombie (Players
+L 07/29/2025 - 14:38:40: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 1/32)
+L 07/29/2025 - 14:38:55: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 9/32)
+L 07/29/2025 - 14:41:05: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 9/32)
+L 07/29/2025 - 14:42:48: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 9/32)
+L 07/29/2025 - 14:44:39: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Nemesis (Players: 9/32)
+L 07/29/2025 - 14:44:58: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 07/29/2025 - 14:46:08: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 9/32)
+L 07/29/2025 - 14:53:39: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Ivan (100) turned into a Zombie (Players: 9/32
+L 07/29/2025 - 14:53:39: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Kugelfang (100) turned into a Zombie (Players:
+L 07/29/2025 - 14:53:39: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 9/32)
+L 07/29/2025 - 14:57:13: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Kugelfang (100) turned into a Zombie (Players:
+L 07/29/2025 - 14:59:06: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Ivan (100) turned into a Zombie (Players: 9/32
+L 07/29/2025 - 14:59:10: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Kugelfang (100) turned into a Zombie (Players:
+L 07/29/2025 - 15:03:09: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Albert turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 15:03:10: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Frasier turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 15:03:10: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Ulric turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 15:03:16: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Ulysses turned into a Zombie (Players: 14/32)
+L 07/29/2025 - 15:04:04: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Make me Laugh (100) turned into a Zombie (Play
+L 07/29/2025 - 15:04:05: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Chris_Rock (100) turned into a Zombie (Players
+L 07/29/2025 - 15:04:05: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Jackie_Chan (100) turned into a Zombie (Player
+L 07/29/2025 - 15:04:05: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Make my Day (100) turned into a Zombie (Player
+L 07/29/2025 - 15:04:06: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]M0rbid Desire (100) turned into a Zombie (Play
+L 07/29/2025 - 15:04:07: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]M0rbid Desire (100) turned back to Human (Play
+L 07/29/2025 - 15:10:41: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Nemesis (Players: 1/32)
+L 07/29/2025 - 15:10:58: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Nemesis (Players: 9/32)
+L 07/29/2025 - 15:11:33: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Chris_Rock (100) turned into a Nemesis (Player
+L 07/29/2025 - 15:11:34: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Jackie_Chan (100) turned into a Nemesis (Playe
+L 07/29/2025 - 15:11:34: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Make my Day (100) turned into a Nemesis (Playe
+L 07/29/2025 - 15:11:46: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Nemesis (Players: 9/32)
+L 07/29/2025 - 15:14:31: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Make me Laugh (100) turned into a Zombie (Play
+L 07/29/2025 - 15:14:34: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Chris_Rock (100) turned into a Zombie (Players
+L 07/29/2025 - 15:14:35: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Jackie_Chan (100) turned into a Zombie (Player
+L 07/29/2025 - 15:14:36: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Make my Day (100) turned into a Zombie (Player
+L 07/29/2025 - 15:14:36: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]M0rbid Desire (100) turned into a Zombie (Play
+L 07/29/2025 - 15:16:48: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 1/32)
+L 07/29/2025 - 15:16:57: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Chris_Rock (100) turned into a Zombie (Players
+L 07/29/2025 - 15:19:23: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Nemesis (Players: 9/32)
+L 07/29/2025 - 15:20:42: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 1/32)
+L 07/29/2025 - 15:27:40: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 1/32)
+L 07/29/2025 - 16:01:21: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Berzerk Bot (100) turned into a Zombie (Player
+L 07/29/2025 - 16:01:22: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Violently Happy (100) turned into a Zombie (Pl
+L 07/29/2025 - 16:10:43: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Berzerk Bot (100) turned into a Zombie (Player
+L 07/29/2025 - 16:10:52: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Violently Happy (100) turned into a Zombie (Pl
+L 07/29/2025 - 16:10:53: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Sean_Connery (100) turned into a Zombie (Playe
+L 07/29/2025 - 16:10:53: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Alloc (100) turned into a Zombie (Players: 9/3
+L 07/29/2025 - 21:56:17: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 1/32)
+L 07/29/2025 - 21:58:20: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 1/32)
+L 07/29/2025 - 21:58:30: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 9/32)
+L 07/30/2025 - 08:04:57: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 07/30/2025 - 08:05:30: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Arnold_Schwarzenegger (100 turned into a Nemes
+L 07/30/2025 - 11:45:07: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 07/30/2025 - 14:47:21: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 9/32)
+L 07/30/2025 - 15:10:59: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Borg Queen (100) turned into a Nemesis (Player
+L 07/30/2025 - 15:10:59: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Nemesis (Players: 9/32)
+L 07/30/2025 - 15:11:19: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Borg Queen (100) turned into a Zombie (Players
+L 07/30/2025 - 15:11:19: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Juliet_Lewis (100) turned into a Zombie (Playe
+L 07/30/2025 - 15:13:38: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Borg Queen (100) turned into a Zombie (Players
+L 07/30/2025 - 16:28:54: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 07/30/2025 - 16:44:37: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Nemesis (Players: 1/32)
+L 07/30/2025 - 16:46:56: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Violently Happy (100) turned into a Nemesis (P
+L 07/30/2025 - 16:48:42: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Joe_Pesci (100) turned into a Nemesis (Players
+L 07/30/2025 - 16:48:45: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Violently Happy (100) turned into a Nemesis (P
+L 07/30/2025 - 16:52:27: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Violently Happy (100) turned into a Nemesis (P
+L 07/30/2025 - 16:54:14: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Violently Happy (100) turned into a Nemesis (P
+L 07/30/2025 - 16:59:46: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 1/32)
+L 07/30/2025 - 16:59:54: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Jennifer_Anniston (100) turned into a Zombie (
+L 07/30/2025 - 16:59:55: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 07/30/2025 - 17:03:54: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 1/32)
+L 07/30/2025 - 17:04:03: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Pissed Off (100) turned into a Zombie (Players
+L 07/30/2025 - 17:04:05: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Rambotnic (100) turned into a Zombie (Players:
+L 07/30/2025 - 17:04:05: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Berzerk Bot (100) turned into a Zombie (Player
+L 07/30/2025 - 17:04:06: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 07/30/2025 - 17:06:27: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Pissed Off (100) turned into a Zombie (Players
+L 07/30/2025 - 17:06:28: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Rambotnic (100) turned into a Zombie (Players:
+L 07/30/2025 - 17:06:29: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Woody_Harrelson (100) turned into a Zombie (Pl
+L 07/30/2025 - 17:06:30: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 07/30/2025 - 17:11:07: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 07/30/2025 - 17:11:53: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 9/32)
+L 07/30/2025 - 17:15:53: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 1/32)
+L 07/30/2025 - 17:16:04: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Tommy_Lee_Jones (100) turned into a Assassin (
+L 07/30/2025 - 17:16:34: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 07/30/2025 - 17:17:06: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Tommy_Lee_Jones (100) turned into a Nemesis (P
+L 07/30/2025 - 17:52:54: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 9/32)
+L 07/30/2025 - 18:49:09: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Sean_Connery (100) turned into a Assassin (Pla
+L 07/30/2025 - 18:54:23: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 9/32)
+L 07/30/2025 - 18:58:39: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Kate_Winslet (100) turned into a Assassin (Pla
+L 07/30/2025 - 19:00:14: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Sean_Connery (100) turned into a Assassin (Pla
+L 07/30/2025 - 19:01:56: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 1/32)
+L 07/30/2025 - 19:02:05: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Sean_Connery (100) turned into a Assassin (Pla
+L 07/30/2025 - 19:07:29: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Sean_Connery (100) turned into a Assassin (Pla
+L 07/30/2025 - 19:09:01: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Sean_Connery (100) turned into a Assassin (Pla
+L 07/30/2025 - 19:24:04: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]George_Hamilton (100) turned into a Assassin (
+L 07/30/2025 - 19:26:27: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 2/32)
+L 07/30/2025 - 19:30:38: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]George_Hamilton (100) turned into a Assassin (
+L 07/30/2025 - 19:30:50: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 9/32)
+L 07/30/2025 - 20:10:50: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 9/32)
+L 07/30/2025 - 22:09:55: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 07/30/2025 - 22:10:35: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Stacy_Keech (100) turned into a Assassin (Play
+L 07/31/2025 - 10:50:58: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Anthony_Hopkins (100) turned into a Nemesis (P
+L 07/31/2025 - 11:03:52: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 07/31/2025 - 14:18:25: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Nightmare Mode (Players: 9/32)
+L 08/01/2025 - 07:32:00: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 9/32)
+L 08/01/2025 - 09:30:37: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 08/01/2025 - 12:20:06: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 08/01/2025 - 12:25:41: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 08/01/2025 - 12:26:40: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 08/01/2025 - 12:31:21: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 08/01/2025 - 12:35:18: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 08/01/2025 - 12:41:51: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 08/01/2025 - 12:42:19: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 08/01/2025 - 12:50:14: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 08/01/2025 - 13:25:04: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Swarm Mode (Players: 9/32)
+L 08/01/2025 - 13:49:21: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Swarm Mode (Players: 9/32)
+L 08/01/2025 - 13:56:46: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Swarm Mode (Players: 1/32)
+L 08/01/2025 - 13:56:53: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Swarm Mode (Players: 9/32)
+L 08/01/2025 - 14:00:46: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Swarm Mode (Players: 9/32)
+L 08/01/2025 - 14:15:28: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Swarm Mode (Players: 1/32)
+L 08/01/2025 - 14:15:38: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Swarm Mode (Players: 9/32)
+L 08/01/2025 - 14:16:33: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Swarm Mode (Players: 9/32)
+L 08/01/2025 - 14:17:38: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Swarm Mode (Players: 9/32)
+L 08/01/2025 - 14:18:28: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Swarm Mode (Players: 9/32)
+L 08/01/2025 - 15:07:13: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/02/2025 - 11:33:01: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/02/2025 - 11:34:16: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 9/32)
+L 08/02/2025 - 12:18:20: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/02/2025 - 20:22:21: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/02/2025 - 20:23:20: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/02/2025 - 20:24:22: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/02/2025 - 20:41:11: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/02/2025 - 20:42:54: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/02/2025 - 20:42:58: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Fuzzy Logic (10) turned into a Zombie (Players
+L 08/02/2025 - 20:42:59: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Violently Happy (5) turned into a Zombie (Play
+L 08/02/2025 - 20:42:59: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Fragnatic (6) turned into a Zombie (Players: 9
+L 08/02/2025 - 20:43:01: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Sharon_Stone (8) turned into a Zombie (Players
+L 08/02/2025 - 20:43:02: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]George_Hamilton (10) turned into a Zombie (Pla
+L 08/02/2025 - 20:44:01: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Bruce_Lee (9) turned into a Zombie (Players: 9
+L 08/02/2025 - 20:44:01: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Chris_Rock (9) turned into a Zombie (Players: 
+L 08/02/2025 - 20:44:02: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Psyke (7) turned into a Zombie (Players: 9/32)
+L 08/02/2025 - 20:44:04: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/02/2025 - 20:45:44: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Will_Smith (7) turned into a Sniper (Players: 
+L 08/02/2025 - 20:45:48: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Wesley_Snipes (5) turned into a Sniper (Player
+L 08/02/2025 - 20:48:50: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/02/2025 - 21:03:36: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 08/02/2025 - 21:03:45: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Woody_Harrelson (7) turned into a Sniper (Play
+L 08/02/2025 - 21:03:45: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Larry_Fishbourne (5) turned into a Sniper (Pla
+L 08/02/2025 - 21:03:50: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Bruce_Willis (8) turned into a Zombie (Players
+L 08/02/2025 - 21:03:50: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Larry_Fishbourne (5) turned into a Zombie (Pla
+L 08/02/2025 - 21:03:50: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Killing Frenzy (6) turned into a Zombie (Playe
+L 08/02/2025 - 21:03:51: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Sean_Penn (9) turned into a Zombie (Players: 9
+L 08/02/2025 - 21:03:57: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/02/2025 - 21:04:12: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/02/2025 - 21:27:51: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/02/2025 - 21:29:41: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 9/32)
+L 08/03/2025 - 08:44:03: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Al_Pacino (100) turned into a Sniper (Players:
+L 08/03/2025 - 08:44:11: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/03/2025 - 08:44:39: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Nemesis (Players: 9/32)
+L 08/03/2025 - 08:45:56: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Swarm Mode (Players: 9/32)
+L 08/03/2025 - 09:13:53: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 08/03/2025 - 09:19:18: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/03/2025 - 09:23:13: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/03/2025 - 09:55:47: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/03/2025 - 09:56:50: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/03/2025 - 10:05:52: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 9/32)
+L 08/03/2025 - 10:08:19: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/03/2025 - 10:20:06: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 08/03/2025 - 10:30:00: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/03/2025 - 10:31:24: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/03/2025 - 12:23:22: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/03/2025 - 12:28:42: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 08/03/2025 - 12:30:38: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 08/03/2025 - 15:29:29: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/03/2025 - 15:31:30: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Marlon_Brando (100) turned into a Assassin (Pl
+L 08/03/2025 - 15:32:17: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Larry_Fishbourne (100) turned into a Assassin 
+L 08/03/2025 - 15:36:53: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/03/2025 - 17:53:17: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P0D]Fragnatic (100) turned into a Assassin (Player
+L 08/04/2025 - 11:31:09: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Heather_Graham (100) turned into a Nemesis (Pl
+L 08/04/2025 - 11:31:20: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Robert_Deniro (100) turned into a Assassin (Pl
+L 08/04/2025 - 11:31:39: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Heather_Graham (100) turned into a Assassin (P
+L 08/04/2025 - 11:35:20: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Nemesis (Players: 9/32)
+L 08/04/2025 - 11:35:28: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 9/32)
+L 08/04/2025 - 11:35:38: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Funky Byte (100) turned into a Sniper (Players
+L 08/04/2025 - 11:35:51: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Robert_Deniro (100) turned into a Zombie (Play
+L 08/04/2025 - 11:35:54: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/04/2025 - 11:36:10: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 9/32)
+L 08/04/2025 - 11:37:42: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 1/32)
+L 08/04/2025 - 11:37:51: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/04/2025 - 13:37:06: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/04/2025 - 13:50:16: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/04/2025 - 13:55:12: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/04/2025 - 13:59:16: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/04/2025 - 14:00:35: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/04/2025 - 14:04:34: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/04/2025 - 14:07:50: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/04/2025 - 14:47:36: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 9/32)
+L 08/04/2025 - 14:57:22: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP respawned (Players: 9/32)
+L 08/04/2025 - 20:31:40: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 6/32)
+L 08/04/2025 - 21:03:56: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 6/32)
+L 08/04/2025 - 21:04:32: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 09:22:04: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 6/32)
+L 08/05/2025 - 09:53:12: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Kurt turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 09:53:13: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 6/32)
+L 08/05/2025 - 09:53:14: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Arnold turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 09:56:19: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 6/32)
+L 08/05/2025 - 09:56:20: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 09:56:20: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 6/32)
+L 08/05/2025 - 10:12:36: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Wolf turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 10:12:50: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 6/32)
+L 08/05/2025 - 10:14:20: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Quade turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 10:14:21: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Brett turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 10:20:52: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Gunner turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 10:20:53: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 6/32)
+L 08/05/2025 - 10:24:32: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Ringo turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 10:30:37: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Steel turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 10:30:37: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Kurt turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 10:55:18: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Brett turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 11:04:10: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Gunner turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 11:04:11: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Kyle turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 11:13:36: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Cliffe turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 11:15:41: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 6/32)
+L 08/05/2025 - 11:15:52: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 6/32)
+L 08/05/2025 - 11:21:20: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Zach turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 11:21:21: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Kyle turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 11:21:27: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 6/32)
+L 08/05/2025 - 11:21:51: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 6/32)
+L 08/05/2025 - 11:22:01: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 6/32)
+L 08/05/2025 - 11:22:28: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 6/32)
+L 08/05/2025 - 11:23:18: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 6/32)
+L 08/05/2025 - 11:23:32: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 6/32)
+L 08/05/2025 - 11:31:45: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Rock turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 11:31:56: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 6/32)
+L 08/05/2025 - 11:32:10: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 6/32)
+L 08/05/2025 - 11:34:08: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 6/32)
+L 08/05/2025 - 11:34:36: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 6/32)
+L 08/05/2025 - 11:36:10: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Rip turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 11:36:10: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Zach turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 11:37:42: ADMIN ErenZPx <STEAM_0:0:1776161912><loopback> - Ringo turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 11:40:28: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Ringo turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 11:40:28: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Zach turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 12:23:46: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Nightmare Mode (Players: 6/32)
+L 08/05/2025 - 12:24:29: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Apocalypse Mode (Players: 6/32)
+L 08/05/2025 - 12:24:44: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Armageddon Mode (Players: 6/32)
+L 08/05/2025 - 12:25:02: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - start Plague Mode (Players: 6/32)
+L 08/05/2025 - 12:33:49: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Ringo turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 12:36:34: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Cliffe turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 12:45:38: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Minh turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 12:45:38: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 6/32)
+L 08/05/2025 - 16:11:54: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 6/32)
+L 08/05/2025 - 16:27:35: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 6/32)
+L 08/05/2025 - 16:34:07: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 6/32)
+L 08/05/2025 - 16:34:41: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 6/32)
+L 08/05/2025 - 17:25:17: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Shark turned into a Zombie (Players: 6/32)
+L 08/05/2025 - 17:25:18: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 6/32)
+L 08/05/2025 - 17:58:18: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 6/32)
+L 08/05/2025 - 17:58:58: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 6/32)
+L 08/05/2025 - 17:59:02: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Nemesis (Players: 6/32)
+L 08/06/2025 - 08:48:32: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Zed turned into a Zombie (Players: 6/32)
+L 08/06/2025 - 08:48:33: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 6/32)
+L 08/06/2025 - 10:16:09: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Kurt turned into a Zombie (Players: 6/32)
+L 08/06/2025 - 10:30:03: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 6/32)
+L 08/06/2025 - 10:31:02: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 6/32)
+L 08/06/2025 - 10:38:47: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 6/32)
+L 08/06/2025 - 11:17:35: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 6/32)
+L 08/06/2025 - 11:43:17: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 6/32)
+L 08/06/2025 - 12:02:36: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 6/32)
+L 08/06/2025 - 12:27:34: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 6/32)
+L 08/06/2025 - 14:44:52: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 6/32)
+L 08/06/2025 - 14:45:18: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 6/32)
+L 08/06/2025 - 14:55:12: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 6/32)
+L 08/06/2025 - 14:55:15: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Minh turned into a Zombie (Players: 6/32)
+L 08/06/2025 - 14:55:15: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Kyle turned into a Zombie (Players: 6/32)
+L 08/06/2025 - 14:55:15: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Moe turned into a Zombie (Players: 6/32)
+L 08/06/2025 - 15:49:08: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 6/32)
+L 08/06/2025 - 15:53:43: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Crusher turned into a Zombie (Players: 11/32)
+L 08/06/2025 - 15:53:56: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Crusher turned into a Zombie (Players: 11/32)
+L 08/06/2025 - 16:25:24: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 11/32)
+L 08/06/2025 - 16:30:09: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Rip turned into a Zombie (Players: 11/32)
+L 08/06/2025 - 16:30:10: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Gunner turned into a Zombie (Players: 11/32)
+L 08/06/2025 - 17:04:34: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 11/32)
+L 08/06/2025 - 17:10:40: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/06/2025 - 17:10:44: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/06/2025 - 17:10:46: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/06/2025 - 17:11:35: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/06/2025 - 18:06:49: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/06/2025 - 18:38:43: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Wolf turned into a Zombie (Players: 11/32)
+L 08/06/2025 - 20:25:29: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/06/2025 - 20:49:35: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Zach turned into a Zombie (Players: 11/32)
+L 08/06/2025 - 20:49:35: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Quintin turned into a Zombie (Players: 11/32)
+L 08/06/2025 - 21:34:54: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Pheonix turned into a Zombie (Players: 11/32)
+L 08/06/2025 - 21:38:31: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Steel turned into a Zombie (Players: 11/32)
+L 08/06/2025 - 21:38:31: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Kyle turned into a Zombie (Players: 11/32)
+L 08/06/2025 - 21:38:32: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Stone turned into a Zombie (Players: 11/32)
+L 08/06/2025 - 21:38:32: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Pheonix turned into a Zombie (Players: 11/32)
+L 08/06/2025 - 21:41:27: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Rip turned into a Zombie (Players: 11/32)
+L 08/06/2025 - 21:41:27: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Zed turned into a Zombie (Players: 11/32)
+L 08/06/2025 - 21:41:28: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Rock turned into a Zombie (Players: 11/32)
+L 08/06/2025 - 21:47:45: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Steel turned into a Zombie (Players: 11/32)
+L 08/06/2025 - 21:54:23: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Steel turned into a Zombie (Players: 11/32)
+L 08/06/2025 - 21:55:18: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Cliffe turned into a Zombie (Players: 11/32)
+L 08/07/2025 - 07:24:04: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP respawned (Players: 11/32)
+L 08/07/2025 - 07:30:15: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Moe turned into a Assassin (Players: 11/32)
+L 08/07/2025 - 07:32:01: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Kyle turned into a Assassin (Players: 11/32)
+L 08/07/2025 - 07:33:27: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Kyle turned into a Assassin (Players: 11/32)
+L 08/07/2025 - 07:35:25: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Crusher turned into a Assassin (Players: 11/32)
+L 08/07/2025 - 07:38:42: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 11/32)
+L 08/07/2025 - 07:40:03: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 11/32)
+L 08/07/2025 - 08:25:56: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Stone turned into a Zombie (Players: 11/32)
+L 08/07/2025 - 08:25:57: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Cliffe turned into a Zombie (Players: 11/32)
+L 08/07/2025 - 08:41:18: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 11/32)
+L 08/07/2025 - 08:54:52: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/07/2025 - 11:40:04: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Quintin turned into a Zombie (Players: 11/32)
+L 08/07/2025 - 12:49:38: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/07/2025 - 13:18:17: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Minh turned into a Assassin (Players: 11/32)
+L 08/07/2025 - 13:19:54: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Cliffe turned into a Assassin (Players: 11/32)
+L 08/07/2025 - 13:22:34: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 11/32)
+L 08/07/2025 - 13:30:39: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Steel turned into a Survivor (Players: 11/32)
+L 08/07/2025 - 13:31:10: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 11/32)
+L 08/07/2025 - 16:25:41: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Gunner turned into a Zombie (Players: 11/32)
+L 08/07/2025 - 16:30:04: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/07/2025 - 16:38:45: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Gunner turned into a Zombie (Players: 11/32)
+L 08/07/2025 - 16:41:25: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Gunner turned into a Nemesis (Players: 11/32)
+L 08/07/2025 - 16:42:03: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Gunner turned into a Zombie (Players: 11/32)
+L 08/07/2025 - 16:42:03: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Quintin turned into a Zombie (Players: 11/32)
+L 08/07/2025 - 16:42:04: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Zed turned into a Zombie (Players: 11/32)
+L 08/07/2025 - 16:46:15: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Quintin turned into a Zombie (Players: 11/32)
+L 08/07/2025 - 16:49:18: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Pheonix turned into a Zombie (Players: 11/32)
+L 08/07/2025 - 16:49:59: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/07/2025 - 16:52:21: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Pheonix turned into a Assassin (Players: 11/32)
+L 08/07/2025 - 16:53:46: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Moe turned into a Zombie (Players: 11/32)
+L 08/07/2025 - 16:57:16: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Gunner turned into a Zombie (Players: 11/32)
+L 08/07/2025 - 16:58:06: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Arnold turned into a Zombie (Players: 11/32)
+L 08/07/2025 - 16:59:06: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Stone turned into a Zombie (Players: 11/32)
+L 08/07/2025 - 17:43:00: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/07/2025 - 18:42:03: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Minh turned into a Assassin (Players: 11/32)
+L 08/07/2025 - 18:58:31: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/07/2025 - 20:56:53: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/07/2025 - 20:57:28: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/07/2025 - 20:58:04: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/07/2025 - 20:58:30: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/08/2025 - 07:44:52: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 11/32)
+L 08/08/2025 - 07:45:00: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 11/32)
+L 08/08/2025 - 07:45:33: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/08/2025 - 11:03:38: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/08/2025 - 13:47:13: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/08/2025 - 14:39:41: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Moe turned into a Assassin (Players: 11/32)
+L 08/08/2025 - 14:40:54: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Moe turned into a Assassin (Players: 11/32)
+L 08/08/2025 - 14:41:48: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 11/32)
+L 08/08/2025 - 15:30:51: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Quade turned into a Zombie (Players: 11/32)
+L 08/08/2025 - 15:30:51: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/08/2025 - 16:11:35: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Rock turned into a Zombie (Players: 11/32)
+L 08/08/2025 - 16:11:36: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/08/2025 - 16:12:25: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/08/2025 - 17:06:57: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/08/2025 - 17:40:34: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Moe turned into a Zombie (Players: 11/32)
+L 08/08/2025 - 17:40:35: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Stone turned into a Zombie (Players: 11/32)
+L 08/08/2025 - 17:40:41: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Nemesis (Players: 11/32)
+L 08/08/2025 - 18:17:19: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Steel turned into a Zombie (Players: 11/32)
+L 08/08/2025 - 18:17:19: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/08/2025 - 20:45:47: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/08/2025 - 20:57:33: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 11/32)
+L 08/08/2025 - 20:57:56: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 11/32)
+L 08/08/2025 - 21:01:53: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 11/32)
+L 08/08/2025 - 21:03:37: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/08/2025 - 21:26:13: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/09/2025 - 07:52:18: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Arnold turned into a Assassin (Players: 11/32)
+L 08/09/2025 - 11:18:43: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 11:22:27: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Moe turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 11:22:32: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Quade turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 11:22:33: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/09/2025 - 11:22:41: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 11:22:46: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Quade turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 11:22:46: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/09/2025 - 11:23:15: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 11:23:30: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 11:46:02: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 12:53:16: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Cliffe turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 13:26:33: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Pheonix turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 13:30:49: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Arnold turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 13:32:06: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Shark turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 13:32:13: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/09/2025 - 13:32:47: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/09/2025 - 13:34:24: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Quade turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 13:39:27: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Minh turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 13:42:43: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Kurt turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 13:43:20: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 13:43:24: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/09/2025 - 13:45:19: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Moe turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 13:55:11: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Crusher turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 14:06:40: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Minh turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 14:09:21: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Stone turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 14:13:23: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Moe turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 14:18:49: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 14:34:28: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/09/2025 - 14:36:25: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/09/2025 - 14:39:28: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Crusher turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 14:39:29: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/09/2025 - 14:40:35: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/09/2025 - 16:04:44: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP respawned (Players: 11/32)
+L 08/09/2025 - 16:07:31: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/09/2025 - 16:15:35: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Moe turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 16:15:35: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/09/2025 - 16:15:48: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Gunner turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 16:31:59: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/09/2025 - 16:44:23: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Pheonix turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 16:44:26: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Rip turned back to Human (Players: 11/32)
+L 08/09/2025 - 16:44:31: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Quintin turned back to Human (Players: 11/32)
+L 08/09/2025 - 16:44:32: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Minh turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 16:49:24: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Rip turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 16:49:25: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Rock turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 16:49:26: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Minh turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 16:49:31: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Pheonix turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 16:57:49: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 17:00:52: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 17:04:39: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 17:16:15: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Gunner turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 18:09:05: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Quintin turned into a Assassin (Players: 11/32)
+L 08/09/2025 - 18:09:59: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 11/32)
+L 08/09/2025 - 18:11:55: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Crusher turned into a Assassin (Players: 11/32)
+L 08/09/2025 - 18:12:18: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 11/32)
+L 08/09/2025 - 18:28:04: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Gunner turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 18:28:27: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 18:39:33: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 18:41:07: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 18:41:09: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Wolf turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 18:51:25: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 18:53:50: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 19:21:51: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 19:26:51: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 19:30:01: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 19:31:24: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Minh turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 19:35:16: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 19:42:27: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 19:50:42: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Rock turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 19:52:05: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 20:07:46: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 11/32)
+L 08/09/2025 - 20:08:31: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Arnold turned into a Zombie (Players: 11/32)
+L 08/09/2025 - 20:09:01: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 11/32)
+L 08/10/2025 - 08:16:36: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Zombie (Players: 9/32)
+L 08/10/2025 - 08:16:41: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 9/32)
+L 08/10/2025 - 08:17:59: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [P*D]Pseudolukian (100) turned into a Sniper (Playe
+L 08/10/2025 - 08:21:37: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 9/32)
+L 08/10/2025 - 08:57:26: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 9/32)
+L 08/10/2025 - 08:58:42: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 1/32)
+L 08/10/2025 - 08:58:58: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Jennifer_Anniston (100) turned into a Assassin
+L 08/10/2025 - 09:00:19: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - [POD]Jennifer_Anniston (100) turned into a Assassin
+L 08/10/2025 - 20:51:36: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Assassin (Players: 3/32)
+L 08/10/2025 - 20:52:12: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Sniper (Players: 3/32)
+L 08/10/2025 - 20:52:38: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Norm turned into a Zombie (Players: 3/32)
+L 08/10/2025 - 20:52:55: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Bill turned into a Zombie (Players: 3/32)
+L 08/10/2025 - 20:55:16: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 3/32)
+L 08/10/2025 - 20:56:15: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned into a Survivor (Players: 3/32)
+L 08/11/2025 - 08:07:19: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/11/2025 - 08:47:05: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/11/2025 - 08:52:33: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/11/2025 - 09:15:23: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/11/2025 - 09:33:44: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/11/2025 - 09:38:21: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Rock turned into a Zombie (Players: 11/32)
+L 08/11/2025 - 09:38:21: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/11/2025 - 10:04:24: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Ringo turned into a Assassin (Players: 11/32)
+L 08/11/2025 - 10:14:23: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Zed turned into a Assassin (Players: 11/32)
+L 08/11/2025 - 10:40:38: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)
+L 08/11/2025 - 10:53:55: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - Zed turned into a Zombie (Players: 11/32)
+L 08/11/2025 - 10:53:55: ADMIN ErenZP <STEAM_0:0:1776161912><loopback> - ErenZP turned back to Human (Players: 11/32)

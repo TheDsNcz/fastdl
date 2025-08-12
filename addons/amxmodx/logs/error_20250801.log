@@ -1,0 +1,59 @@
+L 08/01/2025 - 08:24:46: Start of error session.
+L 08/01/2025 - 08:24:46: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250801.log")
+L 08/01/2025 - 08:24:46: [AMXX] Run time error 4 (plugin "zp_mod_matador.amxx") - debug not enabled!
+L 08/01/2025 - 08:24:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/01/2025 - 08:24:46: [AMXX] Run time error 4 (plugin "zp_mod_matador.amxx") - debug not enabled!
+L 08/01/2025 - 08:24:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/01/2025 - 08:24:46: [AMXX] Run time error 4 (plugin "zp_mod_matador.amxx") - debug not enabled!
+L 08/01/2025 - 08:24:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/01/2025 - 08:24:46: [AMXX] Run time error 4 (plugin "zp_mod_matador.amxx") - debug not enabled!
+L 08/01/2025 - 08:24:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/01/2025 - 08:24:46: [AMXX] Run time error 4 (plugin "zp_mod_matador.amxx") - debug not enabled!
+L 08/01/2025 - 08:24:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/01/2025 - 08:24:46: [AMXX] Run time error 4 (plugin "zp_mod_matador.amxx") - debug not enabled!
+L 08/01/2025 - 08:24:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/01/2025 - 08:25:05: [AMXX] Run time error 4 (plugin "zp_mod_matador.amxx") - debug not enabled!
+L 08/01/2025 - 08:25:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/01/2025 - 08:25:05: [AMXX] Run time error 4 (plugin "zp_mod_matador.amxx") - debug not enabled!
+L 08/01/2025 - 08:25:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/01/2025 - 08:25:05: [AMXX] Run time error 4 (plugin "zp_mod_matador.amxx") - debug not enabled!
+L 08/01/2025 - 08:25:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/01/2025 - 08:25:05: [AMXX] Run time error 4 (plugin "zp_mod_matador.amxx") - debug not enabled!
+L 08/01/2025 - 08:25:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/01/2025 - 08:36:16: Start of error session.
+L 08/01/2025 - 08:36:16: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250801.log")
+L 08/01/2025 - 08:36:16: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/01/2025 - 08:36:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/01/2025 - 09:09:32: Start of error session.
+L 08/01/2025 - 09:09:32: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250801.log")
+L 08/01/2025 - 09:09:32: [ZP] Zombie class already registered (Iron Zombie)
+L 08/01/2025 - 09:09:32: [AMXX] Run time error 10 (plugin "zp_necronet_iron_zombie.amxx") (native "zp_register_zombie_class") - debug not enabled!
+L 08/01/2025 - 09:09:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/01/2025 - 09:29:48: Start of error session.
+L 08/01/2025 - 09:29:48: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250801.log")
+L 08/01/2025 - 09:29:48: Could not find function "message_showmenu"
+L 08/01/2025 - 09:29:48: [AMXX] Run time error 19 (plugin "zp_necronet_iron_zombie.amxx") - debug not enabled!
+L 08/01/2025 - 09:29:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/01/2025 - 12:22:03: Start of error session.
+L 08/01/2025 - 12:22:03: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250801.log")
+L 08/01/2025 - 12:22:03: Precaching not allowed
+L 08/01/2025 - 12:22:03: [AMXX] Run time error 10 (plugin "zp44_zombie_massacre_skill.amxx") (native "precache_model") - debug not enabled!
+L 08/01/2025 - 12:22:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/01/2025 - 12:26:13: Start of error session.
+L 08/01/2025 - 12:26:13: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250801.log")
+L 08/01/2025 - 12:26:13: Function is not present (function "dot_task") (plugin "zp44_zombie_massacre_skill.amxx")
+L 08/01/2025 - 12:26:13: [AMXX] Run time error 10 (plugin "zp44_zombie_massacre_skill.amxx") (native "set_task") - debug not enabled!
+L 08/01/2025 - 12:26:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/01/2025 - 12:41:56: Start of error session.
+L 08/01/2025 - 12:41:56: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250801.log")
+L 08/01/2025 - 12:41:56: Function is not present (function "grenade_loop") (plugin "zp44_zombie_massacre_skill.amxx")
+L 08/01/2025 - 12:41:56: [AMXX] Run time error 10 (plugin "zp44_zombie_massacre_skill.amxx") (native "set_task") - debug not enabled!
+L 08/01/2025 - 12:41:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/01/2025 - 12:42:25: Function is not present (function "grenade_loop") (plugin "zp44_zombie_massacre_skill.amxx")
+L 08/01/2025 - 12:42:25: [AMXX] Run time error 10 (plugin "zp44_zombie_massacre_skill.amxx") (native "set_task") - debug not enabled!
+L 08/01/2025 - 12:42:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/01/2025 - 12:50:22: Start of error session.
+L 08/01/2025 - 12:50:22: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250801.log")
+L 08/01/2025 - 12:50:22: Function is not present (function "grenade_loop") (plugin "zp44_zombie_massacre_skill.amxx")
+L 08/01/2025 - 12:50:22: [AMXX] Run time error 10 (plugin "zp44_zombie_massacre_skill.amxx") (native "set_task") - debug not enabled!
+L 08/01/2025 - 12:50:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

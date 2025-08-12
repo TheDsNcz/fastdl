@@ -1,0 +1,347 @@
+L 07/31/2025 - 09:46:15: Start of error session.
+L 07/31/2025 - 09:46:15: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 09:46:15: Function "event_round_start" was not found
+L 07/31/2025 - 09:46:15: [AMXX] Run time error 19 (plugin "zp44_dragon_gamemode.amxx") - debug not enabled!
+L 07/31/2025 - 09:46:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 09:48:56: Start of error session.
+L 07/31/2025 - 09:48:56: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 09:48:56: Function "event_round_start" was not found
+L 07/31/2025 - 09:48:56: [AMXX] Run time error 19 (plugin "zp44_dragon_gamemode.amxx") - debug not enabled!
+L 07/31/2025 - 09:48:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 09:50:59: Start of error session.
+L 07/31/2025 - 09:50:59: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 09:50:59: Function "event_round_start" was not found
+L 07/31/2025 - 09:50:59: [AMXX] Run time error 19 (plugin "zp44_dragon_gamemode.amxx") - debug not enabled!
+L 07/31/2025 - 09:50:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 09:54:13: Start of error session.
+L 07/31/2025 - 09:54:13: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 09:54:13: Function "event_round_start" was not found
+L 07/31/2025 - 09:54:13: [AMXX] Run time error 19 (plugin "zp44_dragon_gamemode.amxx") - debug not enabled!
+L 07/31/2025 - 09:54:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 09:57:04: Start of error session.
+L 07/31/2025 - 09:57:04: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 09:57:04: Function "event_round_start" was not found
+L 07/31/2025 - 09:57:04: [AMXX] Run time error 19 (plugin "zp44_dragon_gamemode.amxx") - debug not enabled!
+L 07/31/2025 - 09:57:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 10:01:36: Start of error session.
+L 07/31/2025 - 10:01:36: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 10:01:36: Function "event_round_start" was not found
+L 07/31/2025 - 10:01:36: [AMXX] Run time error 19 (plugin "zp44_dragon_gamemode.amxx") - debug not enabled!
+L 07/31/2025 - 10:01:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 10:04:17: Start of error session.
+L 07/31/2025 - 10:04:17: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 10:04:17: Function "event_round_start" was not found
+L 07/31/2025 - 10:04:17: [AMXX] Run time error 19 (plugin "zp44_dragon_gamemode.amxx") - debug not enabled!
+L 07/31/2025 - 10:04:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 10:11:08: Start of error session.
+L 07/31/2025 - 10:11:08: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 10:11:08: Function "event_round_start" was not found
+L 07/31/2025 - 10:11:08: [AMXX] Run time error 19 (plugin "zp44_dragon_gamemode.amxx") - debug not enabled!
+L 07/31/2025 - 10:11:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 10:13:12: Start of error session.
+L 07/31/2025 - 10:13:12: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 10:13:12: Function "event_round_start" was not found
+L 07/31/2025 - 10:13:12: [AMXX] Run time error 19 (plugin "zp44_dragon_gamemode.amxx") - debug not enabled!
+L 07/31/2025 - 10:13:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 11:05:49: Start of error session.
+L 07/31/2025 - 11:05:49: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 11:05:49: Function "dragon_roar" was not found
+L 07/31/2025 - 11:05:49: [AMXX] Run time error 19 (plugin "zp44_dragon_mod.amxx") - debug not enabled!
+L 07/31/2025 - 11:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 13:42:36: Start of error session.
+L 07/31/2025 - 13:42:36: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 13:42:36: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 13:42:36: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 13:42:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 13:42:45: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 13:42:45: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 13:42:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 13:42:55: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 13:42:55: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 13:42:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 13:44:17: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 13:44:17: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 13:44:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 13:56:17: Start of error session.
+L 07/31/2025 - 13:56:17: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 13:56:17: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 13:56:17: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 13:56:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 13:56:28: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 13:56:28: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 13:56:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 13:56:29: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 07/31/2025 - 13:56:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 13:56:43: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 13:56:43: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 13:56:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 13:57:48: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 13:57:48: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 13:57:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 13:57:57: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 13:57:57: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 13:57:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 13:58:05: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 07/31/2025 - 13:58:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:10:48: Start of error session.
+L 07/31/2025 - 14:10:48: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 14:10:48: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:10:48: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:10:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:15:45: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:15:45: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:15:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:15:49: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:15:49: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:15:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:21:59: Start of error session.
+L 07/31/2025 - 14:21:59: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 14:21:59: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:21:59: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:21:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:22:08: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 07/31/2025 - 14:22:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:22:27: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:22:27: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:22:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:22:42: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:22:42: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:22:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:23:16: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:23:16: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:23:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:23:23: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 07/31/2025 - 14:23:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:23:30: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:23:30: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:23:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:24:31: Start of error session.
+L 07/31/2025 - 14:24:31: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 14:24:31: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:24:31: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:24:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:24:39: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 07/31/2025 - 14:24:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:24:46: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:24:46: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:24:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:25:01: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:25:01: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:25:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:25:04: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:25:04: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:25:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:25:17: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:25:17: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:25:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:26:09: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:26:09: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:26:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:26:14: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:26:14: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:26:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:40:06: Start of error session.
+L 07/31/2025 - 14:40:06: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 14:40:06: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:40:06: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:40:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:40:14: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:40:14: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:40:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:40:20: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:40:20: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:40:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:40:22: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:40:22: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:40:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:40:30: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:40:30: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:40:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:40:40: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:40:40: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:40:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:40:49: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:40:49: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:40:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:40:55: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:40:55: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:40:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:40:58: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:40:58: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:40:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:41:00: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:41:00: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:41:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:41:02: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:41:02: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:41:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:41:04: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:41:04: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:41:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 14:41:11: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 14:41:11: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 14:41:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:08:35: Start of error session.
+L 07/31/2025 - 15:08:35: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 15:08:35: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:08:35: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:08:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:08:37: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:08:37: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:08:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:08:48: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:08:48: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:08:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:09:04: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:09:04: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:09:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:09:10: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:09:10: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:09:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:09:12: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:09:12: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:09:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:09:12: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:09:12: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:09:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:09:31: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:09:31: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:09:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:15:44: Start of error session.
+L 07/31/2025 - 15:15:44: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 15:15:44: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:15:44: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:15:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:15:49: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:15:49: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:15:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:16:00: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:16:00: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:16:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:16:11: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:16:11: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:16:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:16:21: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:16:21: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:16:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:16:32: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:16:32: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:16:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:17:05: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:17:05: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:17:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:17:10: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:17:10: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:17:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:17:29: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:17:29: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:17:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:17:45: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:17:45: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:17:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:17:46: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:17:46: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:17:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:18:06: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:18:06: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:18:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:22:56: Start of error session.
+L 07/31/2025 - 15:22:56: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 15:22:56: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:22:56: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:22:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:23:03: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:23:03: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:23:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:23:12: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:23:12: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:23:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:23:16: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:23:16: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:23:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 15:23:18: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 15:23:18: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 15:23:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:08: Start of error session.
+L 07/31/2025 - 22:13:08: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250731.log")
+L 07/31/2025 - 22:13:08: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:08: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:08: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:08: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:08: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:08: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:08: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:08: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:08: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:08: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:08: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:08: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:08: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:08: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:08: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:08: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:08: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:08: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:09: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:09: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:09: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:09: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:09: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:09: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:09: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:09: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:09: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:09: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:09: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:09: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:09: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:09: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:09: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:09: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:17: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 07/31/2025 - 22:13:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:18: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 07/31/2025 - 22:13:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:21: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:21: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:21: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:21: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:21: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:21: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:21: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:21: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:21: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:21: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:21: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:21: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:21: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:21: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:21: [CSTRIKE] Invalid weapon id 29
+L 07/31/2025 - 22:13:21: [AMXX] Run time error 10 (plugin "zp44_matador_mode.amxx") (native "cs_set_user_bpammo") - debug not enabled!
+L 07/31/2025 - 22:13:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/31/2025 - 22:13:32: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 07/31/2025 - 22:13:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

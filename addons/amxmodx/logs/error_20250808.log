@@ -1,0 +1,104 @@
+L 08/08/2025 - 07:28:08: Start of error session.
+L 08/08/2025 - 07:28:08: Info (map "zm_lila_panic") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 07:28:08: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/08/2025 - 07:29:34: Start of error session.
+L 08/08/2025 - 07:29:34: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 07:29:34: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/08/2025 - 07:35:38: Start of error session.
+L 08/08/2025 - 07:35:38: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 07:35:38: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/08/2025 - 07:48:35: Start of error session.
+L 08/08/2025 - 07:48:35: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 07:48:35: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/08/2025 - 07:54:50: Start of error session.
+L 08/08/2025 - 07:54:50: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 07:54:50: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/08/2025 - 07:58:15: Start of error session.
+L 08/08/2025 - 07:58:15: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 07:58:15: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/08/2025 - 08:01:17: Start of error session.
+L 08/08/2025 - 08:01:17: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 08:01:17: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/08/2025 - 08:11:52: Start of error session.
+L 08/08/2025 - 08:11:52: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 08:11:52: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/08/2025 - 08:23:53: Start of error session.
+L 08/08/2025 - 08:23:53: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 08:23:53: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/08/2025 - 08:31:25: Start of error session.
+L 08/08/2025 - 08:31:25: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 08:31:25: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/08/2025 - 08:35:29: Start of error session.
+L 08/08/2025 - 08:35:29: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 08:35:29: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/08/2025 - 08:36:25: Start of error session.
+L 08/08/2025 - 08:36:25: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 08:36:25: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/08/2025 - 08:40:54: Start of error session.
+L 08/08/2025 - 08:40:54: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 08:40:54: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/08/2025 - 08:41:10: Start of error session.
+L 08/08/2025 - 08:41:10: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 08:41:10: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/08/2025 - 08:47:21: Start of error session.
+L 08/08/2025 - 08:47:21: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 08:47:21: [AMXX] Load error 17 (invalid file format or version) (plugin "zp44_vip_skin_menu.amxx")
+L 08/08/2025 - 09:58:31: Start of error session.
+L 08/08/2025 - 09:58:31: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 09:58:31: Invalid CVAR pointer
+L 08/08/2025 - 09:58:31: [AMXX] Run time error 10 (plugin "zp_vip_skin_selector.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/08/2025 - 09:58:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/08/2025 - 10:01:09: Start of error session.
+L 08/08/2025 - 10:01:09: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 10:01:09: Invalid CVAR pointer
+L 08/08/2025 - 10:01:09: [AMXX] Run time error 10 (plugin "zp_vip_skin_selector.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/08/2025 - 10:01:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/08/2025 - 10:05:06: Start of error session.
+L 08/08/2025 - 10:05:06: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 10:05:06: Invalid CVAR pointer
+L 08/08/2025 - 10:05:06: [AMXX] Run time error 10 (plugin "zp_vip_skin_selector.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/08/2025 - 10:05:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/08/2025 - 10:21:39: Start of error session.
+L 08/08/2025 - 10:21:39: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 10:21:39: Invalid CVAR pointer
+L 08/08/2025 - 10:21:39: [AMXX] Run time error 10 (plugin "zp_vip_skin_selector.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/08/2025 - 10:21:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/08/2025 - 10:23:23: Start of error session.
+L 08/08/2025 - 10:23:23: Info (map "zm_gbox6") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 10:23:23: Invalid CVAR pointer
+L 08/08/2025 - 10:23:23: [AMXX] Run time error 10 (plugin "zp_vip_skin_selector.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/08/2025 - 10:23:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/08/2025 - 12:12:38: Start of error session.
+L 08/08/2025 - 12:12:38: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 12:12:38: Invalid CVAR pointer
+L 08/08/2025 - 12:12:38: [AMXX] Run time error 10 (plugin "zp_vip_skin_selector.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/08/2025 - 12:12:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/08/2025 - 12:15:27: Start of error session.
+L 08/08/2025 - 12:15:27: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 12:15:27: Invalid CVAR pointer
+L 08/08/2025 - 12:15:27: [AMXX] Run time error 10 (plugin "zp_vip_skin_selector.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/08/2025 - 12:15:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/08/2025 - 12:19:54: Start of error session.
+L 08/08/2025 - 12:19:54: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 12:19:54: Invalid CVAR pointer
+L 08/08/2025 - 12:19:54: [AMXX] Run time error 10 (plugin "zp_vip_skin_selector.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/08/2025 - 12:19:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/08/2025 - 13:46:40: Start of error session.
+L 08/08/2025 - 13:46:40: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 13:46:40: Invalid CVAR pointer
+L 08/08/2025 - 13:46:40: [AMXX] Run time error 10 (plugin "zp_vip_skin_selector.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/08/2025 - 13:46:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/08/2025 - 13:49:13: Start of error session.
+L 08/08/2025 - 13:49:13: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 13:49:13: Invalid CVAR pointer
+L 08/08/2025 - 13:49:13: [AMXX] Run time error 10 (plugin "zp_vip_skin_selector.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/08/2025 - 13:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/08/2025 - 13:58:17: Start of error session.
+L 08/08/2025 - 13:58:17: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 13:58:17: Invalid CVAR pointer
+L 08/08/2025 - 13:58:17: [AMXX] Run time error 10 (plugin "zp_vip_skin_selector.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/08/2025 - 13:58:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/08/2025 - 20:33:59: Start of error session.
+L 08/08/2025 - 20:33:59: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250808.log")
+L 08/08/2025 - 20:33:59: [AMXX] Run time error 4 (plugin "countdown.amxx") - debug not enabled!
+L 08/08/2025 - 20:33:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

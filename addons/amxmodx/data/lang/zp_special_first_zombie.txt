@@ -1,0 +1,13 @@
+[en]
+ZP_SFZ_PENDING = [NightMare Spider] In %d s... waiting for server countdown.
+ZP_SFZ_STARTED = [NightMare Spider] Mode activated! Zombies: 1-hit kill; Humans: 5 HP/0 armor.
+ZP_SFZ_ADMIN_ONLY = [ZP] Only admins can start the special mode.
+ZP_SFZ_ALREADY_ACTIVE = [ZP] Special mode already active.
+ZP_SFZ_ADMIN_START = [ZP] Admin triggered the mode: it will start at the end of the server countdown!
+
+[pt]
+ZP_SFZ_PENDING = [NightMare Spider] Em %d s... aguardando countdown do servidor.
+ZP_SFZ_STARTED = [NightMare Spider] Modo ativado! Zumbis: 1-hit kill; Humanos: 5 HP/0 armor.
+ZP_SFZ_ADMIN_ONLY = [ZP] Apenas administradores podem iniciar o modo especial.
+ZP_SFZ_ALREADY_ACTIVE = [ZP] O modo especial ja esta ativo.
+ZP_SFZ_ADMIN_START = [ZP] Admin ativou o modo: iniciará ao fim do countdown do servidor!

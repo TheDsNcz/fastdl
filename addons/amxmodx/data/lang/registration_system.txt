@@ -1,0 +1,347 @@
+[bp]
+
+REG_PREFIX = [Sistema de Registro]
+
+MENU_ACCOUNT_TITLE = Sistema de Registro
+MENU_ACCOUNT_NICK = Nick
+MENU_ACCOUNT_STATUS = Status
+MENU_ACCOUNT_INVITED = Convidado
+MENU_ACCOUNT_LOGGED = Logado
+MENU_ACCOUNT_REGISTERED = Registrado
+MENU_ACCOUNT_NOT_REGISTERED = Nao registrado
+
+MENU_ACCOUNT_00 = Entrar
+MENU_ACCOUNT_01 = Registrar
+MENU_ACCOUNT_02 = Trocar Senha
+MENU_ACCOUNT_03 = Excluir conta
+MENU_ACCOUNT_04 = Entrar como convidado
+MENU_ACCOUNT_EXIT = Sair
+
+MENU_ACCOUNT_CASE_00_A = Voce ja esta logado.
+MENU_ACCOUNT_CASE_00_B = Nick nao registrado.
+MENU_ACCOUNT_CASE_00_C = Digite sua senha.
+MENU_ACCOUNT_CASE_01_A = Nick ja esta registrado.
+MENU_ACCOUNT_CASE_01_B = Digite sua senha.
+MENU_ACCOUNT_CASE_02_A = Voce nao esta logado.
+MENU_ACCOUNT_CASE_02_B = Digite sua senha atual.
+MENU_ACCOUNT_CASE_03_A = Voce nao esta logado.
+MENU_ACCOUNT_CASE_03_B = Digite sua senha atual.
+MENU_ACCOUNT_CASE_03_C = Voce nao pode excluir sua conta.
+MENU_ACCOUNT_CASE_04_A = Jogadores registrados nao podem entrar como convidado.
+MENU_ACCOUNT_CASE_04_B = Voce ja entrou como convidado.
+MENU_ACCOUNT_CASE_04_C = Voce entrou como convidado.
+MENU_ACCOUNT_CASE_04_D = Modo convidado desativado.
+
+CMD_PASSWORD_00 = Use apenas numeros e letras.
+CMD_PASSWORD_01 = Sua senha deve conter no minimo %i caracteres.
+CMD_PASSWORD_02 = Sua senha deve conter no maximo %i Caracteres.
+CMD_PASSWORD_03 = Sua senha nao pode ser igual ao nick.
+CMD_PASSWORD_04 = Digite sua senha novamente.
+CMD_PASSWORD_05 = Essa ja e sua senha, digite outra.
+CMD_PASSWORD_06 = Digite sua senha novamente.
+CMD_PASSWORD_07 = Senha valida.
+
+CMD_PASSOWORD_AGAIN_00 = As senhas nao se coincidem.
+CMD_PASSOWORD_AGAIN_01 = Finalize o seu registro.
+CMD_PASSOWORD_AGAIN_02 = Finalize a troca de senha.
+
+CMD_PASSWORD_CURRENT_00 = Digite sua nova senha.
+
+MENU_END_REGISTER_TITLE = Finalizar Registro.
+MENU_END_REGISTER_NICK = Nick.
+MENU_END_REGISTER_PASSWORD = Sua senha sera.
+
+MENU_END_REGISTER_00 = Confirmar Senha.
+MENU_END_REGISTER_01 = Digitar outra senha.
+MENU_END_REGISTER_02 = Cancelar.
+
+MENU_END_REGISTER_CASE_00_A = Registro efetuado com sucesso.
+MENU_END_REGISTER_CASE_00_B_NICK = Nick
+MENU_END_REGISTER_CASE_00_B_PASSOWORD = Senha
+
+MENU_CHANGE_PASSWORD_TITLE = Trocar senha
+MENU_CHANGE_PASSWORD_NICK = Nick
+MENU_CHANGE_PASSWORD_PASSWORD = Sua senha sera
+
+MENU_CHANGE_PASSWORD_00 = Confirmar senha
+MENU_CHANGE_PASSWORD_01 = Digitar outra senha
+MENU_CHANGE_PASSWORD_02 = Cancelar
+
+MENU_CHANGE_PASSWORD_CASE_00_A = Voce trocou a sua senha.
+MENU_CHANGE_PASSWORD_CASE_00_B_PASSWORD = Nova senha
+
+MENU_DELETED_ACCOUNT_TITLE = Excluir sua conta?
+MENU_DELETED_ACCOUNT_00 = Sim
+MENU_DELETED_ACCOUNT_01 = Nao
+
+MENU_DELETED_ACCOUNT_CASE_00 = Voce excluiu sua conta
+
+WRONG_PASSWORD_00 = Banido por %d minutos por errar a senha muitas vezes.
+WRONG_PASSWORD_01 = Senha errada! Limite 
+
+LOGIN_TIME_00 = Nick:     *%s*
+LOGIN_TIME_01 = Acao:    *Desconectado*
+LOGIN_TIME_02 = Motivo:  *Nao logou no jogo*
+LOGIN_TIME_03 = Aviso:    *Voce tem %d.0 segundos para entrar*
+LOGIN_TIME_04 = Foi desconectado, por demorar para entrar.
+
+[en]
+
+REG_PREFIX = [Registration System]
+
+MENU_ACCOUNT_TITLE = Registration System
+MENU_ACCOUNT_NICK = Nick
+MENU_ACCOUNT_STATUS = Status
+MENU_ACCOUNT_INVITED = Invited
+MENU_ACCOUNT_LOGGED = Logged
+MENU_ACCOUNT_REGISTERED = Registered
+MENU_ACCOUNT_NOT_REGISTERED = Not registered
+
+MENU_ACCOUNT_00 = Login
+MENU_ACCOUNT_01 = Register
+MENU_ACCOUNT_02 = Change Password
+MENU_ACCOUNT_03 = Delete Account
+MENU_ACCOUNT_04 = Enter as a invited
+MENU_ACCOUNT_EXIT = Exit
+
+MENU_ACCOUNT_CASE_00_A = You is already logged in.
+MENU_ACCOUNT_CASE_00_B = Nick not registered.
+MENU_ACCOUNT_CASE_00_C = Enter your password.
+MENU_ACCOUNT_CASE_01_A = Nick is already registered.
+MENU_ACCOUNT_CASE_01_B = Enter your password.
+MENU_ACCOUNT_CASE_02_A = You are not logged in.
+MENU_ACCOUNT_CASE_02_B = Enter your current password.
+MENU_ACCOUNT_CASE_03_A = You are not logged in.
+MENU_ACCOUNT_CASE_03_B = Enter your current password
+MENU_ACCOUNT_CASE_03_C = You may not delete your account.
+MENU_ACCOUNT_CASE_04_A = Registered players can not enter as a invited.
+MENU_ACCOUNT_CASE_04_B = Have you ever entered as a invited.
+MENU_ACCOUNT_CASE_04_C = You entered as a invited.
+MENU_ACCOUNT_CASE_04_D = Guest mode is off.
+
+CMD_PASSWORD_00 = Use only numbers and letters.
+CMD_PASSWORD_01 = Your password must contain at least %i characters.
+CMD_PASSWORD_02 = Your password must contain at most %i characters.
+CMD_PASSWORD_03 = Your password can not be equal to the nick.
+CMD_PASSWORD_04 = Enter your password again.
+This CMD_PASSWORD_05 = ja and password, enter another.
+CMD_PASSWORD_06 = Enter your password again.
+CMD_PASSWORD_07 = Valid Password.
+
+CMD_PASSOWORD_AGAIN_00 = Passwords is not coincide.
+CMD_PASSOWORD_AGAIN_01 = Finalize your registration.
+CMD_PASSOWORD_AGAIN_02 = End the password change.
+
+CMD_PASSWORD_CURRENT_00 = Enter your new password.
+
+MENU_END_REGISTER_TITLE = Registration Finish
+MENU_END_REGISTER_NICK = Nick
+MENU_END_REGISTER_PASSWORD = Your password will be
+
+MENU_END_REGISTER_00 = Confirm Password
+MENU_END_REGISTER_01 = Enter another password
+MENU_END_REGISTER_02 = Cancel
+
+MENU_END_REGISTER_CASE_00_A = successfully performed registration.
+MENU_END_REGISTER_CASE_00_B_NICK = Nick
+MENU_END_REGISTER_CASE_00_B_PASSOWORD = Password
+
+MENU_CHANGE_PASSWORD_TITLE = Change Password
+MENU_CHANGE_PASSWORD_NICK = Nick
+MENU_CHANGE_PASSWORD_PASSWORD = Your password will be
+
+MENU_CHANGE_PASSWORD_00 = Confirm Password
+MENU_CHANGE_PASSWORD_01 = Enter another password
+MENU_CHANGE_PASSWORD_02 = Cancel
+
+MENU_CHANGE_PASSWORD_CASE_00_A = You changed your password.
+MENU_CHANGE_PASSWORD_CASE_00_B_PASSWORD = New Password
+
+MENU_DELETED_ACCOUNT_TITLE = Delete your account?
+MENU_DELETED_ACCOUNT_00 = Yes
+MENU_DELETED_ACCOUNT_01 = Not
+
+MENU_DELETED_ACCOUNT_CASE_00 = You deleted your account
+
+WRONG_PASSWORD_00 = Banned by %d minutes for the wrong password too many times.
+WRONG_PASSWORD_01 = Wrong password! limit
+
+LOGIN_TIME_00 = Nick: *%s *
+LOGIN_TIME_01 = Action: * ffline*
+LOGIN_TIME_02 = Reason: *Not logged in the game*
+LOGIN_TIME_03 = Warning: *You have %d.0 seconds to enter*
+LOGIN_TIME_04 = was disconnected for being slow to enter.
+
+[es]
+
+REG_PREFIX = [Sistema de Registro]
+
+MENU_ACCOUNT_TITLE = Sistema de Registro
+MENU_ACCOUNT_NICK = Tag
+MENU_ACCOUNT_STATUS = Estado
+MENU_ACCOUNT_INVITED = Invitado
+MENU_ACCOUNT_LOGGED = Logueado
+MENU_ACCOUNT_REGISTERED = Registrado
+MENU_ACCOUNT_NOT_REGISTERED = No Registrado
+
+MENU_ACCOUNT_00 = Logueo
+MENU_ACCOUNT_01 = Registro
+MENU_ACCOUNT_02 = Cambiar contrasenya
+MENU_ACCOUNT_03 = Borrar Cuenta
+MENU_ACCOUNT_04 = Mete a un invitado
+MENU_ACCOUNT_EXIT = Salir
+
+MENU_ACCOUNT_CASE_00_A = Ya estas logueado 
+MENU_ACCOUNT_CASE_00_B = Tag no registrado
+MENU_ACCOUNT_CASE_00_C = Ingresa tu contrasenya
+MENU_ACCOUNT_CASE_01_A = Tag ya registrado
+MENU_ACCOUNT_CASE_01_B = Ingresa tu contrasenya
+MENU_ACCOUNT_CASE_02_A = Tu no estas logueado
+MENU_ACCOUNT_CASE_02_B = Ingrese su contrasenya actual
+MENU_ACCOUNT_CASE_03_A = No te has identificado
+MENU_ACCOUNT_CASE_03_B = Ingresa tu contrasenya actual
+MENU_ACCOUNT_CASE_03_C = No se puede eliminar su cuenta.
+MENU_ACCOUNT_CASE_04_A = Jugadores registrados no pueden ser invitados
+MENU_ACCOUNT_CASE_04_B = Alguna vez ha entrado como invitado
+MENU_ACCOUNT_CASE_04_C = Ha entrado como un invitado
+MENU_ACCOUNT_CASE_04_D = Modo de invitados fuera.
+
+CMD_PASSWORD_00 = Solo numeros y letras puedes usar
+CMD_PASSWORD_01 = Su contrasenya debe contener al menos %i caracteres
+CMD_PASSWORD_02 = Su contrasenya debe contener como maximo %i caracteres
+CMD_PASSWORD_03 = Su contrasenya no puede ser igual al tag
+CMD_PASSWORD_04 = Ingrese su password de nuevo
+This CMD_PASSWORD_05 = ja and password, enter another. 
+CMD_PASSWORD_06 = Ingrese su password otra vez
+CMD_PASSWORD_07 = Contrasenya invalida
+
+CMD_PASSOWORD_AGAIN_00 = Las contrasenyas no coinciden
+CMD_PASSOWORD_AGAIN_01 = Finalice su registro
+CMD_PASSOWORD_AGAIN_02 = Terminar el cambio de contrasenya
+
+CMD_PASSWORD_CURRENT_00 = Ingrese su nueva contrasenya
+
+MENU_END_REGISTER_TITLE = Finalizar Registro
+MENU_END_REGISTER_NICK = Tag
+MENU_END_REGISTER_PASSWORD = Su contrasenya sera
+
+MENU_END_REGISTER_00 = Confirmar contrasenya
+MENU_END_REGISTER_01 = Ingrese otra contrasenya
+MENU_END_REGISTER_02 = Cancelar
+
+MENU_END_REGISTER_CASE_00_A = Registro realizado con exito!
+MENU_END_REGISTER_CASE_00_B_NICK = Tag
+MENU_END_REGISTER_CASE_00_B_PASSOWORD = Contrasenya
+
+MENU_CHANGE_PASSWORD_TITLE = Cambiar contrasenya
+MENU_CHANGE_PASSWORD_NICK = Tag
+MENU_CHANGE_PASSWORD_PASSWORD = Su contrasenya sera 
+
+MENU_CHANGE_PASSWORD_00 = Confirmar contrasenya
+MENU_CHANGE_PASSWORD_01 = Ingrese otra contrasenya
+MENU_CHANGE_PASSWORD_02 = Cancelar
+
+MENU_CHANGE_PASSWORD_CASE_00_A = Ha cambiado su contrasenya
+MENU_CHANGE_PASSWORD_CASE_00_B_PASSWORD = Nueva contrasenya
+
+MENU_DELETED_ACCOUNT_TITLE = Desea borrar su cuenta?
+MENU_DELETED_ACCOUNT_00 = Si
+MENU_DELETED_ACCOUNT_01 = No
+
+MENU_DELETED_ACCOUNT_CASE_00 = Tu has borrado tu cuenta
+
+WRONG_PASSWORD_00 = Baneado por %d minutos por ingresar una contrasenya invalida muchas veces.
+WRONG_PASSWORD_01 = Contrasenya incorrecta! limite
+
+LOGIN_TIME_00 = Tag: *%s *
+LOGIN_TIME_01 = Accion: * ffline*
+LOGIN_TIME_02 = Razon: *No loguearse dentro del juego*
+LOGIN_TIME_03 = PELIGRO: *Tienes %d.0 segundos para entrar*
+LOGIN_TIME_04 = Fue desconectado por tardar en ingresar
+
+[hu]
+
+REG_PREFIX = [Regisztrációs Rendszer]
+
+MENU_ACCOUNT_TITLE = Regisztrációs Rendszer
+MENU_ACCOUNT_NICK = Név
+MENU_ACCOUNT_STATUS = Státusz
+MENU_ACCOUNT_INVITED = Vendég
+MENU_ACCOUNT_LOGGED = Bejelentkezve
+MENU_ACCOUNT_REGISTERED = Regisztrált
+MENU_ACCOUNT_NOT_REGISTERED = Nem Regisztrált
+
+MENU_ACCOUNT_00 = Bejelentkezés
+MENU_ACCOUNT_01 = Regisztráció
+MENU_ACCOUNT_02 = Jelszó megváltoztatása
+MENU_ACCOUNT_03 = Felhasználó törlése
+MENU_ACCOUNT_04 = Belépés vendégként
+MENU_ACCOUNT_EXIT = Kilépés
+
+MENU_ACCOUNT_CASE_00_A = Te már be vagy jelentkezve.
+MENU_ACCOUNT_CASE_00_B = Ez a név nem regisztrált.
+MENU_ACCOUNT_CASE_00_C = Add meg a jelszavad.
+MENU_ACCOUNT_CASE_01_A = Ez a név már regisztrált.
+MENU_ACCOUNT_CASE_01_B = Add meg a jelszavad.
+MENU_ACCOUNT_CASE_02_A = Nem vagy bejelentkezve.
+MENU_ACCOUNT_CASE_02_B = Írd be a jelszavadat.
+MENU_ACCOUNT_CASE_03_A = Nem vagy bejelentkezve.
+MENU_ACCOUNT_CASE_03_B = Írd be a jelszavadat
+MENU_ACCOUNT_CASE_03_C = Nem törölheti fiókját.
+MENU_ACCOUNT_CASE_04_A = Regisztrált játékos nem tud vendégként belépni.
+MENU_ACCOUNT_CASE_04_B = Már valamikor léptél be vendégként.
+MENU_ACCOUNT_CASE_04_C = Vendégként léptél be.
+MENU_ACCOUNT_CASE_04_D = Off vendég módban.
+
+CMD_PASSWORD_00 = Csak betukek és számokat használhatsz.
+CMD_PASSWORD_01 = A jelszavadnak tartalmaznia kell minimum %i karaktert.
+CMD_PASSWORD_02 = A jelszavadnak tartalmaznia kell maximum %i karaktert.
+CMD_PASSWORD_03 = A jelszavad nem egyezhet a felhasználóneveddel.
+CMD_PASSWORD_04 = Add meg a jelszavad újra.
+CMD_PASSWORD_05 = ja és a jelszó, adj meg egy másikat.
+CMD_PASSWORD_06 = Add meg a jelszavad újra.
+CMD_PASSWORD_07 = Helyes jelszó.
+
+CMD_PASSOWORD_AGAIN_00 = A jelszavak nem egyeznek.
+CMD_PASSOWORD_AGAIN_01 = Véglegesítsd a regisztrációt.
+CMD_PASSOWORD_AGAIN_02 = A jelszavad megváltozott.
+
+CMD_PASSWORD_CURRENT_00 = Add meg az új jelszavad.
+
+MENU_END_REGISTER_TITLE = Regisztráció befejezve
+MENU_END_REGISTER_NICK = Név
+MENU_END_REGISTER_PASSWORD = A jelszód a következo lesz
+
+MENU_END_REGISTER_00 = Jelszó megerosítése
+MENU_END_REGISTER_01 = Adj meg más jelszót
+MENU_END_REGISTER_02 = Mégse
+
+MENU_END_REGISTER_CASE_00_A = sikeresen regisztrált.
+MENU_END_REGISTER_CASE_00_B_NICK = Név
+MENU_END_REGISTER_CASE_00_B_PASSOWORD = Jelszó
+
+MENU_CHANGE_PASSWORD_TITLE = Jelszó megváltoztatása
+MENU_CHANGE_PASSWORD_NICK = Név
+MENU_CHANGE_PASSWORD_PASSWORD = A jelszód a következo lesz
+
+MENU_CHANGE_PASSWORD_00 = Jelszó megerosítése
+MENU_CHANGE_PASSWORD_01 = Adj meg más jelszót
+MENU_CHANGE_PASSWORD_02 = Mégse
+
+MENU_CHANGE_PASSWORD_CASE_00_A = Megváltoztattad a jelszavadat.
+MENU_CHANGE_PASSWORD_CASE_00_B_PASSWORD = Új jelszó
+
+MENU_DELETED_ACCOUNT_TITLE = Törlöd a felhasználódat?
+MENU_DELETED_ACCOUNT_00 = Igen
+MENU_DELETED_ACCOUNT_01 = Nem
+
+MENU_DELETED_ACCOUNT_CASE_00 = Törölted a felhasználódat
+
+WRONG_PASSWORD_00 = Bannolva %d percre többszöri sikertelen belépés miatt.
+WRONG_PASSWORD_01 = Rossz jelszó! limit
+
+LOGIN_TIME_00 = Név: *%s *
+LOGIN_TIME_01 = Action: * ffline*
+LOGIN_TIME_02 = Ok: *Nem vagy bejelentkezve*
+LOGIN_TIME_03 = Figyelem: *%d másodperced van belépni*
+LOGIN_TIME_04 = lekapcsolódott lassú belépés miatt.

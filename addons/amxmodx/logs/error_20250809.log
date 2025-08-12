@@ -1,0 +1,179 @@
+L 08/09/2025 - 09:20:55: Start of error session.
+L 08/09/2025 - 09:20:55: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 09:20:55: Function "cmd_glow_menu" was not found
+L 08/09/2025 - 09:20:55: [AMXX] Run time error 19 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/09/2025 - 09:20:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:20:56: Invalid CVAR pointer
+L 08/09/2025 - 09:20:56: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 09:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:20:56: Invalid CVAR pointer
+L 08/09/2025 - 09:20:56: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 09:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:20:57: Invalid CVAR pointer
+L 08/09/2025 - 09:20:57: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_float") - debug not enabled!
+L 08/09/2025 - 09:20:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:20:59: Invalid CVAR pointer
+L 08/09/2025 - 09:20:59: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 09:20:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:20:59: Invalid CVAR pointer
+L 08/09/2025 - 09:20:59: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 09:20:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:20:59: Invalid CVAR pointer
+L 08/09/2025 - 09:20:59: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 09:20:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:21:00: Invalid CVAR pointer
+L 08/09/2025 - 09:21:00: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 09:21:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:21:00: Invalid CVAR pointer
+L 08/09/2025 - 09:21:00: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 09:21:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:21:00: Invalid CVAR pointer
+L 08/09/2025 - 09:21:00: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 09:21:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:21:01: Invalid CVAR pointer
+L 08/09/2025 - 09:21:01: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 09:21:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:21:01: Invalid CVAR pointer
+L 08/09/2025 - 09:21:01: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 09:21:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:21:01: Invalid CVAR pointer
+L 08/09/2025 - 09:21:01: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 09:21:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:21:02: Invalid CVAR pointer
+L 08/09/2025 - 09:21:02: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 09:21:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:21:16: Invalid CVAR pointer
+L 08/09/2025 - 09:21:16: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 09:21:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:21:18: Invalid CVAR pointer
+L 08/09/2025 - 09:21:18: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 09:21:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:21:22: Invalid CVAR pointer
+L 08/09/2025 - 09:21:22: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 09:21:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:22:38: Invalid CVAR pointer
+L 08/09/2025 - 09:22:38: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 09:22:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:22:52: Invalid CVAR pointer
+L 08/09/2025 - 09:22:52: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 09:22:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:24:04: Invalid CVAR pointer
+L 08/09/2025 - 09:24:04: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 09:24:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:24:28: Invalid CVAR pointer
+L 08/09/2025 - 09:24:28: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 09:24:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 09:24:28: [nVault] Invalid vault id: 0
+
+L 08/09/2025 - 09:24:28: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "nvault_close") - debug not enabled!
+L 08/09/2025 - 09:24:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 17:16:03: Start of error session.
+L 08/09/2025 - 17:16:03: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 17:16:03: Invalid CVAR pointer
+L 08/09/2025 - 17:16:03: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 17:16:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 18:08:52: Start of error session.
+L 08/09/2025 - 18:08:52: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 18:08:52: Invalid CVAR pointer
+L 08/09/2025 - 18:08:52: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 18:08:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 18:11:46: Start of error session.
+L 08/09/2025 - 18:11:46: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 18:11:46: Invalid CVAR pointer
+L 08/09/2025 - 18:11:46: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 18:11:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 18:27:54: Start of error session.
+L 08/09/2025 - 18:27:54: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 18:27:54: Invalid CVAR pointer
+L 08/09/2025 - 18:27:54: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 18:27:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 18:36:34: Start of error session.
+L 08/09/2025 - 18:36:34: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 18:36:34: Invalid CVAR pointer
+L 08/09/2025 - 18:36:34: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 18:36:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 18:39:16: Start of error session.
+L 08/09/2025 - 18:39:16: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 18:39:16: Invalid CVAR pointer
+L 08/09/2025 - 18:39:16: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 18:39:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 18:40:57: Start of error session.
+L 08/09/2025 - 18:40:57: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 18:40:57: Invalid CVAR pointer
+L 08/09/2025 - 18:40:57: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 18:40:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 18:51:12: Start of error session.
+L 08/09/2025 - 18:51:12: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 18:51:12: Invalid CVAR pointer
+L 08/09/2025 - 18:51:12: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 18:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 18:53:37: Start of error session.
+L 08/09/2025 - 18:53:37: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 18:53:37: Invalid CVAR pointer
+L 08/09/2025 - 18:53:37: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 18:53:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 19:21:37: Start of error session.
+L 08/09/2025 - 19:21:37: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 19:21:37: Invalid CVAR pointer
+L 08/09/2025 - 19:21:37: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 19:21:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 19:26:40: Start of error session.
+L 08/09/2025 - 19:26:40: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 19:26:40: Invalid CVAR pointer
+L 08/09/2025 - 19:26:40: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 19:26:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 19:29:51: Start of error session.
+L 08/09/2025 - 19:29:51: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 19:29:51: Invalid CVAR pointer
+L 08/09/2025 - 19:29:51: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 19:29:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 19:31:07: Start of error session.
+L 08/09/2025 - 19:31:07: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 19:31:07: Invalid CVAR pointer
+L 08/09/2025 - 19:31:07: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 19:31:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 19:35:06: Start of error session.
+L 08/09/2025 - 19:35:06: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 19:35:06: Invalid CVAR pointer
+L 08/09/2025 - 19:35:06: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 19:35:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 19:42:11: Start of error session.
+L 08/09/2025 - 19:42:11: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 19:42:11: Invalid CVAR pointer
+L 08/09/2025 - 19:42:11: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 19:42:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 19:50:30: Start of error session.
+L 08/09/2025 - 19:50:30: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 19:50:30: Invalid CVAR pointer
+L 08/09/2025 - 19:50:30: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 19:50:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 19:51:56: Start of error session.
+L 08/09/2025 - 19:51:56: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 19:51:56: Invalid CVAR pointer
+L 08/09/2025 - 19:51:56: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 19:51:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 20:05:13: Start of error session.
+L 08/09/2025 - 20:05:13: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 20:05:13: Invalid CVAR pointer
+L 08/09/2025 - 20:05:13: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 20:05:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 20:07:32: Start of error session.
+L 08/09/2025 - 20:07:32: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 20:07:32: Invalid CVAR pointer
+L 08/09/2025 - 20:07:32: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 20:07:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 20:08:52: Start of error session.
+L 08/09/2025 - 20:08:52: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 20:08:52: Invalid CVAR pointer
+L 08/09/2025 - 20:08:52: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 20:08:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 20:11:25: Start of error session.
+L 08/09/2025 - 20:11:25: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 20:11:25: Invalid CVAR pointer
+L 08/09/2025 - 20:11:25: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 20:11:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/09/2025 - 20:13:40: Start of error session.
+L 08/09/2025 - 20:13:40: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20250809.log")
+L 08/09/2025 - 20:13:40: Invalid CVAR pointer
+L 08/09/2025 - 20:13:40: [AMXX] Run time error 10 (plugin "zp_effects_fix_44.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/09/2025 - 20:13:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

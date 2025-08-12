@@ -1,0 +1,105 @@
+L 08/02/2025 - 08:26:57: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 08:26:58: [AMXX] Plugin "ze_class_healer.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 08/02/2025 - 08:26:58: [AMXX] Plugin "zp_zclass_siren.amxx" failed to load: Plugin uses an unknown function (name "zp_infect_user") - check your modules.ini.
+L 08/02/2025 - 08:26:58: [AMXX] Plugin "zp_class_iron.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 08/02/2025 - 08:26:58: [AMXX] Plugin "zp_assassin_darkness.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_assassin") - check your modules.ini.
+L 08/02/2025 - 08:26:58: [AMXX] Plugin "zp_mini_hud.amxx" failed to load: Plugin uses an unknown function (name "zp_is_plague_round") - check your modules.ini.
+L 08/02/2025 - 08:26:58: [AMXX] Plugin "zp_survivor_weapon_choice.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/02/2025 - 08:26:58: [AMXX] Plugin "zp_show_zombie_damage.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/02/2025 - 08:26:58: [AMXX] Plugin "zp_bloodshake_effect.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/02/2025 - 08:26:58: [AMXX] Plugin "plugin_bhop_duck_speed.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/02/2025 - 08:26:58: [AMXX] Plugin "zp_mod_matador.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 08/02/2025 - 08:26:58: [AMXX] Plugin "zp_addon_zbhealthbar.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/02/2025 - 08:26:58: [AMXX] Plugin "zp_paraquedas.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 08/02/2025 - 08:27:06: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 08:27:10: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 08:28:01: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 08:28:02: [admin.amxx] Login: "ErenZP<10><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 08:28:03: [admin.amxx] Login: "ErenZP<10><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 08:28:16: [zp_ammo_event.amxx] Ammo Pack Event started by ErenZP
+L 08/02/2025 - 08:29:16: [zp_ammo_event.amxx] Ammo Pack Event has ended
+L 08/02/2025 - 08:45:51: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 08:45:52: [admin.amxx] Login: "ErenZP<19><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 08:45:53: [admin.amxx] Login: "ErenZP<19><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 09:14:09: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 08/02/2025 - 09:14:26: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 08/02/2025 - 09:27:46: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 09:27:49: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 09:27:51: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 09:29:24: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 09:29:30: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 09:29:33: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 09:33:41: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 09:33:44: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 09:33:45: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 09:40:06: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 09:40:07: [admin.amxx] Login: "ErenZP<10><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 09:40:08: [admin.amxx] Login: "ErenZP<10><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 10:40:21: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 10:40:28: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 10:40:31: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 10:48:40: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 10:48:41: [admin.amxx] Login: "ErenZP<10><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 10:48:43: [admin.amxx] Login: "ErenZP<10><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 11:03:22: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 11:03:24: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 11:03:26: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 11:31:48: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 11:31:52: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 11:31:54: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 11:39:25: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 11:39:26: [admin.amxx] Login: "ErenZP<10><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 11:39:28: [admin.amxx] Login: "ErenZP<10><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 12:04:02: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 12:04:06: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 12:04:08: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 12:04:47: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 12:04:48: [admin.amxx] Login: "ErenZP<10><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 12:04:49: [admin.amxx] Login: "ErenZP<10><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 12:06:35: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 12:06:36: [admin.amxx] Login: "ErenZP<19><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 12:06:36: [admin.amxx] Login: "ErenZP<19><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 12:17:05: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 12:17:07: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 12:17:08: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 12:18:01: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 12:18:02: [admin.amxx] Login: "ErenZP<10><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 12:18:03: [admin.amxx] Login: "ErenZP<10><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 12:19:13: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 12:19:14: [admin.amxx] Login: "ErenZP<19><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 12:19:15: [admin.amxx] Login: "ErenZP<19><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 18:36:36: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 18:36:40: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 18:36:42: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 19:24:54: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 19:24:57: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 19:24:59: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 20:19:53: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 20:19:57: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 20:19:59: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 20:25:17: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 20:25:18: [admin.amxx] Login: "ErenZP<50><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 20:25:19: [admin.amxx] Login: "ErenZP<50><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 20:40:48: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 20:40:49: [admin.amxx] Login: "ErenZP<171><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 20:40:50: [admin.amxx] Login: "ErenZP<171><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 20:42:17: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 20:42:18: [admin.amxx] Login: "ErenZP<188><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 20:42:19: [admin.amxx] Login: "ErenZP<188><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 20:45:50: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 20:45:51: [admin.amxx] Login: "ErenZP<221><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 20:45:52: [admin.amxx] Login: "ErenZP<221><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 20:48:31: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 20:48:32: [admin.amxx] Login: "ErenZP<246><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 20:48:32: [admin.amxx] Login: "ErenZP<246><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 21:03:16: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 21:03:17: [admin.amxx] Login: "ErenZP<255><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 21:03:18: [admin.amxx] Login: "ErenZP<255><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 21:25:47: -------- Mapchange to zm_fortuna_v2 --------
+L 08/02/2025 - 21:25:49: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 21:25:50: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 21:54:04: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 08/02/2025 - 21:54:19: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 08/02/2025 - 21:56:13: -------- Mapchange to de_aztec --------
+L 08/02/2025 - 21:56:16: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 08/02/2025 - 21:56:18: [admin.amxx] Login: "ErenZP<1><STEAM_0:0:1776161912><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")

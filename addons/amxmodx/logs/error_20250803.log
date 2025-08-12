@@ -1,0 +1,611 @@
+L 08/03/2025 - 08:43:11: Start of error session.
+L 08/03/2025 - 08:43:11: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250803.log")
+L 08/03/2025 - 08:43:11: Invalid weapon id 0
+L 08/03/2025 - 08:43:11: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:43:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:43:13: Invalid weapon id 0
+L 08/03/2025 - 08:43:13: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:43:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:43:30: Invalid weapon id 0
+L 08/03/2025 - 08:43:30: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:43:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:43:34: Invalid weapon id 0
+L 08/03/2025 - 08:43:34: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:43:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:43:34: Invalid weapon id 0
+L 08/03/2025 - 08:43:34: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:43:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:43:38: Invalid weapon id 0
+L 08/03/2025 - 08:43:38: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:43:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:43:50: Invalid weapon id 0
+L 08/03/2025 - 08:43:50: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:43:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:44:13: Invalid weapon id 0
+L 08/03/2025 - 08:44:13: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:44:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:44:15: Invalid weapon id 0
+L 08/03/2025 - 08:44:15: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:44:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:44:19: Invalid weapon id 0
+L 08/03/2025 - 08:44:19: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:44:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:44:22: Invalid weapon id 0
+L 08/03/2025 - 08:44:22: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:44:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:44:23: Invalid weapon id 0
+L 08/03/2025 - 08:44:23: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:44:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:44:26: Invalid weapon id 0
+L 08/03/2025 - 08:44:26: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:44:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:44:26: Invalid weapon id 0
+L 08/03/2025 - 08:44:26: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:44:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:44:44: Invalid weapon id 0
+L 08/03/2025 - 08:44:44: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:44:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:44:46: Invalid weapon id 0
+L 08/03/2025 - 08:44:46: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:44:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:44:47: Invalid weapon id 0
+L 08/03/2025 - 08:44:47: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:44:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:44:47: Invalid weapon id 0
+L 08/03/2025 - 08:44:47: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:44:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:44:53: Invalid weapon id 0
+L 08/03/2025 - 08:44:53: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:44:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:45:01: Invalid weapon id 0
+L 08/03/2025 - 08:45:01: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:45:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:45:22: Invalid weapon id 0
+L 08/03/2025 - 08:45:22: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:45:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:45:39: Invalid weapon id 0
+L 08/03/2025 - 08:45:39: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:45:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:46:00: Invalid weapon id 0
+L 08/03/2025 - 08:46:00: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:46:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:46:05: Invalid weapon id 0
+L 08/03/2025 - 08:46:05: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:46:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:46:14: Invalid weapon id 0
+L 08/03/2025 - 08:46:14: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:46:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:46:25: Invalid weapon id 0
+L 08/03/2025 - 08:46:25: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:46:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:47:11: Invalid weapon id 0
+L 08/03/2025 - 08:47:11: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:47:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:47:13: Invalid weapon id 0
+L 08/03/2025 - 08:47:13: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:47:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:47:22: Invalid weapon id 0
+L 08/03/2025 - 08:47:22: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:47:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:47:43: Invalid weapon id 0
+L 08/03/2025 - 08:47:43: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:47:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:47:50: Invalid weapon id 0
+L 08/03/2025 - 08:47:50: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:47:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:47:51: Invalid weapon id 0
+L 08/03/2025 - 08:47:51: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:47:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:47:53: Invalid weapon id 0
+L 08/03/2025 - 08:47:53: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:47:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:47:55: Invalid weapon id 0
+L 08/03/2025 - 08:47:55: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:47:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:47:57: Invalid weapon id 0
+L 08/03/2025 - 08:47:57: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:47:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:48:02: Invalid weapon id 0
+L 08/03/2025 - 08:48:02: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:48:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:48:04: Invalid weapon id 0
+L 08/03/2025 - 08:48:04: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:48:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:48:32: Invalid weapon id 0
+L 08/03/2025 - 08:48:32: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:48:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:48:34: Invalid weapon id 0
+L 08/03/2025 - 08:48:34: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:48:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:48:35: Invalid weapon id 0
+L 08/03/2025 - 08:48:35: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:48:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:48:36: Invalid weapon id 0
+L 08/03/2025 - 08:48:36: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:48:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:48:44: Invalid weapon id 0
+L 08/03/2025 - 08:48:44: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:48:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:48:49: Invalid weapon id 0
+L 08/03/2025 - 08:48:49: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:48:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:49:06: Invalid weapon id 0
+L 08/03/2025 - 08:49:06: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:49:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:49:12: Invalid weapon id 0
+L 08/03/2025 - 08:49:12: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:49:17: Invalid weapon id 0
+L 08/03/2025 - 08:49:17: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:49:20: Invalid weapon id 0
+L 08/03/2025 - 08:49:20: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:49:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:49:21: Invalid weapon id 0
+L 08/03/2025 - 08:49:21: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:49:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:49:33: Invalid weapon id 0
+L 08/03/2025 - 08:49:33: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:49:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:49:35: Invalid weapon id 0
+L 08/03/2025 - 08:49:35: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:49:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:49:35: Invalid weapon id 0
+L 08/03/2025 - 08:49:35: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:49:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:49:53: Invalid weapon id 0
+L 08/03/2025 - 08:49:53: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:49:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:50:01: Invalid weapon id 0
+L 08/03/2025 - 08:50:01: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:50:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:50:02: Invalid weapon id 0
+L 08/03/2025 - 08:50:02: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:50:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:50:10: Invalid weapon id 0
+L 08/03/2025 - 08:50:10: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:50:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:50:16: Invalid weapon id 0
+L 08/03/2025 - 08:50:16: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:50:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:50:18: Invalid weapon id 0
+L 08/03/2025 - 08:50:18: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:50:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:53:05: Invalid weapon id 0
+L 08/03/2025 - 08:53:05: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:53:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:54:19: Invalid weapon id 0
+L 08/03/2025 - 08:54:19: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:54:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:54:43: Invalid weapon id 0
+L 08/03/2025 - 08:54:43: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:54:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:54:44: Invalid weapon id 0
+L 08/03/2025 - 08:54:44: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:54:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:54:47: Invalid weapon id 0
+L 08/03/2025 - 08:54:47: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:54:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:54:50: Invalid weapon id 0
+L 08/03/2025 - 08:54:50: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:54:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:54:55: Invalid weapon id 0
+L 08/03/2025 - 08:54:55: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:54:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:54:57: Invalid weapon id 0
+L 08/03/2025 - 08:54:57: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:54:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:55:01: Invalid weapon id 0
+L 08/03/2025 - 08:55:01: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:55:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:55:11: Invalid weapon id 0
+L 08/03/2025 - 08:55:11: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:55:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:55:35: Invalid weapon id 0
+L 08/03/2025 - 08:55:35: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:55:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:55:37: Invalid weapon id 0
+L 08/03/2025 - 08:55:37: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:55:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:55:40: Invalid weapon id 0
+L 08/03/2025 - 08:55:40: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:55:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:55:43: Invalid weapon id 0
+L 08/03/2025 - 08:55:43: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:55:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:55:47: Invalid weapon id 0
+L 08/03/2025 - 08:55:47: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:55:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 08:57:40: Invalid weapon id 0
+L 08/03/2025 - 08:57:40: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 08:57:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:01:50: Invalid weapon id 0
+L 08/03/2025 - 09:01:50: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:01:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:04:34: Invalid weapon id 0
+L 08/03/2025 - 09:04:34: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:04:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:04:34: Invalid weapon id 0
+L 08/03/2025 - 09:04:34: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:04:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:04:38: Invalid weapon id 0
+L 08/03/2025 - 09:04:38: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:04:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:04:39: Invalid weapon id 0
+L 08/03/2025 - 09:04:39: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:04:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:04:43: Invalid weapon id 0
+L 08/03/2025 - 09:04:43: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:04:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:05:42: Invalid weapon id 0
+L 08/03/2025 - 09:05:42: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:05:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:06:36: Invalid weapon id 0
+L 08/03/2025 - 09:06:36: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:06:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:06:36: Invalid weapon id 0
+L 08/03/2025 - 09:06:36: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:06:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:06:42: Invalid weapon id 0
+L 08/03/2025 - 09:06:42: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:06:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:07:09: Invalid weapon id 0
+L 08/03/2025 - 09:07:09: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:07:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:07:29: Invalid weapon id 0
+L 08/03/2025 - 09:07:29: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:07:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:09:34: Invalid weapon id 0
+L 08/03/2025 - 09:09:34: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:09:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:11:15: Invalid weapon id 0
+L 08/03/2025 - 09:11:15: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:11:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:13:12: Start of error session.
+L 08/03/2025 - 09:13:12: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250803.log")
+L 08/03/2025 - 09:13:12: Invalid weapon id 0
+L 08/03/2025 - 09:13:12: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:13:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:13:12: Invalid weapon id 0
+L 08/03/2025 - 09:13:12: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:13:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:13:13: Invalid weapon id 0
+L 08/03/2025 - 09:13:13: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:13:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:13:17: Invalid weapon id 0
+L 08/03/2025 - 09:13:17: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:13:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:13:20: Invalid weapon id 0
+L 08/03/2025 - 09:13:20: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:13:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:13:22: Invalid weapon id 0
+L 08/03/2025 - 09:13:22: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:13:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:13:23: Invalid weapon id 0
+L 08/03/2025 - 09:13:23: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:13:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:13:29: Invalid weapon id 0
+L 08/03/2025 - 09:13:29: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:13:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:14:18: Invalid weapon id 0
+L 08/03/2025 - 09:14:18: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:14:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:14:54: Invalid weapon id 0
+L 08/03/2025 - 09:14:54: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:14:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:15:30: Invalid weapon id 0
+L 08/03/2025 - 09:15:30: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:15:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:15:53: Invalid weapon id 0
+L 08/03/2025 - 09:15:53: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:15:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:15:55: Invalid weapon id 0
+L 08/03/2025 - 09:15:55: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:15:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:17:23: Start of error session.
+L 08/03/2025 - 09:17:23: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250803.log")
+L 08/03/2025 - 09:17:23: Invalid weapon id 0
+L 08/03/2025 - 09:17:23: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:17:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:19:22: Start of error session.
+L 08/03/2025 - 09:19:22: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250803.log")
+L 08/03/2025 - 09:19:22: Invalid weapon id 0
+L 08/03/2025 - 09:19:22: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:19:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:19:36: Invalid weapon id 0
+L 08/03/2025 - 09:19:36: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:19:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:19:42: Invalid weapon id 0
+L 08/03/2025 - 09:19:42: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:19:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:19:45: Invalid weapon id 0
+L 08/03/2025 - 09:19:45: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:19:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:19:53: Invalid weapon id 0
+L 08/03/2025 - 09:19:53: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:19:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:23:20: Start of error session.
+L 08/03/2025 - 09:23:20: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250803.log")
+L 08/03/2025 - 09:23:20: Invalid weapon id 0
+L 08/03/2025 - 09:23:20: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:23:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:23:23: Invalid weapon id 0
+L 08/03/2025 - 09:23:23: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:23:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:23:31: Invalid weapon id 0
+L 08/03/2025 - 09:23:31: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:23:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:23:38: Invalid weapon id 0
+L 08/03/2025 - 09:23:38: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:23:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:24:33: Invalid weapon id 0
+L 08/03/2025 - 09:24:33: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:24:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:26:10: Invalid weapon id 0
+L 08/03/2025 - 09:26:10: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:26:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:26:37: Invalid weapon id 0
+L 08/03/2025 - 09:26:37: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:26:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:55:51: Start of error session.
+L 08/03/2025 - 09:55:51: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250803.log")
+L 08/03/2025 - 09:55:51: Invalid weapon id 0
+L 08/03/2025 - 09:55:51: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:55:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:55:57: Invalid weapon id 0
+L 08/03/2025 - 09:55:57: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:55:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:56:02: Invalid weapon id 0
+L 08/03/2025 - 09:56:02: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:56:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:56:55: Start of error session.
+L 08/03/2025 - 09:56:55: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250803.log")
+L 08/03/2025 - 09:56:55: Invalid weapon id 0
+L 08/03/2025 - 09:56:55: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:56:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:56:57: Invalid weapon id 0
+L 08/03/2025 - 09:56:57: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:56:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:56:59: Invalid weapon id 0
+L 08/03/2025 - 09:56:59: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:56:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:57:01: Invalid weapon id 0
+L 08/03/2025 - 09:57:01: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:57:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:57:04: Invalid weapon id 0
+L 08/03/2025 - 09:57:04: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:57:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:57:07: Invalid weapon id 0
+L 08/03/2025 - 09:57:07: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:57:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:57:18: Invalid weapon id 0
+L 08/03/2025 - 09:57:18: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:57:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 09:57:46: Invalid weapon id 0
+L 08/03/2025 - 09:57:46: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 09:57:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:02:31: Invalid weapon id 0
+L 08/03/2025 - 10:02:31: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:02:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:02:36: Invalid weapon id 0
+L 08/03/2025 - 10:02:36: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:02:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:02:40: Invalid weapon id 0
+L 08/03/2025 - 10:02:40: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:02:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:03:26: Invalid weapon id 0
+L 08/03/2025 - 10:03:26: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:03:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:06:26: Invalid weapon id 0
+L 08/03/2025 - 10:06:26: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:06:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:06:42: Invalid weapon id 0
+L 08/03/2025 - 10:06:42: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:06:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:07:04: Invalid weapon id 0
+L 08/03/2025 - 10:07:04: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:07:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:07:25: Invalid weapon id 0
+L 08/03/2025 - 10:07:25: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:07:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:07:54: Invalid weapon id 0
+L 08/03/2025 - 10:07:54: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:07:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:07:55: Invalid weapon id 0
+L 08/03/2025 - 10:07:55: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:07:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:07:57: Invalid weapon id 0
+L 08/03/2025 - 10:07:57: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:07:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:08:08: Invalid weapon id 0
+L 08/03/2025 - 10:08:08: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:08:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:08:27: Invalid weapon id 0
+L 08/03/2025 - 10:08:27: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:08:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:08:31: Invalid weapon id 0
+L 08/03/2025 - 10:08:31: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:08:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:08:33: Invalid weapon id 0
+L 08/03/2025 - 10:08:33: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:08:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:09:01: Invalid weapon id 0
+L 08/03/2025 - 10:09:01: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:09:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:09:04: Invalid weapon id 0
+L 08/03/2025 - 10:09:04: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:09:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:09:11: Invalid weapon id 0
+L 08/03/2025 - 10:09:11: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:09:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:09:13: Invalid weapon id 0
+L 08/03/2025 - 10:09:13: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:09:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:14:39: Start of error session.
+L 08/03/2025 - 10:14:39: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250803.log")
+L 08/03/2025 - 10:14:39: Invalid weapon id 0
+L 08/03/2025 - 10:14:39: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:14:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:15:22: Invalid weapon id 0
+L 08/03/2025 - 10:15:22: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:15:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:15:35: Invalid weapon id 0
+L 08/03/2025 - 10:15:35: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:15:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:15:44: Invalid weapon id 0
+L 08/03/2025 - 10:15:44: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:15:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:15:50: Invalid weapon id 0
+L 08/03/2025 - 10:15:50: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:15:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:16:00: Invalid weapon id 0
+L 08/03/2025 - 10:16:00: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:16:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:16:17: Invalid weapon id 0
+L 08/03/2025 - 10:16:17: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:16:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:19:04: Invalid weapon id 0
+L 08/03/2025 - 10:19:04: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:19:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:20:08: Invalid weapon id 0
+L 08/03/2025 - 10:20:08: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:20:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:20:33: Invalid weapon id 0
+L 08/03/2025 - 10:20:33: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:20:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:23:09: Invalid weapon id 0
+L 08/03/2025 - 10:23:09: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:23:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:23:22: Invalid weapon id 0
+L 08/03/2025 - 10:23:22: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:23:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:23:30: Invalid weapon id 0
+L 08/03/2025 - 10:23:30: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:23:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:24:16: Invalid weapon id 0
+L 08/03/2025 - 10:24:16: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:24:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:24:19: Invalid weapon id 0
+L 08/03/2025 - 10:24:19: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:24:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:27:50: Invalid weapon id 0
+L 08/03/2025 - 10:27:50: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:27:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:27:54: Invalid weapon id 0
+L 08/03/2025 - 10:27:54: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:27:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:27:58: Invalid weapon id 0
+L 08/03/2025 - 10:27:58: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:27:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:28:32: Invalid weapon id 0
+L 08/03/2025 - 10:28:32: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:28:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:28:35: Invalid weapon id 0
+L 08/03/2025 - 10:28:35: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:28:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 10:29:06: Invalid weapon id 0
+L 08/03/2025 - 10:29:06: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_weaponname") - debug not enabled!
+L 08/03/2025 - 10:29:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:12:27: Start of error session.
+L 08/03/2025 - 18:12:27: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250803.log")
+L 08/03/2025 - 18:12:27: Function "cmd_show_glow_info" was not found
+L 08/03/2025 - 18:12:27: [AMXX] Run time error 19 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/03/2025 - 18:12:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:12:28: Invalid CVAR pointer
+L 08/03/2025 - 18:12:28: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:12:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:12:28: [nVault] Invalid vault id: 0
+
+L 08/03/2025 - 18:12:28: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "nvault_get") - debug not enabled!
+L 08/03/2025 - 18:12:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:12:34: Invalid CVAR pointer
+L 08/03/2025 - 18:12:34: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_float") - debug not enabled!
+L 08/03/2025 - 18:12:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:12:42: Invalid CVAR pointer
+L 08/03/2025 - 18:12:42: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:12:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:12:43: Invalid CVAR pointer
+L 08/03/2025 - 18:12:43: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:12:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:12:43: Invalid CVAR pointer
+L 08/03/2025 - 18:12:43: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:12:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:12:44: Invalid CVAR pointer
+L 08/03/2025 - 18:12:44: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:12:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:12:44: Invalid CVAR pointer
+L 08/03/2025 - 18:12:44: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:12:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:12:45: Invalid CVAR pointer
+L 08/03/2025 - 18:12:45: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:12:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:12:45: Invalid CVAR pointer
+L 08/03/2025 - 18:12:45: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:12:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:12:46: Invalid CVAR pointer
+L 08/03/2025 - 18:12:46: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:12:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:13:00: Invalid CVAR pointer
+L 08/03/2025 - 18:13:00: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:13:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:14:15: [nVault] Invalid vault id: 0
+
+L 08/03/2025 - 18:14:15: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "nvault_set") - debug not enabled!
+L 08/03/2025 - 18:14:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:14:15: [nVault] Invalid vault id: 0
+
+L 08/03/2025 - 18:14:15: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "nvault_close") - debug not enabled!
+L 08/03/2025 - 18:14:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:14:16: Start of error session.
+L 08/03/2025 - 18:14:16: Info (map "zm_fortuna_v2") (file "addons/amxmodx/logs/error_20250803.log")
+L 08/03/2025 - 18:14:16: Function "cmd_show_glow_info" was not found
+L 08/03/2025 - 18:14:16: [AMXX] Run time error 19 (plugin "zp_level_system.amxx") - debug not enabled!
+L 08/03/2025 - 18:14:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:14:17: Invalid CVAR pointer
+L 08/03/2025 - 18:14:17: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:14:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:14:17: [nVault] Invalid vault id: 0
+
+L 08/03/2025 - 18:14:17: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "nvault_get") - debug not enabled!
+L 08/03/2025 - 18:14:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:14:20: Invalid CVAR pointer
+L 08/03/2025 - 18:14:20: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_float") - debug not enabled!
+L 08/03/2025 - 18:14:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:14:28: Invalid CVAR pointer
+L 08/03/2025 - 18:14:28: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:14:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:14:28: Invalid CVAR pointer
+L 08/03/2025 - 18:14:28: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:14:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:14:29: Invalid CVAR pointer
+L 08/03/2025 - 18:14:29: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:14:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:14:29: Invalid CVAR pointer
+L 08/03/2025 - 18:14:29: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:14:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:14:30: Invalid CVAR pointer
+L 08/03/2025 - 18:14:30: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:14:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:14:30: Invalid CVAR pointer
+L 08/03/2025 - 18:14:30: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:14:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:14:31: Invalid CVAR pointer
+L 08/03/2025 - 18:14:31: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:14:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:14:31: Invalid CVAR pointer
+L 08/03/2025 - 18:14:31: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:14:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:14:45: Invalid CVAR pointer
+L 08/03/2025 - 18:14:45: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:14:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:14:52: Invalid CVAR pointer
+L 08/03/2025 - 18:14:52: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "get_pcvar_num") - debug not enabled!
+L 08/03/2025 - 18:14:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:14:57: [nVault] Invalid vault id: 0
+
+L 08/03/2025 - 18:14:57: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "nvault_set") - debug not enabled!
+L 08/03/2025 - 18:14:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/03/2025 - 18:14:57: [nVault] Invalid vault id: 0
+
+L 08/03/2025 - 18:14:57: [AMXX] Run time error 10 (plugin "zp_level_system.amxx") (native "nvault_close") - debug not enabled!
+L 08/03/2025 - 18:14:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
