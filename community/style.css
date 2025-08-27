@@ -1,0 +1,13 @@
+body {
+  background-color: #f5f7fa;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#posts-container .card {
+  margin-bottom: 1rem;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
