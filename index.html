@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CS 1.6 Plugin Community - Comunidade de Plugins</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <i class="fas fa-gamepad"></i>
+                <span>CS 1.6 Plugins</span>
+            </div>
+            <div class="nav-menu">
+                <a href="#home" class="nav-link active">Início</a>
+                <a href="#plugins" class="nav-link">Plugins</a>
+                <a href="#upload" class="nav-link">Enviar Plugin</a>
+                <a href="#about" class="nav-link">Sobre</a>
+            </div>
+            <div class="nav-search">
+                <input type="text" placeholder="Buscar plugins..." id="searchInput">
+                <i class="fas fa-search"></i>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <!-- Hero Section -->
+        <section id="home" class="hero">
+            <div class="hero-content">
+                <h1>Comunidade de Plugins CS 1.6</h1>
+                <p>Descubra, compartilhe e baixe os melhores plugins para Counter-Strike 1.6</p>
+                <div class="hero-stats">
+                    <div class="stat">
+                        <h3 id="totalPlugins">0</h3>
+                        <p>Plugins</p>
+                    </div>
+                    <div class="stat">
+                        <h3 id="totalDownloads">0</h3>
+                        <p>Downloads</p>
+                    </div>
+                    <div class="stat">
+                        <h3 id="totalUsers">0</h3>
+                        <p>Usuários</p>
+                    </div>
+                </div>
+                <button class="cta-button" onclick="scrollToSection('upload')">
+                    <i class="fas fa-upload"></i>
+                    Enviar Seu Plugin
+                </button>
+            </div>
+        </section>
+
+        <!-- Categories Section -->
+        <section class="categories">
+            <h2>Categorias Populares</h2>
+            <div class="category-grid">
+                <div class="category-card" data-category="admin">
+                    <i class="fas fa-shield-alt"></i>
+                    <h3>Admin Tools</h3>
+                    <p>Ferramentas de administração</p>
+                </div>
+                <div class="category-card" data-category="gameplay">
+                    <i class="fas fa-crosshairs"></i>
+                    <h3>Gameplay</h3>
+                    <p>Modificações de jogabilidade</p>
+                </div>
+                <div class="category-card" data-category="weapons">
+                    <i class="fas fa-bomb"></i>
+                    <h3>Armas</h3>
+                    <p>Novos sistemas de armas</p>
+                </div>
+                <div class="category-card" data-category="hud">
+                    <i class="fas fa-desktop"></i>
+                    <h3>HUD/Interface</h3>
+                    <p>Melhorias visuais</p>
+                </div>
+                <div class="category-card" data-category="maps">
+                    <i class="fas fa-map"></i>
+                    <h3>Mapas</h3>
+                    <p>Novos mapas e melhorias</p>
+                </div>
+                <div class="category-card" data-category="fun">
+                    <i class="fas fa-smile"></i>
+                    <h3>Diversão</h3>
+                    <p>Plugins para diversão</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Plugins Section -->
+        <section id="plugins" class="plugins-section">
+            <div class="section-header">
+                <h2>Plugins Recentes</h2>
+                <div class="filters">
+                    <select id="categoryFilter">
+                        <option value="">Todas as categorias</option>
+                        <option value="admin">Admin Tools</option>
+                        <option value="gameplay">Gameplay</option>
+                        <option value="weapons">Armas</option>
+                        <option value="hud">HUD/Interface</option>
+                        <option value="maps">Mapas</option>
+                        <option value="fun">Diversão</option>
+                    </select>
+                    <select id="sortFilter">
+                        <option value="newest">Mais recentes</option>
+                        <option value="popular">Mais populares</option>
+                        <option value="downloads">Mais baixados</option>
+                    </select>
+                </div>
+            </div>
+            <div class="plugins-grid" id="pluginsGrid">
+                <!-- Plugins will be loaded here dynamically -->
+            </div>
+        </section>
+
+        <!-- Upload Section -->
+        <section id="upload" class="upload-section">
+            <div class="upload-container">
+                <h2>Enviar Novo Plugin</h2>
+                <p>Compartilhe seu plugin com a comunidade</p>
+                
+                <form id="uploadForm" class="upload-form">
+                    <div class="form-group">
+                        <label for="pluginName">Nome do Plugin</label>
+                        <input type="text" id="pluginName" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="pluginAuthor">Autor</label>
+                        <input type="text" id="pluginAuthor" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="pluginCategory">Categoria</label>
+                        <select id="pluginCategory" required>
+                            <option value="">Selecione uma categoria</option>
+                            <option value="admin">Admin Tools</option>
+                            <option value="gameplay">Gameplay</option>
+                            <option value="weapons">Armas</option>
+                            <option value="hud">HUD/Interface</option>
+                            <option value="maps">Mapas</option>
+                            <option value="fun">Diversão</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="pluginDescription">Descrição</label>
+                        <textarea id="pluginDescription" rows="4" required></textarea>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="pluginTags">Tags (separadas por vírgula)</label>
+                        <input type="text" id="pluginTags" placeholder="exemplo: admin, kick, ban">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="pluginVersion">Versão</label>
+                        <input type="text" id="pluginVersion" placeholder="1.0.0" required>
+                    </div>
+                    
+                    <div class="form-group file-upload">
+                        <label for="pluginFile">Arquivo do Plugin (.amxx, .sma)</label>
+                        <div class="file-drop-zone" id="fileDropZone">
+                            <i class="fas fa-cloud-upload-alt"></i>
+                            <p>Arraste o arquivo aqui ou clique para selecionar</p>
+                            <input type="file" id="pluginFile" accept=".amxx,.sma,.zip,.rar" required>
+                        </div>
+                        <div id="filePreview" class="file-preview"></div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="pluginScreenshots">Screenshots (opcional)</label>
+                        <input type="file" id="pluginScreenshots" multiple accept="image/*">
+                    </div>
+                    
+                    <button type="submit" class="submit-btn">
+                        <i class="fas fa-upload"></i>
+                        Enviar Plugin
+                    </button>
+                </form>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="about-section">
+            <div class="about-content">
+                <h2>Sobre a Comunidade</h2>
+                <p>Esta é uma plataforma dedicada à comunidade de Counter-Strike 1.6, onde desenvolvedores e jogadores podem compartilhar, descobrir e baixar plugins que melhoram a experiência de jogo.</p>
+                
+                <div class="features">
+                    <div class="feature">
+                        <i class="fas fa-download"></i>
+                        <h3>Download Fácil</h3>
+                        <p>Baixe plugins com um clique</p>
+                    </div>
+                    <div class="feature">
+                        <i class="fas fa-search"></i>
+                        <h3>Busca Avançada</h3>
+                        <p>Encontre exatamente o que procura</p>
+                    </div>
+                    <div class="feature">
+                        <i class="fas fa-users"></i>
+                        <h3>Comunidade Ativa</h3>
+                        <p>Conecte-se com outros desenvolvedores</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>CS 1.6 Plugin Community</h3>
+                <p>A melhor plataforma para plugins do Counter-Strike 1.6</p>
+            </div>
+            <div class="footer-section">
+                <h4>Links Úteis</h4>
+                <ul>
+                    <li><a href="#plugins">Plugins</a></li>
+                    <li><a href="#upload">Enviar Plugin</a></li>
+                    <li><a href="#about">Sobre</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Contato</h4>
+                <p>Para suporte ou sugestões</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 CS 1.6 Plugin Community. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <!-- Modal para detalhes do plugin -->
+    <div id="pluginModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="modalContent"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
