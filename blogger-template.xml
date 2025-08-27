@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+    <meta content='IE=EmulateIE7' http-equiv='X-UA-Compatible'/>
+    <meta content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0' name='viewport'/>
+    
+    <b:include data='blog' name='all-head-content'/>
+    <title><data:blog.pageTitle/></title>
+    
+    <b:skin><![CDATA[
+/* CS 1.6 Plugin Community - Blogger Template */
+
+/* Reset e configurações globais */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+    min-height: 100vh;
+}
+
+/* Header/Navbar */
+.header-wrapper {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    padding: 1rem 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
+}
+
+.header-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+}
+
+.Header h1 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #2a5298;
+    margin: 0;
+}
+
+.Header h1:before {
+    content: '🎮 ';
+    margin-right: 0.5rem;
+}
+
+/* Navigation */
+.nav-menu {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+}
+
+.nav-menu li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    transition: color 0.3s;
+    position: relative;
+}
+
+.nav-menu li a:hover {
+    color: #2a5298;
+}
+
+/* Main Content */
+.content-wrapper {
+    margin-top: 100px;
+    min-height: calc(100vh - 100px);
+}
+
+/* Hero Section */
+.hero-section {
+    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+    color: white;
+    padding: 4rem 2rem;
+    text-align: center;
+    min-height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-content h2 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.hero-content p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    opacity: 0.9;
+}
+
+.hero-stats {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    margin: 2rem 0;
+}
+
+.stat h3 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.stat p {
+    opacity: 0.8;
+}
+
+.cta-button {
+    background: #ff6b35;
+    color: white;
+    border: none;
+    padding: 1rem 2rem;
+    font-size: 1.1rem;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 1rem;
+}
+
+.cta-button:hover {
+    background: #e55a2b;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(255, 107, 53, 0.4);
+    color: white;
+}
+
+/* Categories */
+.categories-section {
+    padding: 4rem 2rem;
+    background: white;
+}
+
+.categories-section h2 {
+    text-align: center;
+    margin-bottom: 3rem;
+    font-size: 2.5rem;
+    color: #333;
+}
+
+.category-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.category-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+    border: 2px solid transparent;
+}
+
+.category-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    border-color: #2a5298;
+}
+
+.category-card .icon {
+    font-size: 3rem;
+    color: #2a5298;
+    margin-bottom: 1rem;
+}
+
+/* Posts/Plugins */
+.main-wrapper {
+    padding: 2rem;
+    background: #f8f9fa;
+}
+
+.blog-posts {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 2rem;
+}
+
+.post {
+    background: white;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.post:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+.post-header {
+    padding: 1.5rem;
+    background: linear-gradient(135deg, #2a5298 0%, #1e3c72 100%);
+    color: white;
+}
+
+.post-title {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.post-title a {
+    color: white;
+    text-decoration: none;
+}
+
+.post-author {
+    opacity: 0.8;
+    font-size: 0.9rem;
+}
+
+.post-labels {
+    margin-top: 0.5rem;
+}
+
+.post-labels .label-size {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 0.25rem 0.75rem;
+    border-radius: 15px;
+    font-size: 0.8rem;
+    margin-right: 0.5rem;
+    text-decoration: none;
+    color: white;
+}
+
+.post-body {
+    padding: 1.5rem;
+}
+
+.post-snippet {
+    color: #666;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+}
+
+.post-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1.5rem;
+    background: #f8f9fa;
+    border-top: 1px solid #e0e0e0;
+}
+
+.post-timestamp {
+    color: #666;
+    font-size: 0.9rem;
+}
+
+.read-more {
+    background: #4caf50;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background 0.3s;
+}
+
+.read-more:hover {
+    background: #45a049;
+    color: white;
+}
+
+/* Sidebar */
+.sidebar-wrapper {
+    background: white;
+    margin: 2rem;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+}
+
+.sidebar .widget {
+    padding: 1.5rem;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.sidebar .widget:last-child {
+    border-bottom: none;
+}
+
+.sidebar h2 {
+    color: #2a5298;
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+}
+
+/* Search */
+.search-form {
+    position: relative;
+}
+
+.search-form input {
+    width: 100%;
+    padding: 0.75rem;
+    border: 2px solid #e0e0e0;
+    border-radius: 8px;
+    font-size: 1rem;
+}
+
+.search-form input:focus {
+    outline: none;
+    border-color: #2a5298;
+}
+
+/* Labels/Categories Widget */
+.label-size {
+    display: inline-block;
+    background: #e3f2fd;
+    color: #1976d2;
+    padding: 0.25rem 0.75rem;
+    border-radius: 12px;
+    font-size: 0.9rem;
+    margin: 0.25rem;
+    text-decoration: none;
+    transition: background 0.3s;
+}
+
+.label-size:hover {
+    background: #bbdefb;
+    color: #1976d2;
+}
+
+/* Footer */
+.footer-wrapper {
+    background: #1a1a1a;
+    color: white;
+    padding: 3rem 2rem 1rem;
+    margin-top: 2rem;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.footer-content h3 {
+    color: #2a5298;
+    margin-bottom: 1rem;
+}
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid #333;
+    color: #999;
+}
+
+/* Archive/Label Pages */
+.archive-title {
+    background: white;
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+}
+
+.archive-title h1 {
+    color: #2a5298;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Post Page */
+.post-page {
+    background: white;
+    margin: 2rem;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+}
+
+.post-page .post-header {
+    padding: 3rem 2rem 2rem;
+}
+
+.post-page .post-title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.post-page .post-body {
+    padding: 2rem;
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+
+/* Comments */
+.comments {
+    background: #f8f9fa;
+    padding: 2rem;
+    margin-top: 2rem;
+}
+
+.comments h4 {
+    color: #2a5298;
+    margin-bottom: 1rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .header-inner {
+        flex-direction: column;
+        gap: 1rem;
+    }
+    
+    .nav-menu {
+        flex-direction: column;
+        text-align: center;
+        gap: 1rem;
+    }
+    
+    .hero-content h2 {
+        font-size: 2rem;
+    }
+    
+    .hero-stats {
+        flex-direction: column;
+        gap: 1rem;
+    }
+    
+    .category-grid,
+    .blog-posts {
+        grid-template-columns: 1fr;
+    }
+    
+    .content-wrapper {
+        margin-top: 140px;
+    }
+    
+    .post-footer {
+        flex-direction: column;
+        gap: 1rem;
+        text-align: center;
+    }
+}
+
+/* Animation */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.post,
+.category-card {
+    animation: fadeInUp 0.6s ease-out;
+}
+
+/* Plugin Download Button Styles */
+.download-section {
+    background: #e3f2fd;
+    padding: 1.5rem;
+    margin: 1rem 0;
+    border-radius: 10px;
+    border-left: 4px solid #2a5298;
+}
+
+.download-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.plugin-info span {
+    display: inline-block;
+    margin-right: 1rem;
+    color: #666;
+    font-size: 0.9rem;
+}
+
+.download-btn {
+    background: #4caf50;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.3s;
+}
+
+.download-btn:hover {
+    background: #45a049;
+    color: white;
+}
+
+/* Plugin Rating */
+.plugin-rating {
+    color: #ff9800;
+    margin: 0.5rem 0;
+}
+
+/* Installation Guide */
+.install-guide {
+    background: #fff3e0;
+    padding: 1.5rem;
+    margin: 1rem 0;
+    border-radius: 10px;
+    border-left: 4px solid #ff9800;
+}
+
+.install-guide h4 {
+    color: #e65100;
+    margin-bottom: 1rem;
+}
+
+.install-guide ol {
+    padding-left: 1.5rem;
+}
+
+.install-guide li {
+    margin-bottom: 0.5rem;
+    line-height: 1.6;
+}
+
+/* Plugin Categories Colors */
+.category-admin { background: #f44336; }
+.category-gameplay { background: #4caf50; }
+.category-weapons { background: #ff9800; }
+.category-hud { background: #2196f3; }
+.category-maps { background: #9c27b0; }
+.category-fun { background: #ff5722; }
+
+]]></b:skin>
+
+    <style>
+    /* Additional inline styles for better Blogger compatibility */
+    .blog-header { display: none; }
+    .blog-title { display: none; }
+    </style>
+</head>
+
+<body>
+    <div class='header-wrapper'>
+        <div class='header-inner'>
+            <div class='Header section' id='header'>
+                <div class='widget Header' data-version='1' id='Header1'>
+                    <div id='header-inner'>
+                        <h1>CS 1.6 Plugin Community</h1>
+                    </div>
+                </div>
+            </div>
+            
+            <nav>
+                <ul class='nav-menu'>
+                    <li><a href='/' title='Início'>Início</a></li>
+                    <li><a href='/search/label/plugins' title='Plugins'>Plugins</a></li>
+                    <li><a href='/search/label/admin' title='Admin Tools'>Admin Tools</a></li>
+                    <li><a href='/search/label/gameplay' title='Gameplay'>Gameplay</a></li>
+                    <li><a href='/search/label/weapons' title='Armas'>Armas</a></li>
+                    <li><a href='/search/label/maps' title='Mapas'>Mapas</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+    <div class='content-wrapper'>
+        <b:if cond='data:blog.url == data:blog.homepageUrl'>
+            <!-- Hero Section - apenas na página inicial -->
+            <section class='hero-section'>
+                <div class='hero-content'>
+                    <h2>Comunidade de Plugins CS 1.6</h2>
+                    <p>Descubra, compartilhe e baixe os melhores plugins para Counter-Strike 1.6</p>
+                    <div class='hero-stats'>
+                        <div class='stat'>
+                            <h3 id='totalPlugins'>50+</h3>
+                            <p>Plugins</p>
+                        </div>
+                        <div class='stat'>
+                            <h3 id='totalDownloads'>10k+</h3>
+                            <p>Downloads</p>
+                        </div>
+                        <div class='stat'>
+                            <h3 id='totalUsers'>500+</h3>
+                            <p>Usuários</p>
+                        </div>
+                    </div>
+                    <a class='cta-button' href='/search/label/plugins'>🔍 Ver Todos os Plugins</a>
+                </div>
+            </section>
+
+            <!-- Categories Section -->
+            <section class='categories-section'>
+                <h2>Categorias Populares</h2>
+                <div class='category-grid'>
+                    <div class='category-card' onclick='window.location.href="/search/label/admin"'>
+                        <div class='icon'>🛡️</div>
+                        <h3>Admin Tools</h3>
+                        <p>Ferramentas de administração</p>
+                    </div>
+                    <div class='category-card' onclick='window.location.href="/search/label/gameplay"'>
+                        <div class='icon'>🎯</div>
+                        <h3>Gameplay</h3>
+                        <p>Modificações de jogabilidade</p>
+                    </div>
+                    <div class='category-card' onclick='window.location.href="/search/label/weapons"'>
+                        <div class='icon'>💣</div>
+                        <h3>Armas</h3>
+                        <p>Novos sistemas de armas</p>
+                    </div>
+                    <div class='category-card' onclick='window.location.href="/search/label/hud"'>
+                        <div class='icon'>🖥️</div>
+                        <h3>HUD/Interface</h3>
+                        <p>Melhorias visuais</p>
+                    </div>
+                    <div class='category-card' onclick='window.location.href="/search/label/maps"'>
+                        <div class='icon'>🗺️</div>
+                        <h3>Mapas</h3>
+                        <p>Novos mapas e melhorias</p>
+                    </div>
+                    <div class='category-card' onclick='window.location.href="/search/label/fun"'>
+                        <div class='icon'>😄</div>
+                        <h3>Diversão</h3>
+                        <p>Plugins para diversão</p>
+                    </div>
+                </div>
+            </section>
+        </b:if>
+
+        <div class='main-wrapper'>
+            <b:if cond='data:blog.pageType == "archive"'>
+                <div class='archive-title'>
+                    <h1><data:blog.pageName/></h1>
+                    <p>Plugins da categoria <data:blog.pageName/></p>
+                </div>
+            </b:if>
+            
+            <div class='blog-posts'>
+                <b:loop values='data:posts' var='post'>
+                    <div class='post'>
+                        <div class='post-header'>
+                            <h2 class='post-title'>
+                                <a expr:href='data:post.url'><data:post.title/></a>
+                            </h2>
+                            <div class='post-author'>
+                                por <data:post.author/>
+                            </div>
+                            <div class='post-labels'>
+                                <b:loop values='data:post.labels' var='label'>
+                                    <a class='label-size' expr:href='data:label.url' rel='tag'>
+                                        <data:label.name/>
+                                    </a>
+                                </b:loop>
+                            </div>
+                        </div>
+                        
+                        <div class='post-body'>
+                            <div class='post-snippet'>
+                                <b:if cond='data:post.snippet'>
+                                    <data:post.snippet/>
+                                <b:else/>
+                                    Plugin para Counter-Strike 1.6 - Confira os detalhes e faça o download!
+                                </b:if>
+                            </div>
+                        </div>
+                        
+                        <div class='post-footer'>
+                            <span class='post-timestamp'>
+                                📅 <data:post.timestamp/>
+                            </span>
+                            <a class='read-more' expr:href='data:post.url'>
+                                Ver Plugin ➤
+                            </a>
+                        </div>
+                    </div>
+                </b:loop>
+            </div>
+        </div>
+
+        <b:if cond='data:blog.pageType == "item"'>
+            <!-- Single Post Page -->
+            <div class='post-page'>
+                <b:loop values='data:posts' var='post'>
+                    <div class='post-header'>
+                        <h1 class='post-title'><data:post.title/></h1>
+                        <div class='post-author'>por <data:post.author/></div>
+                        <div class='post-labels'>
+                            <b:loop values='data:post.labels' var='label'>
+                                <a class='label-size' expr:href='data:label.url' rel='tag'>
+                                    <data:label.name/>
+                                </a>
+                            </b:loop>
+                        </div>
+                    </div>
+                    
+                    <div class='post-body'>
+                        <data:post.body/>
+                    </div>
+                </b:loop>
+            </div>
+        </b:if>
+    </div>
+
+    <!-- Sidebar -->
+    <div class='sidebar-wrapper'>
+        <b:section class='sidebar' id='sidebar' maxwidgets='1' showaddelement='yes'>
+            <b:widget id='HTML1' locked='false' title='Buscar Plugins' type='HTML' visible='true'>
+                <b:widget-settings>
+                    <b:widget-setting name='content'><![CDATA[
+                        <div class="search-form">
+                            <input type="text" placeholder="Buscar plugins..." onkeypress="if(event.keyCode==13) window.location.href='/search?q='+this.value">
+                        </div>
+                        <p style="margin-top: 1rem; color: #666; font-size: 0.9rem;">
+                            Digite o nome do plugin ou categoria e pressione Enter
+                        </p>
+                    ]]></b:widget-setting>
+                </b:widget-settings>
+            </b:widget>
+            
+            <b:widget id='Label1' locked='false' title='Categorias' type='Label' visible='true'>
+                <b:widget-settings>
+                    <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
+                    <b:widget-setting name='display'>CLOUD</b:widget-setting>
+                    <b:widget-setting name='selectedLabelsList'/>
+                    <b:widget-setting name='showType'>ALL</b:widget-setting>
+                    <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
+                </b:widget-settings>
+            </b:widget>
+            
+            <b:widget id='HTML2' locked='false' title='Como Enviar Plugin' type='HTML' visible='true'>
+                <b:widget-settings>
+                    <b:widget-setting name='content'><![CDATA[
+                        <div style="text-align: center;">
+                            <p>Quer compartilhar seu plugin?</p>
+                            <a href="mailto:admin@seublog.com?subject=Novo Plugin CS 1.6" 
+                               style="background: #ff6b35; color: white; padding: 0.75rem 1.5rem; 
+                                      border-radius: 8px; text-decoration: none; display: inline-block; 
+                                      margin-top: 1rem; font-weight: bold;">
+                                📧 Enviar Plugin
+                            </a>
+                            <p style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;">
+                                Envie por email com descrição e arquivo
+                            </p>
+                        </div>
+                    ]]></b:widget-setting>
+                </b:widget-settings>
+            </b:widget>
+            
+            <b:widget id='HTML3' locked='false' title='Estatísticas' type='HTML' visible='true'>
+                <b:widget-settings>
+                    <b:widget-setting name='content'><![CDATA[
+                        <div style="text-align: center;">
+                            <div style="margin-bottom: 1rem;">
+                                <h4 style="color: #2a5298; font-size: 1.5rem; margin-bottom: 0.25rem;">50+</h4>
+                                <p style="color: #666;">Plugins Disponíveis</p>
+                            </div>
+                            <div style="margin-bottom: 1rem;">
+                                <h4 style="color: #2a5298; font-size: 1.5rem; margin-bottom: 0.25rem;">10k+</h4>
+                                <p style="color: #666;">Downloads Realizados</p>
+                            </div>
+                            <div>
+                                <h4 style="color: #2a5298; font-size: 1.5rem; margin-bottom: 0.25rem;">500+</h4>
+                                <p style="color: #666;">Usuários Ativos</p>
+                            </div>
+                        </div>
+                    ]]></b:widget-setting>
+                </b:widget-settings>
+            </b:widget>
+        </b:section>
+    </div>
+
+    <!-- Footer -->
+    <div class='footer-wrapper'>
+        <div class='footer-content'>
+            <h3>CS 1.6 Plugin Community</h3>
+            <p>A melhor comunidade brasileira para plugins do Counter-Strike 1.6</p>
+            <p style="margin-top: 1rem;">
+                <a href="/search/label/plugins" style="color: #2a5298; text-decoration: none;">Ver Todos os Plugins</a> | 
+                <a href="mailto:admin@seublog.com" style="color: #2a5298; text-decoration: none;">Contato</a>
+            </p>
+        </div>
+        <div class='footer-bottom'>
+            <p>&copy; 2024 CS 1.6 Plugin Community. Todos os direitos reservados.</p>
+        </div>
+    </div>
+
+    <!-- Blogger Required Elements -->
+    <b:include data='blog' name='google-analytics'/>
+</body>
+</html>
